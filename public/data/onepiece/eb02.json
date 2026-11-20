@@ -1,0 +1,1652 @@
+{
+  "setId": "eb02Anime25th",
+  "setName": "EB-02: Anime 25th Collection",
+  "series": "Anime 25th Collection",
+  "jsonPath": "/data/onepiece/eb02.json",
+  "counts": {
+    "total": 86,
+    "Common": 29,
+    "Uncommon": 0,
+    "Rare": 21,
+    "SuperRare": 9,
+    "SecretRare": 0,
+    "Leader": 27,
+    "Special": 0
+  },
+  "cards": [
+    {
+      "cardNum": "EB01-001",
+      "name": "Kouzuki Oden",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Red/Green",
+      "cost": "4",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "Land of Wano/Kouzuki Clan",
+      "effect": "All of your {Land of Wano} type Character cards without a Counter have a +1000 Counter, according to the rules.[DON!! x1] [When Attacking] If you have a {Land of Wano} type Character with a cost of 5 or more, this Leader gains +1000 power until the start of your next turn.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB01-001_p2.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB01-001_p2.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB01/EB01-001_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB01-021",
+      "name": "Hannyabal",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Blue/Purple",
+      "cost": "4",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "Impel Down",
+      "effect": "[End of Your Turn] You may return 1 of your {Impel Down} type Characters with a cost of 2 or more to the owner's hand: Add up to 1 DON!! card from your DON!! deck and set it as active.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB01-021_p2.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB01-021_p2.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB01/EB01-021_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB01-040",
+      "name": "Kyros",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Black/Yellow",
+      "cost": "4",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "Dressrosa",
+      "effect": "[Activate: Main] [Once Per Turn] You may turn 1 card from the top of your Life cards face-up: K.O. up to 1 of your opponent's Characters with a cost of 0.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB01-040_p2.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB01-040_p2.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB01/EB01-040_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB02-001",
+      "name": "Karoo",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "5",
+      "power": "7000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Animal/Alabasta",
+      "effect": "-",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB02-001.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB02-001.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB02/EB02-001_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB02-002",
+      "name": "Sabo",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "4",
+      "power": "5000",
+      "counter": "2000",
+      "attribute": "Special",
+      "type": "Dressrosa/Revolutionary Army",
+      "effect": "[Activate: Main] You may rest this Character: Up to 1 of your {Revolutionary Army} type Characters other than [Sabo] gains +2000 power during this turn.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB02-002.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB02-002.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB02/EB02-002_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB02-003",
+      "name": "Tony Tony.Chopper",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "3",
+      "power": "3000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Animal/Drum Kingdom/Straw Hat Crew",
+      "effect": "[DON!! x2] [Opponent's Turn] This Character gains +2000 power.[On Play] If your Leader has the {Straw Hat Crew} type, give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB02-003.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB02-003.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB02/EB02-003_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB02-004",
+      "name": "Don Accino",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "8",
+      "power": "10000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Accino Family",
+      "effect": "-",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB02-004.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB02-004.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB02/EB02-004_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB02-005",
+      "name": "Fake Straw Hat Crew",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "2",
+      "power": "3000",
+      "counter": "-",
+      "attribute": "Ranged",
+      "type": "Fake Straw Hat Crew",
+      "effect": "[Your Turn] This Character gains +2000 power.[Opponent's Turn] Give this Character −2000 power.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB02-005.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB02-005.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB02/EB02-005_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB02-006",
+      "name": "Yamato",
+      "rarity": "SR",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "6",
+      "power": "7000",
+      "counter": "-",
+      "attribute": "Strike",
+      "type": "Land of Wano",
+      "effect": "[Activate: Main] [Once Per Turn] If your Leader has the {Land of Wano} type or is [Portgas.D.Ace], give up to 1 rested DON!! card to 1 of your Leader. Then, this Character gains [Rush] during this turn.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB02-006.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB02-006.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB02/EB02-006_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB02-007",
+      "name": "Cloven Rose Blizzard",
+      "rarity": "C",
+      "cardType": "EVENT",
+      "color": "Red",
+      "cost": "3",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Animal/Water Seven/Straw Hat Crew",
+      "effect": "[Main] Up to a total of 3 of your Leader and Character cards gain +1000 power during this turn. Then, K.O. up to 1 of your opponent's Characters with 3000 power or less.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB02-007.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB02-007.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB02/EB02-007_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB02-008",
+      "name": "The Peak",
+      "rarity": "R",
+      "cardType": "EVENT",
+      "color": "Red",
+      "cost": "2",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Music",
+      "effect": "[Main] Look at 4 cards from the top of your deck; reveal up to 1 card with a cost of 4 or more and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB02-008.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB02-008.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB02/EB02-008_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB02-009",
+      "name": "Thousand Sunny",
+      "rarity": "C",
+      "cardType": "STAGE",
+      "color": "Red",
+      "cost": "2",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Straw Hat Crew",
+      "effect": "[Activate: Main] You may rest this Stage: Give up to 1 of your currently given DON!! cards to 1 of your {Straw Hat Crew} type Characters.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB02-009.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB02-009.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB02/EB02-009_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB02-010",
+      "name": "Monkey.D.Luffy",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Green/Purple",
+      "cost": "4",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Strike",
+      "type": "Straw Hat Crew",
+      "effect": "[Activate: Main] [Once Per Turn] DON!! −2: If the only Characters on your field are {Straw Hat Crew} type Characters, set up to 2 of your DON!! cards as active. Then, this Leader gains +1000 power until the end of your opponent's next turn.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB02-010.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB02-010.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB02/EB02-010_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB02-011",
+      "name": "Arlong",
+      "rarity": "SR",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "3",
+      "power": "4000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Fish-Man/East Blue/Arlong Pirates",
+      "effect": "[On Play] If your Leader has the {Fish-Man} or {East Blue} type, give up to 1 rested DON!! card to 1 of your Leader. Then, up to 1 of your opponent's Characters with a cost of 5 or less cannot be rested until the end of your opponent's next turn.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB02-011.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB02-011.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB02/EB02-011_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB02-012",
+      "name": "Gaimon",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "1",
+      "power": "1000",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "East Blue",
+      "effect": "If you have a [Sarfunkel], this Character gains [Blocker].",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB02-012.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB02-012.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB02/EB02-012_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB02-013",
+      "name": "Carrot",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "1",
+      "power": "-",
+      "counter": "2000",
+      "attribute": "Special",
+      "type": "Minks",
+      "effect": "[On Play] If you have 3 or more DON!! cards on your field, look at 7 cards from the top of your deck; reveal up to 1 [Zou] and add it to your hand. Then, place the rest at the bottom of your deck in any order and play up to 1 [Zou] from your hand.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB02-013.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB02-013.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB02/EB02-013_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB02-014",
+      "name": "Sarfunkel",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "2",
+      "power": "-",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "East Blue",
+      "effect": "[On Play] Play up to 1 [Gaimon] from your hand.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB02-014.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB02-014.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB02/EB02-014_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB02-015",
+      "name": "Jewelry Bonney",
+      "rarity": "SR",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "7",
+      "power": "7000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Supernovas/Bonney Pirates",
+      "effect": "[On Play] Up to 1 of your opponent's rested Characters will not become active in your opponent's next Refresh Phase. Then, set up to 1 of your DON!! cards as active at the end of this turn.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB02-015.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB02-015.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB02/EB02-015_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB02-016",
+      "name": "Chopperman",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "5",
+      "power": "6000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Animal/Straw Hat Crew",
+      "effect": "Also treat this card's name as [Tony Tony.Chopper] according to the rules.[On Play] Play up to 1 {Animal} type Character card with a cost of 3 or less from your hand.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB02-016.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB02-016.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB02/EB02-016_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB02-017",
+      "name": "Nami",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "1",
+      "power": "2000",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "East Blue/Straw Hat Crew",
+      "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Straw Hat Crew} type card other than [Nami] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB02-017.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB02-017.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB02/EB02-017_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB02-018",
+      "name": "Buggy",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "4",
+      "power": "6000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "East Blue/Buggy Pirates",
+      "effect": "[On Play] If you have no other [Buggy] Characters, up to 1 of your Leader gains [Double Attack] during this turn.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB02-018.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB02-018.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB02/EB02-018_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB02-019",
+      "name": "Roronoa Zoro",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "4",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "East Blue/Straw Hat Crew",
+      "effect": "If your opponent has 2 or more Characters, this Character can attack Characters on the turn in which it is played.[On Play] If your Leader has the {Straw Hat Crew} type, rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB02-019.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB02-019.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB02/EB02-019_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB02-020",
+      "name": "We Are!",
+      "rarity": "R",
+      "cardType": "EVENT",
+      "color": "Green",
+      "cost": "2",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Music",
+      "effect": "[Main] Look at 4 cards from the top of your deck; reveal up to 1 card with a cost of 4 or more and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB02-020.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB02-020.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB02/EB02-020_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB02-021",
+      "name": "Gum-Gum Giant Pistol",
+      "rarity": "C",
+      "cardType": "EVENT",
+      "color": "Green",
+      "cost": "3",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Water Seven/Straw Hat Crew",
+      "effect": "[Main] Up to 1 of your {Straw Hat Crew} type Characters gains +6000 power during this turn. Then, the selected Character will not become active in your next Refresh Phase.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB02-021.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB02-021.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB02/EB02-021_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB02-022",
+      "name": "Usopp",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "4",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Ranged",
+      "type": "East Blue/Straw Hat Crew",
+      "effect": "[On Play] If you have 2 or less Characters with 5000 power or more, play up to 1 Character card with 6000 power or less and no base effect from your hand.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB02-022.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB02-022.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB02/EB02-022_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB02-023",
+      "name": "Crocodile",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "4",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "The Seven Warlords of the Sea/Baroque Works",
+      "effect": "[Your Turn] [Once Per Turn] When your opponent's Character is returned to the owner's hand by your effect, look at 3 cards from the top of your deck and place them at the top or bottom of the deck in any order.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB02-023.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB02-023.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB02/EB02-023_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB02-024",
+      "name": "Sogeking",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "4",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Ranged",
+      "type": "Sniper Island",
+      "effect": "Also treat this card's name as [Usopp] according to the rules.[On Play] Draw 2 cards and place 2 cards from your hand at the bottom of your deck in any order. Then, return up to 1 Character with a cost of 1 or less to the owner's hand.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB02-024.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB02-024.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB02/EB02-024_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB02-025",
+      "name": "Donquixote Rosinante",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "2",
+      "power": "3000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Navy/Donquixote Pirates",
+      "effect": "[Activate: Main] You may rest 1 of your DON!! cards and this Character: If your Leader is [Donquixote Rosinante], look at 5 cards from the top of your deck; play up to 1 Character card with a cost of 2 or less rested. Then, place the rest at the bottom of your deck in any order.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB02-025.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB02-025.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB02/EB02-025_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB02-026",
+      "name": "Nefeltari Vivi",
+      "rarity": "SR",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "3",
+      "power": "2000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Alabasta",
+      "effect": "[On Play] If your Leader is multicolored and you have 5 or less cards in your hand, draw 2 cards.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB02-026.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB02-026.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB02/EB02-026_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB02-027",
+      "name": "Vista",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "4",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Whitebeard Pirates",
+      "effect": "[On Play] Place up to 1 of your opponent's Characters with 1000 power or less at the bottom of the owner's deck.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB02-027.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB02-027.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB02/EB02-027_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB02-028",
+      "name": "Portgas.D.Ace",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "5",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Alabasta/Whitebeard Pirates",
+      "effect": "[On Play] If your Leader's type includes \"Whitebeard Pirates\", look at 5 cards from the top of your deck; reveal up to 1 Character card with a cost of 2 and add it to your hand. Then, place the rest at the bottom of your deck in any order and play up to 1 Character card with a cost of 2 from your hand rested.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB02-028.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB02-028.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB02/EB02-028_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB02-029",
+      "name": "Grandpa Ryu",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "3",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "Animal/East Blue",
+      "effect": "-",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB02-029.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB02-029.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB02/EB02-029_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB02-030",
+      "name": "And That's When Somebody Makes Fun of Their Friend's Dream!!!!",
+      "rarity": "C",
+      "cardType": "EVENT",
+      "color": "Blue",
+      "cost": "2",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Alabasta/Straw Hat Crew",
+      "effect": "[Counter] If any of your Characters would be K.O.'d in battle during this turn, you may trash 1 card from your hand instead.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB02-030.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB02-030.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB02/EB02-030_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB02-031",
+      "name": "Hope",
+      "rarity": "R",
+      "cardType": "EVENT",
+      "color": "Blue",
+      "cost": "2",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Music",
+      "effect": "[Main] Look at 4 cards from the top of your deck; reveal up to 1 card with a cost of 4 or more and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB02-031.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB02-031.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB02/EB02-031_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB02-032",
+      "name": "Iceburg",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "1",
+      "power": "-",
+      "counter": "2000",
+      "attribute": "Wisdom",
+      "type": "Water Seven/Galley-La Company",
+      "effect": "[On Play] If you have 3 or more DON!! cards on your field, look at 7 cards from the top of your deck; reveal up to 1 [Galley-La Company] and add it to your hand. Then, place the rest at the bottom of your deck in any order and play up to 1 [Galley-La Company] from your hand.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB02-032.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB02-032.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB02/EB02-032_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB02-033",
+      "name": "Klabautermann",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "1",
+      "power": "-",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "Sprite",
+      "effect": "If you have [Merry Go] on your field, this Character gains [Blocker].",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB02-033.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB02-033.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB02/EB02-033_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB02-034",
+      "name": "Komei",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "4",
+      "power": "6000",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "Navy/Foxy Pirates",
+      "effect": "-",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB02-034.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB02-034.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB02/EB02-034_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB02-035",
+      "name": "Sanji & Pudding",
+      "rarity": "SR",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "5",
+      "power": "7000",
+      "counter": "-",
+      "attribute": "Strike/Wisdom",
+      "type": "Big Mom Pirates/Straw Hat Crew",
+      "effect": "[Your Turn] [Once Per Turn] When 2 or more DON!! cards on your field are returned to your DON!! deck, add up to 1 DON!! card from your DON!! deck and set it as active.[On Play] If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, draw 1 card.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB02-035.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB02-035.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB02/EB02-035_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB02-036",
+      "name": "Nico Robin",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "3",
+      "power": "2000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Straw Hat Crew",
+      "effect": "[Blocker][On K.O.] DON!! −1: Look at 3 cards from the top of your deck; reveal up to 1 {Straw Hat Crew} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB02-036.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB02-036.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB02/EB02-036_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB02-037",
+      "name": "Franky",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "3",
+      "power": "4000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Water Seven/Straw Hat Crew",
+      "effect": "[On Play]/[When Attacking] If your Leader has the {Straw Hat Crew} type and the number of DON!! cards on your field is equal to or less than the number on your opponent's field, add up to 1 DON!! card from your DON!! deck and rest it.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB02-037.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB02-037.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB02/EB02-037_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB02-038",
+      "name": "Magellan",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "3",
+      "power": "4000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Impel Down",
+      "effect": "[On Play] Play up to 1 {Impel Down} type Character card with a cost of 2 or less from your hand.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB02-038.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB02-038.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB02/EB02-038_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB02-039",
+      "name": "GERMA 66",
+      "rarity": "C",
+      "cardType": "EVENT",
+      "color": "Purple",
+      "cost": "4",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "The Vinsmoke Family/GERMA 66",
+      "effect": "[Main] You may trash 1 {GERMA 66} type Character card with 4000 power or less from your hand: If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, play up to 1 Character card with 5000 to 7000 power and the same card name as the trashed card from your trash.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB02-039.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB02-039.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB02/EB02-039_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB02-040",
+      "name": "BRAND NEW WORLD",
+      "rarity": "R",
+      "cardType": "EVENT",
+      "color": "Purple",
+      "cost": "2",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Music",
+      "effect": "[Main] Look at 4 cards from the top of your deck; reveal up to 1 card with a cost of 4 or more and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB02-040.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB02-040.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB02/EB02-040_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB02-041",
+      "name": "Merry Go",
+      "rarity": "R",
+      "cardType": "STAGE",
+      "color": "Purple",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Straw Hat Crew",
+      "effect": "[On Play] If your Leader has the {Straw Hat Crew} type, draw 1 card.[Activate: Main] You may rest this Stage: If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, up to 1 of your {Straw Hat Crew} type Characters gains +2 cost until the end of your opponent's next turn.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB02-041.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB02-041.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB02/EB02-041_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB02-042",
+      "name": "All-Hunt Grount",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "6",
+      "power": "8000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Navy",
+      "effect": "-",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB02-042.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB02-042.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB02/EB02-042_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB02-043",
+      "name": "Jonathan",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "7",
+      "power": "9000",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "Navy",
+      "effect": "-",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB02-043.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB02-043.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB02/EB02-043_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB02-044",
+      "name": "Sengoku",
+      "rarity": "SR",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "7",
+      "power": "7000",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "Navy",
+      "effect": "[Blocker][On Play] Play up to 1 black {Navy} type Character card with a cost of 4 or less from your trash rested.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB02-044.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB02-044.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB02/EB02-044_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB02-045",
+      "name": "Trafalgar Law",
+      "rarity": "SR",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "5",
+      "power": "6000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Dressrosa/Supernovas/Heart Pirates",
+      "effect": "[Blocker][On Play] You may place 2 cards from your trash at the bottom of your deck in any order: Choose one:• Draw 1 card.• If your opponent has 5 or more cards in their hand, your opponent trashes 1 card from their hand.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB02-045.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB02-045.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB02/EB02-045_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB02-046",
+      "name": "Hildon",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "3",
+      "power": "3000",
+      "counter": "2000",
+      "attribute": "Wisdom",
+      "type": "Thriller Bark Pirates",
+      "effect": "[On Play] Trash 2 cards from the top of your deck and give up to 1 of your opponent's Characters −1 cost during this turn.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB02-046.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB02-046.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB02/EB02-046_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB02-047",
+      "name": "Blueno",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "5",
+      "power": "6000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "CP9",
+      "effect": "[Activate: Main] You may trash 1 card from your hand and trash this Character: Play up to 1 Character card with a type including \"CP\" and a cost of 5 or less other than [Blueno] from your trash.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB02-047.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB02-047.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB02/EB02-047_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB02-048",
+      "name": "Brook",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "5",
+      "power": "6000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Straw Hat Crew",
+      "effect": "[On Play] Add up to 1 [Laboon] from your trash to your hand.[On K.O.] Play up to 1 [Laboon] with a cost of 4 or less from your hand.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB02-048.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB02-048.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB02/EB02-048_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB02-049",
+      "name": "Monkey.D.Garp",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "5",
+      "power": "6000",
+      "counter": "-",
+      "attribute": "Strike",
+      "type": "Navy",
+      "effect": "[On Play] Give up to 2 rested DON!! cards to 1 of your Leader.[Activate: Main] You may rest this Character: If your Leader is [Monkey.D.Garp], K.O. up to 1 of your opponent's Characters with a cost of 1 or less.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB02-049.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB02-049.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB02/EB02-049_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB02-050",
+      "name": "Kokoro no Chizu",
+      "rarity": "R",
+      "cardType": "EVENT",
+      "color": "Black",
+      "cost": "2",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Music",
+      "effect": "[Main] Look at 4 cards from the top of your deck; reveal up to 1 card with a cost of 4 or more and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB02-050.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB02-050.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB02/EB02-050_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB02-051",
+      "name": "Three-Pace Hum Soul Notch Slash",
+      "rarity": "C",
+      "cardType": "EVENT",
+      "color": "Black",
+      "cost": "3",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Former Rumbar Pirates",
+      "effect": "[Main] Choose one:• K.O. up to 1 of your opponent's Characters with a cost of 2 or less.• Give up to 1 of your opponent's Characters −4 cost during this turn.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB02-051.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB02-051.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB02/EB02-051_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB02-052",
+      "name": "Enel",
+      "rarity": "SR",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "10",
+      "power": "11000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "Sky Island",
+      "effect": "If your Leader has the {Sky Island} type, this Character gains [Rush].[When Attacking] You may trash 1 card from your hand: If you have 1 or less Life cards, add up to 1 card from the top of your deck to the top of your Life cards. Then, this Character gains +1000 power during this turn.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB02-052.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB02-052.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB02/EB02-052_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB02-053",
+      "name": "Myskina Olga",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "3",
+      "power": "4000",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "Alchemi",
+      "effect": "[On Play]/[On K.O.] Look at up to 1 card from the top of your or your opponent's Life cards and place it at the top or bottom of the Life cards.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB02-053.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB02-053.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB02/EB02-053_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB02-054",
+      "name": "Sanji",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "5",
+      "power": "6000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "East Blue/Straw Hat Crew",
+      "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] If you have 2 or less Life cards, draw 2 cards and trash 1 card from your hand.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB02-054.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB02-054.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB02/EB02-054_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB02-055",
+      "name": "Jinbe",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "4",
+      "power": "5000",
+      "counter": "2000",
+      "attribute": "Strike",
+      "type": "Fish-Man/Straw Hat Crew",
+      "effect": "-",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB02-055.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB02-055.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB02/EB02-055_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB02-056",
+      "name": "Vegapunk",
+      "rarity": "SR",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "5",
+      "power": "-",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "Scientist/Egghead",
+      "effect": "[Blocker][On Play] Look at 5 cards from the top of your deck; play up to 1 {Scientist} type Character card with a cost of 5 or less other than [Vegapunk]. Then, place the rest at the bottom of your deck in any order and if your opponent has 2 or less Characters, trash 1 card from your hand.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB02-056.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB02-056.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB02/EB02-056_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB02-057",
+      "name": "Mad Treasure",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "4",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Treasure Pirates",
+      "effect": "[When Attacking] You may add 1 card from the top or bottom of your Life cards to your hand: Add up to 1 of your opponent's Characters with a cost of 3 or less to the top or bottom of your opponent's Life cards face-up.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB02-057.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB02-057.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB02/EB02-057_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB02-058",
+      "name": "UUUUUS!",
+      "rarity": "R",
+      "cardType": "EVENT",
+      "color": "Yellow",
+      "cost": "2",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Music",
+      "effect": "[Main] Look at 4 cards from the top of your deck; reveal up to 1 card with a cost of 4 or more and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB02-058.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB02-058.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB02/EB02-058_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB02-059",
+      "name": "Without Your Help I Can't Become the King of the Pirates!!!!",
+      "rarity": "C",
+      "cardType": "EVENT",
+      "color": "Yellow",
+      "cost": "4",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Straw Hat Crew",
+      "effect": "[Counter] Up to 1 of your Leader or Character cards gains +1000 power during this battle. Then, if you have 1 or less Life cards, play up to 1 of your yellow {Straw Hat Crew} type Character cards or [Sanji] with a cost of 5 or less from your hand.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB02-059.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB02-059.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB02/EB02-059_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB02-060",
+      "name": "Merry Go",
+      "rarity": "C",
+      "cardType": "STAGE",
+      "color": "Yellow",
+      "cost": "2",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Straw Hat Crew",
+      "effect": "[Activate: Main] You may rest this Stage and turn 1 card from the top of your Life cards face-up: Up to 1 of your {Straw Hat Crew} type Characters gains +1000 power until the end of your opponent's next turn.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB02-060.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB02-060.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB02/EB02-060_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP05-001",
+      "name": "Sabo",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Red/Black",
+      "cost": "4",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "Revolutionary Army",
+      "effect": "[DON!! x1] [Opponent's Turn] [Once Per Turn] If your Character with 5000 power or more would be K.O.'d, you may give that Character −1000 power during this turn instead of that Character being K.O.'d.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP05-001_p2.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP05-001_p2.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP05/OP05-001_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP05-002",
+      "name": "Belo Betty",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Red/Yellow",
+      "cost": "4",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "Revolutionary Army",
+      "effect": "[Activate: Main] [Once Per Turn] You may trash 1 {Revolutionary Army} type card from your hand: Up to 3 of your {Revolutionary Army} type Characters or Characters with a [Trigger] gain +3000 power during this turn.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP05-002_p2.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP05-002_p2.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP05/OP05-002_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP05-022",
+      "name": "Donquixote Rosinante",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Green/Blue",
+      "cost": "4",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "Navy/Donquixote Pirates",
+      "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[End of Your Turn] If you have 6 or less cards in your hand, set this Leader as active.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP05-022_p2.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP05-022_p2.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP05/OP05-022_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP05-060",
+      "name": "Monkey.D.Luffy",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Purple",
+      "cost": "5",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Strike",
+      "type": "Straw Hat Crew",
+      "effect": "[Activate: Main] [Once Per Turn] You may add 1 card from the top of your Life cards to your hand: If you have 0 or 3 or more DON!! cards on your field, add up to 1 DON!! card from your DON!! deck and set it as active.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP05-060_p4.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP05-060_p4.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP05/OP05-060_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP05-098",
+      "name": "Enel",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Yellow",
+      "cost": "4",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "Sky Island",
+      "effect": "[Opponent's Turn] [Once Per Turn] When your number of Life cards becomes 0, add 1 card from the top of your deck to the top of your Life cards. Then, trash 1 card from your hand.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP05-098_p2.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP05-098_p2.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP05/OP05-098_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP06-001",
+      "name": "Uta",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Red/Purple",
+      "cost": "4",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "FILM",
+      "effect": "[When Attacking] You may trash 1 {FILM} type card from your hand: Give up to 1 of your opponent's Characters −2000 power during this turn. Then, add up to 1 DON!! card from your DON!! deck and rest it.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP06-001_p2.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP06-001_p2.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP06/OP06-001_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP06-020",
+      "name": "Hody Jones",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Green",
+      "cost": "5",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Strike",
+      "type": "Fish-Man/New Fish-Man Pirates",
+      "effect": "[Activate: Main] You may rest this Leader: Rest up to 1 of your opponent's DON!! cards or Characters with a cost of 3 or less. Then, you cannot add Life cards to your hand using your own effects during this turn.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP06-020_p2.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP06-020_p2.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP06/OP06-020_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP06-021",
+      "name": "Perona",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Green/Black",
+      "cost": "4",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "Thriller Bark Pirates",
+      "effect": "[Activate: Main] [Once Per Turn] Choose one:• Rest up to 1 of your opponent's Characters with a cost of 4 or less.• Give up to 1 of your opponent's Characters −1 cost during this turn.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP06-021_p2.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP06-021_p2.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP06/OP06-021_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP06-022",
+      "name": "Yamato",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Green/Yellow",
+      "cost": "4",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Strike",
+      "type": "Land of Wano",
+      "effect": "[Double Attack] (This card deals 2 damage.)[Activate: Main] [Once Per Turn] If your opponent has 3 or less Life cards, give up to 2 rested DON!! cards to 1 of your Characters.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP06-022_p2.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP06-022_p2.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP06/OP06-022_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP06-042",
+      "name": "Vinsmoke Reiju",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Blue/Purple",
+      "cost": "4",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "The Vinsmoke Family/GERMA 66",
+      "effect": "[Your Turn] [Once Per Turn] When a DON!! card on your field is returned to your DON!! deck, draw 1 card.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP06-042_p2.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP06-042_p2.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP06/OP06-042_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP06-080",
+      "name": "Gecko Moria",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Black",
+      "cost": "5",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "The Seven Warlords of the Sea/Thriller Bark Pirates",
+      "effect": "[DON!! x1] [When Attacking] You may rest 2 of your DON!! cards and trash 1 card from your hand: Trash 2 cards from the top of your deck and play up to 1 {Thriller Bark Pirates} type Character card with a cost of 4 or less from your trash.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP06-080_p2.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP06-080_p2.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP06/OP06-080_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP07-001",
+      "name": "Monkey.D.Dragon",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Red",
+      "cost": "5",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "Revolutionary Army",
+      "effect": "[Activate: Main] [Once Per Turn] Give up to 2 total of your currently given DON!! cards to 1 of your Characters.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP07-001_p2.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP07-001_p2.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP07/OP07-001_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP07-019",
+      "name": "Jewelry Bonney",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Green",
+      "cost": "5",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "Supernovas/Bonney Pirates",
+      "effect": "[On Your Opponent's Attack] [Once Per Turn] You may rest 1 of your DON!! cards: Rest up to 1 of your opponent's Leader or Character cards.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP07-019_p2.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP07-019_p2.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP07/OP07-019_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP07-038",
+      "name": "Boa Hancock",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Blue",
+      "cost": "5",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "The Seven Warlords of the Sea/Kuja Pirates",
+      "effect": "[Your Turn] [Once Per Turn] This effect can be activated when a Character is removed from the field by your effect. If you have 5 or less cards in your hand, draw 1 card.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP07-038_p2.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP07-038_p2.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP07/OP07-038_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP07-059",
+      "name": "Foxy",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Purple",
+      "cost": "5",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "Foxy Pirates",
+      "effect": "[When Attacking] DON!! −3 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If you have 3 or more {Foxy Pirates} type Characters, select up to 1 each of your opponent's rested Leader and Character cards. The selected cards will not become active in your opponent's next Refresh Phase.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP07-059_p2.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP07-059_p2.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP07/OP07-059_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP07-079",
+      "name": "Rob Lucci",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Black",
+      "cost": "5",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Strike",
+      "type": "CP0",
+      "effect": "[When Attacking] You may trash 2 cards from the top of your deck: Give up to 1 of your opponent's Characters −1 cost during this turn.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP07-079_p2.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP07-079_p2.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP07/OP07-079_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP07-097",
+      "name": "Vegapunk",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Yellow",
+      "cost": "2",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Wisdom",
+      "type": "Scientist/Egghead",
+      "effect": "This Leader cannot attack.[Activate: Main] [Once Per Turn] You may rest 1 of your DON!! cards: Select up to 1 {Egghead} type card with a cost of 5 or less from your hand and play it or add it to the top of your Life cards face-up.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP07-097_p2.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP07-097_p2.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP07/OP07-097_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP08-001",
+      "name": "Tony Tony.Chopper",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Red/Green",
+      "cost": "4",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Strike",
+      "type": "Animal/Drum Kingdom/Straw Hat Crew",
+      "effect": "[Activate: Main] [Once Per Turn] Give up to 3 of your {Animal} or {Drum Kingdom} type Characters up to 1 rested DON!! card each.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP08-001_p2.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP08-001_p2.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP08/OP08-001_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP08-002",
+      "name": "Marco",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Red/Blue",
+      "cost": "4",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "Whitebeard Pirates",
+      "effect": "[DON!! x1] [Activate: Main] [Once Per Turn] Draw 1 card and place 1 card from your hand at the top or bottom of your deck. Then, give up to 1 of your opponent's Characters −2000 power during this turn.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP08-002_p2.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP08-002_p2.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP08/OP08-002_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP08-021",
+      "name": "Carrot",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Green",
+      "cost": "5",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "Minks",
+      "effect": "[Activate: Main] [Once Per Turn] If you have a {Minks} type Character, rest up to 1 of your opponent's Characters with a cost of 5 or less.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP08-021_p2.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP08-021_p2.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP08/OP08-021_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP08-057",
+      "name": "King",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Purple/Black",
+      "cost": "4",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "Animal Kingdom Pirates",
+      "effect": "[Activate: Main] [Once Per Turn] DON!! −2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Choose one:• If you have 5 or less cards in your hand, draw 1 card.• Give up to 1 of your opponent's Characters −2 cost during this turn.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP08-057_p2.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP08-057_p2.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP08/OP08-057_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP08-058",
+      "name": "Charlotte Pudding",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Purple/Yellow",
+      "cost": "4",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Wisdom",
+      "type": "Big Mom Pirates",
+      "effect": "[When Attacking] You may turn 2 cards from the top of your Life cards face-up: Add up to 1 DON!! card from your DON!! deck and rest it.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP08-058_p2.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP08-058_p2.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP08/OP08-058_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP08-098",
+      "name": "Kalgara",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Yellow",
+      "cost": "5",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "Jaya/Sky Island/Shandian Warrior",
+      "effect": "[DON!! x1] [When Attacking] Play up to 1 {Shandian Warrior} type Character card from your hand with a cost equal to or less than the number of DON!! cards on your field. If you do, add 1 card from the top of your Life cards to your hand.",
+      "cardSets": "Card Set(s)-Anime 25th Collection- [EB-02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP08-098_p2.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP08-098_p2.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP08/OP08-098_EN.webp"
+      ]
+    }
+  ]
+}

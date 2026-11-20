@@ -1,0 +1,863 @@
+
+import React, { useState, useEffect, useRef } from 'react';
+import { XCircle, Users, CheckCircle, History, BarChart3, Crown, MessageSquare, Flame, Send, Gem, Shield, Trophy, List, LineChart, Volume2, VolumeX } from 'lucide-react';
+import { ROULETTE_NUMBERS, ROULETTE_COLORS } from './data';
+import { formatNumber, playSound, polarToCartesian, getSectorPath, cn, triggerHaptic } from './utils';
+
+// --- CONSTANTS & FAKE DATA ---
+const FAKE_NAMES = [
+    "RouletteKing", "BlackRed", "ZeroHero", "SpinMaster", "LuckyLady", 
+    "GreenHunter", "WheelWhale", "ChipStacker", "BetBigWinBig", "CasinoRoyale",
+    "JackpotJoe", "LadyLuck", "HighRoller", "Sniper", "FortuneTeller"
+];
+
+const CHAT_MESSAGES = {
+    happy: ["Easy money! 🤑", "Red streak is real!", "Finally hit Green!", "Too easy", "Big win incoming", "Jackpot!", "Trust the wheel"],
+    sad: ["Black again? 😭", "Lost my stack...", "Rigged!", "Rekt", "Need a loan lol", "So unlucky", "Zero killed me"],
+    action_red: ["All in RED", "Trend is RED", "Trust me, RED next", "Breaking pattern, go RED", "RED 100%"],
+    action_black: ["BLACK is the way", "Farming BLACK", "BLACK streak", "Betting big on BLACK", "Recovering on BLACK"],
+    action_green: ["Feeling ZERO", "Snipe the Green", "0 incoming", "Insurance on 0"]
+};
+
+const QUICK_REACTIONS = [
+    { label: "🔥 Hot", text: "This table is on fire! 🔥" },
+    { label: "🚀 Moon", text: "To the moon! 🚀" },
+    { label: "📉 Rekt", text: "I'm absolutely rekt... 📉" },
+    { label: "🤑 Win", text: "Huge win! 🤑" },
+    { label: "🔴 Red", text: "Red Team! 🔴" },
+    { label: "⚫ Blk", text: "Black Team! ⚫" },
+    { label: "🟢 Zero", text: "Zero Hero! 🟢" },
+];
+
+// --- CHART COMPONENT ---
+const RouletteChart = ({ history }: { history: number[] }) => {
+    const data = [...history].slice(0, 20).reverse();
+    const width = 100;
+    const height = 60;
+    const maxVal = 36;
+
+    const getX = (index: number) => (index / (Math.max(data.length - 1, 1))) * width;
+    const getY = (val: number) => height - (val / maxVal) * height;
+    const points = data.map((val, i) => `${getX(i)},${getY(val)}`).join(' ');
+
+    return (
+        <div className="w-full h-48 bg-[#1a0f05] rounded-xl border border-white/10 relative overflow-hidden select-none">
+            {/* Grid lines y-axis */}
+            <div className="absolute inset-0 flex flex-col justify-between p-2 pointer-events-none opacity-20">
+                {[36, 24, 12, 0].map(val => (
+                    <div key={val} className="w-full h-px bg-white flex items-center">
+                        <span className="text-[8px] text-white ml-1 -mt-2">{val}</span>
+                    </div>
+                ))}
+            </div>
+             {/* Grid lines x-axis */}
+            <div className="absolute inset-0 flex justify-between p-2 pointer-events-none opacity-20">
+                {Array.from({length: 10}).map((_, i) => (
+                    <div key={i} className="h-full w-px bg-white"></div>
+                ))}
+            </div>
+            
+            <svg viewBox={`-2 -2 ${width+4} ${height+4}`} className="w-full h-full p-2" preserveAspectRatio="none">
+                <polyline points={points} fill="none" stroke="white" strokeWidth="0.5" opacity="0.5"/>
+                {data.map((val, i) => {
+                    const x = getX(i);
+                    const y = getY(val);
+                    const colorCode = ROULETTE_COLORS[val];
+                    const color = val === 0 ? '#22c55e' : colorCode === 'red' ? '#ef4444' : '#94a3b8'; // Green, Red, Slate
+                    
+                    return (
+                        <g key={i}>
+                            <circle cx={x} cy={y} r="1.5" fill={color} stroke="#000" strokeWidth="0.2" />
+                        </g>
+                    )
+                })}
+            </svg>
+        </div>
+    )
+}
+
+// --- BEAD PLATE COMPONENT ---
+const RouletteBeadPlate = ({ history }: { history: number[] }) => {
+    // Bead Plate Configuration
+    const rows = 6;
+    const cols = 9; // Fixed columns
+    const totalCells = rows * cols;
+    
+    // Get latest history that fits in the grid
+    // Reverse logic: Oldest -> Newest filling Left -> Right
+    const displayHistory = history.slice(0, totalCells).reverse(); 
+    
+    const filledCells = [...displayHistory];
+    const emptyCount = Math.max(0, totalCells - filledCells.length);
+    const allCells = [...filledCells, ...Array(emptyCount).fill(null)];
+
+    return (
+        <div className="mt-4 bg-[#1a0f05] p-3 rounded-xl border border-white/10 shadow-inner">
+             <div className="flex items-center justify-between mb-3 px-1">
+                <span className="text-[10px] font-bold text-white/40 uppercase tracking-widest">Roadmap</span>
+                <div className="flex gap-3 text-[9px] font-bold">
+                    <div className="flex items-center gap-1.5 text-white/80"><div className="w-2 h-2 rounded-full bg-red-600 shadow-[0_0_6px_rgba(220,38,38,0.8)]"></div> Red</div>
+                    <div className="flex items-center gap-1.5 text-white/80"><div className="w-2 h-2 rounded-full bg-slate-800 border border-slate-600 shadow-[0_0_6px_rgba(71,85,105,0.8)]"></div> Black</div>
+                    <div className="flex items-center gap-1.5 text-white/80"><div className="w-2 h-2 rounded-full bg-green-500 shadow-[0_0_6px_rgba(34,197,94,0.8)]"></div> Zero</div>
+                </div>
+            </div>
+            
+            {/* Fixed Grid Container */}
+            <div 
+                className="grid grid-flow-col gap-1 w-full"
+                style={{ 
+                    gridTemplateRows: `repeat(${rows}, 1fr)`,
+                    gridTemplateColumns: `repeat(${cols}, 1fr)` 
+                }}
+            >
+                {allCells.map((num, i) => {
+                    // Render Empty Cells
+                    if (num === null) {
+                        return <div key={i} className="aspect-square flex items-center justify-center border-[0.5px] border-white/5 bg-[#2a1a0a]/50 rounded-sm"></div>;
+                    }
+                    
+                    const color = ROULETTE_COLORS[num];
+                    let bgClass = "bg-gradient-to-br from-slate-700 to-slate-900 shadow-[0_0_4px_rgba(15,23,42,0.5)] ring-[0.5px] ring-white/20"; // Black default
+                    
+                    if (num === 0) bgClass = "bg-gradient-to-br from-green-500 to-emerald-700 shadow-[0_0_4px_rgba(16,185,129,0.5)] ring-[0.5px] ring-white/20"; // Green
+                    else if (color === 'red') bgClass = "bg-gradient-to-br from-red-500 to-red-700 shadow-[0_0_4px_rgba(220,38,38,0.5)] ring-[0.5px] ring-white/20"; // Red
+                    
+                    return (
+                        <div key={i} className="aspect-square flex items-center justify-center border-[0.5px] border-white/5 bg-[#2a1a0a]/50 rounded-sm">
+                            <div className={cn(
+                                "w-5 h-5 rounded-full flex items-center justify-center text-[9px] font-black text-white relative transform transition-all hover:scale-110",
+                                bgClass
+                            )}>
+                                {num}
+                                {/* Gloss highlight */}
+                                <div className="absolute top-[10%] left-1/2 -translate-x-1/2 w-3/4 h-1/4 bg-white/20 rounded-full blur-[0.5px]"></div>
+                            </div>
+                        </div>
+                    );
+                })}
+            </div>
+        </div>
+    );
+}
+
+export default function RouletteGame({ coins, setCoins, onClose, showNotification, soundEnabled, toggleSound }: any) {
+    const [phase, setPhase] = useState<'betting' | 'spinning' | 'result'>('betting');
+    const [timer, setTimer] = useState(30);
+    const [angle, setAngle] = useState(0);
+    const [ballAngle, setBallAngle] = useState(0);
+    const [result, setResult] = useState<number|null>(null);
+    const [bet, setBet] = useState<{choice: 'red'|'black'|'green', amount: number} | null>(null);
+    const [history, setHistory] = useState<number[]>([]);
+    const [betAmount, setBetAmount] = useState(100);
+    const [pools, setPools] = useState({ red: 0, black: 0, green: 0 });
+    const targetRef = useRef<number>(0);
+    const [showWinOverlay, setShowWinOverlay] = useState(false);
+    
+    // UI State
+    const [activeModal, setActiveModal] = useState<'none'|'stats'|'winners'|'chat'>('none');
+    const [winnerTab, setWinnerTab] = useState<'top' | 'streak'>('top');
+    const [historyView, setHistoryView] = useState<'list' | 'chart'>('list');
+    
+    // Social State
+    const [leaders, setLeaders] = useState<any[]>([]);
+    const [chatMessages, setChatMessages] = useState<any[]>([]);
+    const [userChatInput, setUserChatInput] = useState('');
+    const chatScrollRef = useRef<HTMLDivElement>(null);
+    const [onlineCount, setOnlineCount] = useState(1240);
+
+    // Initial Load & Pre-fill History
+    useEffect(() => {
+        // Pre-fill history so trend isn't empty
+        const fakeHist = Array.from({length: 20}).map(() => ROULETTE_NUMBERS[Math.floor(Math.random() * ROULETTE_NUMBERS.length)]);
+        setHistory(fakeHist);
+
+        // Initialize Leaders
+        const initialLeaders = FAKE_NAMES.map((name, i) => ({
+            id: i,
+            name,
+            totalWin: Math.floor(Math.random() * 5000000) + 1000000,
+            streak: Math.floor(Math.random() * 8),
+            currentBet: Math.random() > 0.6 ? 'black' : Math.random() > 0.3 ? 'red' : 'green',
+            justWon: false,
+            vipLevel: Math.floor(Math.random() * 4) // 0-3
+        })).sort((a,b) => b.totalWin - a.totalWin);
+        setLeaders(initialLeaders);
+
+        // Initial Chat
+        setChatMessages([
+            { name: "System", text: "Welcome to Roulette Live!", type: 'system' },
+            { name: "HighRoller", text: "Green is due...", type: 'happy', vipLevel: 3 }
+        ]);
+    }, []);
+
+    // Social Simulation Loop (Leaders & Chat)
+    useEffect(() => {
+        const interval = setInterval(() => {
+            // Update Leaders
+            setLeaders(prev => {
+                const winnerIndex = Math.floor(Math.random() * prev.length);
+                return prev.map((p, index) => {
+                    let isWinner = false;
+                    let newWin = p.totalWin;
+                    let newStreak = p.streak;
+                    let newBet = p.currentBet;
+
+                    if (index === winnerIndex) {
+                        isWinner = true;
+                        newWin += Math.floor(Math.random() * 50000) + 10000;
+                        newStreak += 1;
+                        // Switch bet occasionally
+                        if (Math.random() > 0.7) {
+                            const r = Math.random();
+                            newBet = r > 0.55 ? 'red' : r > 0.1 ? 'black' : 'green';
+                        }
+                    } else {
+                        if (Math.random() > 0.8) newStreak = 0;
+                    }
+
+                    return { 
+                        ...p, 
+                        totalWin: newWin, 
+                        currentBet: newBet,
+                        streak: newStreak,
+                        justWon: isWinner 
+                    };
+                }).sort((a, b) => {
+                    if (winnerTab === 'streak') return b.streak - a.streak;
+                    return b.totalWin - a.totalWin;
+                });
+            });
+
+            // Chat Simulation
+            if (Math.random() > 0.3) {
+                const randomLeader = leaders[Math.floor(Math.random() * leaders.length)];
+                if (randomLeader) {
+                    const mood = Math.random();
+                    let msgType: 'happy' | 'sad' | 'action' = 'happy';
+                    let text = "";
+                    
+                    if (mood < 0.4) {
+                        const bet = randomLeader.currentBet;
+                        const pool = bet === 'red' ? CHAT_MESSAGES.action_red : bet === 'black' ? CHAT_MESSAGES.action_black : CHAT_MESSAGES.action_green;
+                        text = pool[Math.floor(Math.random() * pool.length)];
+                        msgType = 'action';
+                    } else if (mood < 0.7) {
+                        text = CHAT_MESSAGES.happy[Math.floor(Math.random() * CHAT_MESSAGES.happy.length)];
+                        msgType = 'happy';
+                    } else {
+                        text = CHAT_MESSAGES.sad[Math.floor(Math.random() * CHAT_MESSAGES.sad.length)];
+                        msgType = 'sad';
+                    }
+
+                    if (Math.random() > 0.95) {
+                         setChatMessages(prev => [...prev.slice(-49), {
+                            name: "System",
+                            text: `${randomLeader.name} hit huge on ${randomLeader.currentBet.toUpperCase()}!`,
+                            type: 'system',
+                            bet: null
+                        }]);
+                    } else {
+                        setChatMessages(prev => [...prev.slice(-49), { 
+                            name: randomLeader.name, 
+                            text, 
+                            type: msgType, 
+                            bet: msgType === 'action' ? randomLeader.currentBet : null,
+                            vipLevel: randomLeader.vipLevel
+                        }]);
+                    }
+                }
+            }
+            
+            // Online Count
+            setOnlineCount(prev => Math.max(500, prev + Math.floor(Math.random() * 7) - 3));
+
+        }, 2500); 
+
+        return () => clearInterval(interval);
+    }, [winnerTab, leaders.length]);
+
+    // Auto-scroll chat
+    useEffect(() => {
+        if (activeModal === 'chat' && chatScrollRef.current) {
+            chatScrollRef.current.scrollTop = chatScrollRef.current.scrollHeight;
+        }
+    }, [chatMessages, activeModal]);
+
+    // Betting Pool Logic
+    useEffect(() => {
+        if (phase === 'betting') {
+            const int = setInterval(() => {
+                if(Math.random() > 0.4) setPools(p => ({ ...p, red: p.red + Math.floor(Math.random() * 500) + 100 }));
+                if(Math.random() > 0.4) setPools(p => ({ ...p, black: p.black + Math.floor(Math.random() * 500) + 100 }));
+                if(Math.random() > 0.8) setPools(p => ({ ...p, green: p.green + Math.floor(Math.random() * 50) + 10 }));
+            }, 600);
+            return () => clearInterval(int);
+        } else if (phase === 'result' && timer === 30) {
+            setPools({ red: 0, black: 0, green: 0 });
+        }
+    }, [phase]);
+
+    // Game Loop
+    useEffect(() => {
+        const int = setInterval(() => {
+            setTimer(t => {
+                if (t <= 0) {
+                    if (phase === 'betting') {
+                        setPhase('spinning');
+                        const randIdx = Math.floor(Math.random() * ROULETTE_NUMBERS.length);
+                        const resNum = ROULETTE_NUMBERS[randIdx];
+                        targetRef.current = resNum;
+                        
+                        const spins = 5;
+                        const segment = 360 / ROULETTE_NUMBERS.length;
+                        const target = -1 * (360 * spins + (randIdx * segment));
+                        
+                        setAngle(target);
+                        setBallAngle(360 * (spins + 2));
+                        playSound(600, 0.5, 'triangle');
+                        return 4; // spin duration
+                    } else if (phase === 'spinning') {
+                        setPhase('result');
+                        const res = targetRef.current;
+                        setResult(res);
+                        setHistory(h => [res, ...h]); // Append new result to start
+                        
+                        if (bet) {
+                            const color = ROULETTE_COLORS[res];
+                            let win = false;
+                            if (bet.choice === 'green' && res === 0) win = true;
+                            else if (bet.choice === color && res !== 0) win = true;
+                            
+                            if (win) {
+                                const payout = bet.choice === 'green' ? bet.amount * 35 : bet.amount * 2;
+                                setCoins((c: number) => c + payout);
+                                setShowWinOverlay(true);
+                                playSound(1200, 0.5, 'square');
+                                triggerHaptic('heavy');
+                            } else {
+                                playSound(200, 0.5, 'sawtooth');
+                            }
+                        }
+                        return 5; // result duration
+                    } else if (phase === 'result') {
+                        setPhase('betting');
+                        setBet(null);
+                        setResult(null);
+                        setShowWinOverlay(false);
+                        setAngle(0);
+                        setBallAngle(0);
+                        return 30;
+                    }
+                }
+                return t - 1;
+            });
+        }, 1000);
+        return () => clearInterval(int);
+    }, [phase, bet]);
+
+    const placeBet = (choice: 'red' | 'black' | 'green') => {
+        if (coins < betAmount) {
+            showNotification("Not enough coins");
+            return;
+        }
+        setCoins((c: number) => c - betAmount);
+        setBet({ choice, amount: betAmount });
+        setPools(p => ({ ...p, [choice]: p[choice] + betAmount }));
+        playSound(400, 0.2);
+        triggerHaptic('medium');
+    };
+
+    const handleSendChat = (e: React.FormEvent, manualText?: string) => {
+        e?.preventDefault();
+        const textToSend = manualText || userChatInput;
+        if (!textToSend.trim()) return;
+        setChatMessages(prev => [...prev.slice(-49), { 
+            name: "YOU", text: textToSend, type: 'hero', bet: null, vipLevel: 3 
+        }]);
+        setUserChatInput('');
+        playSound(400, 0.1);
+    };
+
+    const getVipIcon = (level: number) => {
+        if (level === 3) return <Crown size={12} className="fill-yellow-400 text-yellow-400"/>;
+        if (level === 2) return <Gem size={12} className="fill-blue-400 text-blue-400"/>;
+        if (level === 1) return <Shield size={12} className="fill-slate-400 text-slate-400"/>;
+        return null;
+    }
+
+    // Sorted Leaders for display
+    const sortedLeaders = leaders; // Already sorted in effect
+
+    return (
+         <div className="fixed inset-0 z-[125] flex items-center justify-center bg-black/95 backdrop-blur-md p-4">
+             <div className="bg-[#2a1a0a] border-4 border-[#8B4513] p-4 rounded-[2rem] w-full max-w-sm relative shadow-[0_0_50px_rgba(139,69,19,0.5)] overflow-hidden flex flex-col h-[90vh] md:h-[90vh]" 
+                  style={{ background: 'radial-gradient(circle at center, #5c3a21 0%, #2a1a0a 100%)' }}>
+                
+                <div className="absolute top-4 right-4 flex gap-2 z-50">
+                    <button onClick={toggleSound} className="text-white/30 hover:text-white p-2 rounded-full bg-black/40">
+                        {soundEnabled ? <Volume2 size={20}/> : <VolumeX size={20}/>}
+                    </button>
+                    <button onClick={onClose} className="text-white/50 hover:text-white bg-black/40 rounded-full p-2"><XCircle size={20}/></button>
+                </div>
+                
+                {/* --- HEADER --- */}
+                <div className="text-center mb-2 mt-2 relative z-10 shrink-0">
+                   <h2 className="font-game text-3xl text-[#ffd700] drop-shadow-[0_2px_0_rgba(0,0,0,1)] tracking-widest">ROULETTE</h2>
+                   <div className="inline-block bg-black/60 border border-[#ffd700]/30 rounded-full px-6 py-1 text-xs font-bold text-[#ffd700] uppercase tracking-widest shadow-lg mt-1">
+                      {phase === 'betting' ? <><span className="animate-pulse">●</span> Place Bets: {timer}s</> : phase === 'spinning' ? 'Spinning...' : 'Result'}
+                   </div>
+                </div>
+
+                {/* --- WHEEL AREA --- */}
+                <div className="relative h-64 w-64 mx-auto mb-2 flex items-center justify-center shrink-0">
+                   <div className="absolute top-0 left-1/2 -translate-x-1/2 w-0 h-0 border-l-[8px] border-l-transparent border-r-[8px] border-r-transparent border-t-[16px] border-t-[#ffd700] z-40 drop-shadow-[0_2px_2px_rgba(0,0,0,0.8)]"></div>
+                   <div className="w-full h-full relative shadow-[0_10px_30px_rgba(0,0,0,0.8)] rounded-full border-8 border-[#3e2713]">
+                       <svg viewBox="0 0 200 200" className="w-full h-full">
+                           <defs>
+                               <radialGradient id="woodGradient" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+                                   <stop offset="0%" stopColor="#6d4c33" />
+                                   <stop offset="85%" stopColor="#3e2713" />
+                                   <stop offset="100%" stopColor="#1a0f05" />
+                               </radialGradient>
+                               <linearGradient id="goldGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+                                   <stop offset="0%" stopColor="#ffd700" />
+                                   <stop offset="50%" stopColor="#fffacd" />
+                                   <stop offset="100%" stopColor="#b8860b" />
+                               </linearGradient>
+                           </defs>
+                           <circle cx="100" cy="100" r="98" fill="url(#woodGradient)" stroke="#1a0f05" strokeWidth="2" />
+                           <circle cx="100" cy="100" r="88" fill="#150f0a" stroke="#b8860b" strokeWidth="1" />
+                           <g style={{ 
+                                transform: `rotate(${ballAngle}deg)`, 
+                                transformOrigin: '100px 100px',
+                                transition: phase === 'spinning' ? 'transform 4s ease-out' : 'none'
+                           }}>
+                               <circle cx="100" cy="16" r="3" fill="white" filter="drop-shadow(0 0 2px black)" />
+                           </g>
+                           <g style={{ 
+                                transform: `rotate(${angle}deg)`, 
+                                transformOrigin: '100px 100px',
+                                transition: phase === 'spinning' ? 'transform 4s cubic-bezier(0.1, 0.7, 0.1, 1)' : 'transform 0.5s ease-out'
+                           }}>
+                               <circle cx="100" cy="100" r="82" fill="none" stroke="url(#goldGradient)" strokeWidth="2" />
+                               {ROULETTE_NUMBERS.map((num, i) => {
+                                   const sliceAngle = 360 / ROULETTE_NUMBERS.length;
+                                   const startAngle = i * sliceAngle - 90 - (sliceAngle / 2); 
+                                   const endAngle = (i + 1) * sliceAngle - 90 - (sliceAngle / 2);
+                                   const color = num === 0 ? '#15803d' : ROULETTE_COLORS[num] === 'red' ? '#991b1b' : '#0f172a';
+                                   const midAngle = (startAngle + endAngle) / 2;
+                                   const textRadius = 72;
+                                   const textPos = polarToCartesian(0, 0, textRadius, midAngle + 90);
+                                   return (
+                                       <g key={i}>
+                                           <path d={getSectorPath(0, 0, 80, startAngle + 90, endAngle + 90, 45)} fill={color} stroke="#d4af37" strokeWidth="0.5" transform="translate(100,100)" />
+                                           <text x={textPos.x + 100} y={textPos.y + 100} fill="white" fontSize="7" fontWeight="bold" textAnchor="middle" dominantBaseline="middle" transform={`rotate(${midAngle + 90}, ${textPos.x + 100}, ${textPos.y + 100}) rotate(180, ${textPos.x + 100}, ${textPos.y + 100})`}>
+                                               {num}
+                                           </text>
+                                       </g>
+                                   );
+                               })}
+                               <circle cx="100" cy="100" r="45" fill="url(#woodGradient)" />
+                               <circle cx="100" cy="100" r="40" fill="none" stroke="url(#goldGradient)" strokeWidth="1" />
+                           </g>
+                           <circle cx="100" cy="100" r="18" fill="url(#goldGradient)" stroke="#b8860b" strokeWidth="1" filter="drop-shadow(0 2px 4px rgba(0,0,0,0.5))" />
+                           <circle cx="100" cy="100" r="8" fill="#5c3a21" stroke="#b8860b" strokeWidth="2" />
+                       </svg>
+                   </div>
+                   
+                   {/* Result Overlay */}
+                   {phase === 'result' && result !== null && (
+                       <div className="absolute inset-0 flex items-center justify-center z-50 pointer-events-none">
+                           <div className="bg-black/90 backdrop-blur-md px-8 py-6 rounded-2xl border-2 border-[#ffd700] animate-bounce shadow-[0_0_50px_rgba(255,215,0,0.6)] text-center scale-110">
+                               {showWinOverlay && <div className="text-green-400 font-black text-xl mb-1 drop-shadow-md">YOU WIN!</div>}
+                               <div className={`text-6xl font-black ${result === 0 ? 'text-green-500' : ROULETTE_COLORS[result] === 'red' ? 'text-red-500' : 'text-white'}`}>
+                                   {result}
+                               </div>
+                           </div>
+                       </div>
+                   )}
+                </div>
+
+                {/* --- TREND BAR (CAPSULE STYLE - NO SCROLL) --- */}
+                <div className="w-full mb-3 shrink-0 px-2 relative z-10">
+                    <div className="flex items-center justify-between mb-1.5 px-2">
+                        <span className="text-[10px] text-[#ffd700]/70 font-bold uppercase flex items-center gap-1 tracking-wider"><History size={10}/> Trend</span>
+                    </div>
+                    <div className="relative h-8 bg-[#1a0f05] rounded-full border border-[#b8860b]/20 shadow-[inset_0_2px_4px_rgba(0,0,0,0.9)] overflow-hidden flex items-center justify-center px-1.5">
+                        <div className="absolute inset-0 opacity-10 bg-[linear-gradient(rgba(255,255,255,0.1)_1px,transparent_1px),linear-gradient(90deg,rgba(255,255,255,0.1)_1px,transparent_1px)] bg-[size:8px_8px] pointer-events-none"></div>
+                        <div className="flex gap-2 items-center justify-center w-full h-full px-1">
+                            {/* Display exactly 12 items for clean non-scrolling look */}
+                            {history.slice(0, 12).map((num, i) => (
+                                <div key={i} className="relative shrink-0 flex items-center justify-center">
+                                    <div className={cn(
+                                        "w-3 h-3 rounded-full shadow-[0_2px_4px_rgba(0,0,0,0.5)] shrink-0",
+                                        num === 0 ? "bg-[radial-gradient(circle_at_30%_30%,_#4ade80,_#16a34a,_#14532d)]" :
+                                        ROULETTE_COLORS[num] === 'red' ? "bg-[radial-gradient(circle_at_30%_30%,_#fca5a5,_#dc2626,_#7f1d1d)]" :
+                                        "bg-[radial-gradient(circle_at_30%_30%,_#94a3b8,_#334155,_#0f172a)]", // Slate/Black
+                                        i === 0 && "ring-1 ring-white/50"
+                                    )}></div>
+                                </div>
+                            ))}
+                        </div>
+                    </div>
+                </div>
+
+                {/* --- BETTING CONTROLS --- */}
+                <div className="grid grid-cols-3 gap-2 mb-3">
+                   <button onClick={() => placeBet('red')} disabled={phase !== 'betting' || bet !== null} className={`h-24 rounded-xl bg-gradient-to-br from-red-800 to-red-950 border-2 border-red-500/30 shadow-lg active:scale-95 transition-transform text-white font-black disabled:opacity-50 relative overflow-hidden group ${bet?.choice === 'red' ? 'ring-2 ring-yellow-400 scale-105' : ''}`}>
+                       <div className="absolute inset-0 bg-[radial-gradient(circle,rgba(255,0,0,0.2)_1px,transparent_1px)] bg-[length:4px_4px] opacity-20"></div>
+                       <div className="relative z-10 h-full flex flex-col justify-between p-2">
+                           <div className="text-lg group-hover:scale-110 transition-transform">RED</div>
+                           <div className="flex justify-between items-end">
+                                <div className="text-[9px] bg-black/40 rounded-full py-0.5 px-1.5 flex items-center gap-1 text-yellow-300/80"><Users size={8}/> {formatNumber(pools.red)}</div>
+                                <div className="text-[10px] text-white/50">x2</div>
+                           </div>
+                       </div>
+                   </button>
+                   
+                   <button onClick={() => placeBet('green')} disabled={phase !== 'betting' || bet !== null} className={`h-24 rounded-xl bg-gradient-to-br from-green-800 to-green-950 border-2 border-green-500/30 shadow-lg active:scale-95 transition-transform text-white font-black disabled:opacity-50 relative overflow-hidden group ${bet?.choice === 'green' ? 'ring-2 ring-yellow-400 scale-105' : ''}`}>
+                       <div className="absolute inset-0 bg-[radial-gradient(circle,rgba(0,255,0,0.2)_1px,transparent_1px)] bg-[length:4px_4px] opacity-20"></div>
+                       <div className="relative z-10 h-full flex flex-col justify-between p-2">
+                           <div className="text-lg group-hover:scale-110 transition-transform">ZERO</div>
+                           <div className="flex justify-between items-end">
+                                <div className="text-[9px] bg-black/40 rounded-full py-0.5 px-1.5 flex items-center gap-1 text-yellow-300/80"><Users size={8}/> {formatNumber(pools.green)}</div>
+                                <div className="text-[10px] text-white/50">x35</div>
+                           </div>
+                       </div>
+                   </button>
+                   
+                   <button onClick={() => placeBet('black')} disabled={phase !== 'betting' || bet !== null} className={`h-24 rounded-xl bg-gradient-to-br from-slate-800 to-black border-2 border-slate-600/30 shadow-lg active:scale-95 transition-transform text-white font-black disabled:opacity-50 relative overflow-hidden group ${bet?.choice === 'black' ? 'ring-2 ring-yellow-400 scale-105' : ''}`}>
+                       <div className="absolute inset-0 bg-[radial-gradient(circle,rgba(255,255,255,0.1)_1px,transparent_1px)] bg-[length:4px_4px] opacity-20"></div>
+                       <div className="relative z-10 h-full flex flex-col justify-between p-2">
+                           <div className="text-lg group-hover:scale-110 transition-transform">BLK</div>
+                           <div className="flex justify-between items-end">
+                                <div className="text-[9px] bg-black/40 rounded-full py-0.5 px-1.5 flex items-center gap-1 text-yellow-300/80"><Users size={8}/> {formatNumber(pools.black)}</div>
+                                <div className="text-[10px] text-white/50">x2</div>
+                           </div>
+                       </div>
+                   </button>
+                </div>
+
+                {/* --- FOOTER CONTROLS --- */}
+                <div className="mt-auto">
+                    <div className="flex justify-between items-center bg-[#1a0f05]/80 p-2 rounded-xl border border-white/5 shadow-inner mb-2">
+                        <div className="flex flex-col">
+                            <span className="text-[8px] uppercase font-bold text-[#ffd700]/70">Wager</span>
+                            <span className="font-mono text-white text-sm font-bold">{formatNumber(betAmount)}</span>
+                        </div>
+                        <div className="flex items-center gap-1">
+                            <button onClick={() => setBetAmount(Math.max(100, betAmount - 100))} className="w-8 h-8 bg-[#3e2713] hover:bg-[#5c3a21] rounded-lg text-[#ffd700] font-bold transition-colors border border-[#ffd700]/20">-</button>
+                            <button onClick={() => setBetAmount(betAmount + 100)} className="w-8 h-8 bg-[#3e2713] hover:bg-[#5c3a21] rounded-lg text-[#ffd700] font-bold transition-colors border border-[#ffd700]/20">+</button>
+                        </div>
+                    </div>
+                    
+                    {/* Updated Navigation Grid */}
+                    <div className="grid grid-cols-3 gap-2">
+                        <button 
+                            onClick={() => setActiveModal('stats')}
+                            className="bg-black/40 hover:bg-black/60 border border-white/10 rounded-xl py-3 flex flex-col items-center justify-center gap-1 transition-all active:scale-95"
+                        >
+                            <BarChart3 size={18} className="text-purple-400"/>
+                            <span className="text-[10px] font-bold text-white/60 uppercase tracking-wider">Stats</span>
+                        </button>
+                        
+                        <button 
+                            onClick={() => setActiveModal('winners')}
+                            className="bg-black/40 hover:bg-black/60 border border-white/10 rounded-xl py-3 flex flex-col items-center justify-center gap-1 transition-all active:scale-95"
+                        >
+                            <Crown size={18} className="text-yellow-400"/>
+                            <span className="text-[10px] font-bold text-white/60 uppercase tracking-wider">Winners</span>
+                        </button>
+                        
+                        <button 
+                            onClick={() => setActiveModal('chat')}
+                            className="bg-black/40 hover:bg-black/60 border border-white/10 rounded-xl py-3 flex flex-col items-center justify-center gap-1 transition-all active:scale-95"
+                        >
+                            <MessageSquare size={18} className="text-blue-400"/>
+                            <span className="text-[10px] font-bold text-white/60 uppercase tracking-wider">Chat</span>
+                        </button>
+                    </div>
+                </div>
+
+                {/* --- STATS MODAL --- */}
+                {activeModal === 'stats' && (
+                    <div className="absolute inset-0 z-[60] bg-[#1a0f05] p-6 animate-in slide-in-from-bottom-10 fade-in duration-300">
+                        <button onClick={() => setActiveModal('none')} className="absolute top-4 right-4 text-white/50 hover:text-white bg-white/10 p-2 rounded-full"><XCircle/></button>
+                        <div className="flex items-center justify-between mb-6 pr-10">
+                            <h3 className="font-game text-2xl text-[#ffd700] flex items-center gap-2">
+                                <BarChart3 size={24} /> Stats
+                            </h3>
+                            <div className="flex bg-black/40 p-1 rounded-lg border border-white/10">
+                                <button onClick={() => setHistoryView('list')} className={cn("px-3 py-1 rounded text-xs font-bold transition-colors", historyView === 'list' ? 'bg-[#ffd700] text-black' : 'text-white/50')}>List</button>
+                                <button onClick={() => setHistoryView('chart')} className={cn("px-3 py-1 rounded text-xs font-bold transition-colors", historyView === 'chart' ? 'bg-[#ffd700] text-black' : 'text-white/50')}>Chart</button>
+                            </div>
+                        </div>
+                        
+                        <div className="grid grid-cols-3 gap-2 mb-4">
+                            <div className="bg-red-900/20 border border-red-500/20 p-2 rounded-xl text-center">
+                                <div className="text-[9px] text-red-400 font-bold uppercase mb-1">Red</div>
+                                <div className="text-lg font-black text-white">{history.filter(n => ROULETTE_COLORS[n] === 'red').length}</div>
+                            </div>
+                            <div className="bg-slate-800/40 border border-slate-500/20 p-2 rounded-xl text-center">
+                                <div className="text-[9px] text-slate-400 font-bold uppercase mb-1">Black</div>
+                                <div className="text-lg font-black text-white">{history.filter(n => ROULETTE_COLORS[n] === 'black').length}</div>
+                            </div>
+                            <div className="bg-green-900/20 border border-green-500/20 p-2 rounded-xl text-center">
+                                <div className="text-[9px] text-green-400 font-bold uppercase mb-1">Zero</div>
+                                <div className="text-lg font-black text-white">{history.filter(n => n === 0).length}</div>
+                            </div>
+                        </div>
+
+                        {historyView === 'chart' ? (
+                            <div className="space-y-4">
+                                <div className="text-[10px] text-white/40 font-bold uppercase tracking-widest text-center">Last 20 Rounds Trend</div>
+                                <RouletteChart history={history} />
+                                <RouletteBeadPlate history={history} />
+                            </div>
+                        ) : (
+                            <div className="space-y-2 h-[calc(100%-200px)] overflow-y-auto custom-scrollbar pr-2">
+                                {history.map((num, i) => {
+                                    const color = num === 0 ? 'green' : ROULETTE_COLORS[num];
+                                    return (
+                                        <div key={i} className="flex items-center justify-between p-2 rounded-xl bg-white/5 border border-white/5">
+                                            <div className="flex items-center gap-3">
+                                                <div className={cn(
+                                                    "w-8 h-8 rounded-full flex items-center justify-center text-xs font-black text-white shadow-lg border border-white/10",
+                                                    num === 0 ? "bg-green-600" : color === 'red' ? "bg-red-600" : "bg-slate-800"
+                                                )}>{num}</div>
+                                                <div className="flex flex-col">
+                                                    <span className="text-[10px] font-bold text-white uppercase">{color}</span>
+                                                    <span className="text-[8px] text-white/40">Round #{1000 + i}</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    );
+                                })}
+                            </div>
+                        )}
+                    </div>
+                )}
+
+                {/* --- WINNERS MODAL --- */}
+                {activeModal === 'winners' && (
+                    <div className="absolute inset-0 z-[60] bg-black/95 backdrop-blur-xl p-4 animate-in fade-in duration-300 flex items-center justify-center">
+                        <div className="w-full max-w-sm h-[90%] rounded-[2.5rem] border-2 border-yellow-500 relative overflow-hidden bg-[#0f1014] flex flex-col shadow-[0_0_40px_rgba(234,179,8,0.2)]">
+                            <button onClick={() => setActiveModal('none')} className="absolute top-5 right-5 text-white/30 hover:text-white bg-white/5 p-1 rounded-full transition-colors z-20">
+                                <XCircle size={22}/>
+                            </button>
+
+                            {/* Header Section */}
+                            <div className="pt-8 pb-4 px-6 relative z-10 flex flex-col items-center">
+                                <div className="flex items-center gap-3 mb-5">
+                                    <Crown size={28} className="text-yellow-400" strokeWidth={2.5} />
+                                    <h3 className="font-game text-2xl text-yellow-400 tracking-wide">Top Winners</h3>
+                                </div>
+
+                                {/* Tabs */}
+                                <div className="flex w-full bg-[#1a1b20] p-1.5 rounded-xl gap-2">
+                                    <button 
+                                        onClick={() => setWinnerTab('top')} 
+                                        className={cn("flex-1 py-3 rounded-lg text-[10px] font-black uppercase tracking-wider transition-all", 
+                                        winnerTab === 'top' ? "bg-yellow-400 text-black shadow-lg" : "text-white/40 hover:text-white")}
+                                    >
+                                        Total Winnings
+                                    </button>
+                                    <button 
+                                        onClick={() => setWinnerTab('streak')} 
+                                        className={cn("flex-1 py-3 rounded-lg text-[10px] font-black uppercase tracking-wider transition-all flex items-center justify-center gap-1", 
+                                        winnerTab === 'streak' ? "bg-[#2a2b30] text-white shadow-lg border border-white/10" : "text-white/40 hover:text-white")}
+                                    >
+                                        Hot Streaks <Flame size={12} className={winnerTab === 'streak' ? "text-orange-500 fill-orange-500" : "text-gray-600"}/>
+                                    </button>
+                                </div>
+                            </div>
+
+                            {/* List Header */}
+                            <div className="mx-4 mt-2 px-4 py-2 flex justify-between text-[10px] font-bold text-white/30 uppercase tracking-widest bg-[#15161a] rounded-t-xl border-b border-white/5">
+                                <div className="w-8 text-center">#</div>
+                                <div className="flex-1 pl-2">Player</div>
+                                <div className="text-right">Winnings</div>
+                            </div>
+
+                            {/* List Content */}
+                            <div className="flex-1 overflow-y-auto custom-scrollbar mx-4 mb-6 bg-[#15161a] rounded-b-xl border border-t-0 border-white/5 p-2 space-y-2">
+                                {sortedLeaders.slice(0, 10).map((p, i) => (
+                                    <div key={p.id} className={cn(
+                                        "relative flex items-center p-3 rounded-xl border transition-all duration-500",
+                                        "bg-[#1e1f25]",
+                                        i === 0 ? "border-yellow-500/30 bg-yellow-500/5" : "border-white/5",
+                                        p.justWon ? "shadow-[0_0_20px_rgba(16,185,129,0.3)] border-emerald-500/50 translate-x-1" : ""
+                                    )}>
+                                        {/* Rank Circle */}
+                                        <div className="w-8 flex justify-center shrink-0">
+                                            <div className={cn(
+                                                "w-6 h-6 rounded-full flex items-center justify-center text-[10px] font-black shadow-lg",
+                                                i === 0 ? "bg-yellow-400 text-black" : 
+                                                i === 1 ? "bg-slate-300 text-black" : 
+                                                i === 2 ? "bg-orange-700 text-white" : 
+                                                "bg-[#2a2b30] text-white/50"
+                                            )}>
+                                                {i + 1}
+                                            </div>
+                                        </div>
+
+                                        {/* Player Details */}
+                                        <div className="flex-1 pl-2 min-w-0">
+                                            <div className={cn("text-xs font-bold truncate flex items-center gap-1.5", i === 0 ? "text-yellow-400" : "text-white")}>
+                                                {i === 0 && <Crown size={10} className="fill-yellow-400"/>}
+                                                {p.name}
+                                            </div>
+                                            <div className="flex items-center gap-1.5 mt-1">
+                                                <span className="text-[9px] text-white/30 font-bold uppercase tracking-wider">BET:</span>
+                                                <span className={cn(
+                                                    "text-[9px] font-black px-1.5 py-0.5 rounded-[4px] uppercase tracking-wider border",
+                                                    p.currentBet === 'green' ? "bg-green-500/10 text-green-400 border-green-500/20" :
+                                                    p.currentBet === 'red' ? "bg-red-500/10 text-red-400 border-red-500/20" :
+                                                    "bg-slate-700/50 text-slate-300 border-slate-600/50"
+                                                )}>
+                                                    {p.currentBet}
+                                                </span>
+                                            </div>
+                                        </div>
+
+                                        {/* Winnings Value */}
+                                        <div className="text-right shrink-0">
+                                            {winnerTab === 'top' ? (
+                                                <div className={cn("text-sm font-black tracking-tight", 
+                                                    i === 0 ? "text-yellow-400 drop-shadow-[0_0_8px_rgba(250,204,21,0.5)]" : "text-emerald-400"
+                                                )}>
+                                                    ${(p.totalWin / 1000000).toFixed(2)}M
+                                                </div>
+                                            ) : (
+                                                <div className="flex items-center justify-end gap-1.5">
+                                                    <Flame size={14} className={cn(i < 3 ? "text-orange-500 fill-orange-500 animate-pulse" : "text-white/20")} />
+                                                    <div className={cn("text-sm font-black", i < 3 ? "text-white" : "text-white/50")}>
+                                                        {p.streak}
+                                                    </div>
+                                                </div>
+                                            )}
+                                        </div>
+                                    </div>
+                                ))}
+                            </div>
+                        </div>
+                    </div>
+                )}
+
+                {/* --- CHAT MODAL --- */}
+                {activeModal === 'chat' && (
+                    <div className="absolute inset-0 z-[60] bg-[#120800] p-6 animate-in slide-in-from-bottom-10 fade-in duration-300 flex flex-col">
+                        <button onClick={() => setActiveModal('none')} className="absolute top-4 right-4 text-white/50 hover:text-white bg-white/10 p-2 rounded-full"><XCircle/></button>
+                        
+                        <div className="flex items-center gap-3 mb-4">
+                            <div className="bg-blue-600/20 p-2 rounded-xl border border-blue-500/30">
+                                <MessageSquare size={20} className="text-blue-400" />
+                            </div>
+                            <div>
+                                <h3 className="font-game text-xl text-white tracking-wide">Live Chat</h3>
+                                <div className="flex items-center gap-1.5">
+                                    <span className="w-2 h-2 rounded-full bg-green-500 animate-pulse"></span>
+                                    <span className="text-[10px] text-white/40 font-bold uppercase tracking-wider">{onlineCount} Online</span>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        {/* Messages Area */}
+                        <div className="flex-1 bg-[#0a0f1c] rounded-2xl border border-white/5 overflow-hidden flex flex-col mb-4 shadow-inner relative">
+                            {/* Grid background pattern */}
+                            <div className="absolute inset-0 opacity-5 pointer-events-none bg-[radial-gradient(#fff_1px,transparent_1px)] [background-size:16px_16px]"></div>
+                            
+                            <div className="flex-1 overflow-y-auto custom-scrollbar p-3 space-y-3 relative z-10" ref={chatScrollRef}>
+                                {chatMessages.map((msg, i) => {
+                                    if (msg.type === 'system') {
+                                        return (
+                                            <div key={i} className="flex justify-center my-4 animate-in zoom-in duration-300">
+                                                <div className="bg-gradient-to-r from-transparent via-yellow-900/40 to-transparent px-6 py-1 rounded-full border-y border-yellow-500/20 text-[10px] font-bold text-yellow-200 uppercase tracking-wider shadow-[0_0_15px_rgba(234,179,8,0.1)]">
+                                                    {msg.text}
+                                                </div>
+                                            </div>
+                                        );
+                                    }
+                                    
+                                    const isMe = msg.type === 'hero';
+                                    
+                                    return (
+                                        <div key={i} className={cn("flex gap-3 animate-in slide-in-from-bottom-2 fade-in duration-300", isMe ? "flex-row-reverse" : "flex-row")}>
+                                            {/* Avatar */}
+                                            <div className={cn("w-8 h-8 rounded-lg shrink-0 flex items-center justify-center text-xs shadow-lg border", 
+                                                isMe ? "bg-blue-600 text-white border-blue-400" : "bg-slate-700 text-slate-300 border-slate-600"
+                                            )}>
+                                                {msg.name.charAt(0)}
+                                            </div>
+                                            
+                                            {/* Content */}
+                                            <div className={cn("flex flex-col max-w-[80%]", isMe ? "items-end" : "items-start")}>
+                                                <div className="flex items-center gap-1.5 mb-1">
+                                                    {/* VIP Badge for Bots/Users */}
+                                                    {!isMe && msg.vipLevel > 0 && getVipIcon(msg.vipLevel)}
+                                                    
+                                                    <span className={cn("text-[10px] font-bold", isMe ? "text-blue-400" : "text-slate-400")}>
+                                                        {msg.name}
+                                                    </span>
+                                                    
+                                                    {/* Bet Badge */}
+                                                    {msg.bet && (
+                                                        <span className={cn("text-[8px] px-1.5 py-0.5 rounded-[4px] uppercase font-black tracking-wider border", 
+                                                            msg.bet === 'red' ? "bg-red-900/50 text-red-400 border-red-500/20" : 
+                                                            msg.bet === 'green' ? "bg-green-900/50 text-green-400 border-green-500/20" :
+                                                            "bg-slate-700/50 text-slate-300 border-slate-600/50"
+                                                        )}>
+                                                            {msg.bet}
+                                                        </span>
+                                                    )}
+                                                </div>
+                                                
+                                                <div className={cn(
+                                                    "text-xs px-3 py-2 rounded-xl shadow-md break-words leading-relaxed",
+                                                    isMe ? "bg-blue-600 text-white rounded-tr-none" : "bg-[#1e293b] text-slate-200 rounded-tl-none border border-white/5"
+                                                )}>
+                                                    {msg.text}
+                                                </div>
+                                            </div>
+                                        </div>
+                                    );
+                                })}
+                            </div>
+                        </div>
+
+                        {/* Quick Reactions Bar */}
+                        <div className="flex gap-2 overflow-x-auto pb-3 scrollbar-hide mask-gradient-right">
+                            {QUICK_REACTIONS.map((reaction, idx) => (
+                                <button
+                                    key={idx}
+                                    onClick={(e) => handleSendChat(e, reaction.text)}
+                                    className="shrink-0 bg-white/5 hover:bg-white/10 border border-white/10 px-3 py-1.5 rounded-lg text-[10px] font-bold text-white/70 transition-all active:scale-95 whitespace-nowrap"
+                                >
+                                    {reaction.label}
+                                </button>
+                            ))}
+                        </div>
+
+                        {/* Input Area */}
+                        <form onSubmit={(e) => handleSendChat(e)} className="bg-black/40 p-1.5 rounded-2xl border border-white/10 flex gap-2 focus-within:border-blue-500/50 transition-colors">
+                            <input 
+                                type="text" 
+                                value={userChatInput}
+                                onChange={(e) => setUserChatInput(e.target.value)}
+                                placeholder="Type a message..." 
+                                className="flex-1 bg-transparent px-3 py-2 text-sm text-white placeholder:text-white/20 outline-none font-medium"
+                            />
+                            <button 
+                                type="submit" 
+                                disabled={!userChatInput.trim()}
+                                className="bg-blue-600 hover:bg-blue-500 disabled:opacity-50 disabled:bg-slate-700 text-white p-2.5 rounded-xl transition-colors shadow-lg active:scale-95"
+                            >
+                                <Send size={16} />
+                            </button>
+                        </form>
+                    </div>
+                )}
+             </div>
+         </div>
+    );
+}

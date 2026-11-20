@@ -1,0 +1,2241 @@
+{
+  "setId": "op11FistDivineSpeed",
+  "setName": "OP-11: A Fist of Divine Speed",
+  "series": "A Fist of Divine Speed",
+  "jsonPath": "/data/onepiece/op11.json",
+  "counts": {
+    "total": 117,
+    "Common": 45,
+    "Uncommon": 29,
+    "Rare": 25,
+    "SuperRare": 9,
+    "SecretRare": 2,
+    "Leader": 4,
+    "Special": 3
+  },
+  "cards": [
+    {
+      "cardNum": "OP07-085",
+      "name": "Stussy",
+      "rarity": "SP CARD",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "9",
+      "power": "9000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "CP0",
+      "effect": "[On Play] You may trash 1 of your Characters: K.O. up to 1 of your opponent's Characters.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP07-085_p2.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP07-085_p2.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP07/OP07-085_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP09-015",
+      "name": "Lucky.Roux",
+      "rarity": "TR",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "4",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Ranged",
+      "type": "Red-Haired Pirates",
+      "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On K.O.] If your Leader has the {Red-Haired Pirates} type, K.O. up to 1 of your opponent's Characters with a base power of 6000 or less.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP09-015_p1.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP09-015_p1.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP09/OP09-015_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-001",
+      "name": "Koby",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Red/Black",
+      "cost": "4",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Strike",
+      "type": "Navy/SWORD",
+      "effect": "Your {SWORD} type Characters can attack Characters on the turn in which they are played.[Once Per Turn] If your {Navy} type Character with 7000 base power or less would be removed from the field by your opponent's effect, you may place 3 cards from your trash at the bottom of your deck in any order instead.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-001.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-001.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-001_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-002",
+      "name": "Ain",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "3",
+      "power": "4000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "FILM/Neo Navy",
+      "effect": "[On Play] Give up to 1 of your opponent's Characters −1000 power during this turn. Then, K.O. up to 1 of your opponent's Characters with 0 power or less.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-002.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-002.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-002_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-003",
+      "name": "Usopp",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "5",
+      "power": "6000",
+      "counter": "2000",
+      "attribute": "Ranged",
+      "type": "Straw Hat Crew",
+      "effect": "-",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-003.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-003.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-003_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-004",
+      "name": "Kujyaku",
+      "rarity": "SR",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "1",
+      "power": "-",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Navy/SWORD",
+      "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Navy} type card other than [Kujyaku] and add it to your hand. Then, place the rest at the bottom of your deck in any order.[Activate: Main] You may trash this Character: Up to 1 of your Characters gains +1000 power during this turn.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-004.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-004.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-004_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-005",
+      "name": "Smoker",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "4",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Navy",
+      "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[DON!! x1] This Character cannot be K.O.'d by effects of Characters without the ＜Special＞ attribute.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-005.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-005.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-005_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-006",
+      "name": "Zephyr",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "5",
+      "power": "6000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "FILM/Neo Navy",
+      "effect": "[DON!! x1] [When Attacking] Give up to 1 of your opponent's ＜Special＞ attribute Characters −5000 power during this turn.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-006.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-006.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-006_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-007",
+      "name": "Tashigi",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "1",
+      "power": "1000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Navy",
+      "effect": "[Activate: Main] You may rest this Character: If your Leader has the {Navy} type, up to 1 of your {Navy} type Characters gains +2000 power during this turn.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-007.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-007.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-007_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-008",
+      "name": "Doll",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "4",
+      "power": "1000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Navy",
+      "effect": "[Blocker][On Play] You may trash 1 card from your hand: If your Leader has the {Navy} type, give up to 1 of your opponent's Characters −6000 power during this turn.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-008.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-008.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-008_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-009",
+      "name": "Nico Robin",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "3",
+      "power": "4000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Straw Hat Crew",
+      "effect": "[DON!! x2] [When Attacking] Give up to 1 of your opponent's Characters −2000 power until the end of your opponent's next turn.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-009.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-009.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-009_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-010",
+      "name": "Hibari",
+      "rarity": "SR",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "5",
+      "power": "6000",
+      "counter": "-",
+      "attribute": "Ranged",
+      "type": "Navy/SWORD",
+      "effect": "[On Play] Give up to 1 of your opponent's Characters −2000 power during this turn.[When Attacking] This Character gains +1000 power during this turn. Then, up to 1 of your {Navy} type Leader can also attack active Characters during this turn.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-010.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-010.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-010_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-011",
+      "name": "Bins",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "5",
+      "power": "7000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "FILM/Neo Navy",
+      "effect": "-",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-011.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-011.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-011_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-012",
+      "name": "Franky",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "4",
+      "power": "4000",
+      "counter": "2000",
+      "attribute": "Strike",
+      "type": "Straw Hat Crew",
+      "effect": "[Your Turn] [Once Per Turn] When your opponent activates an Event, all of your Characters gain +2000 power during this turn.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-012.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-012.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-012_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-013",
+      "name": "Prince Grus",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "1",
+      "power": "2000",
+      "counter": "2000",
+      "attribute": "Special",
+      "type": "Navy/SWORD",
+      "effect": "[When Attacking] All of your opponent's Characters with 2000 power or less cannot activate [Blocker] during this turn.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-013.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-013.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-013_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-014",
+      "name": "Borsalino",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "3",
+      "power": "3000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "FILM/Navy",
+      "effect": "[Blocker][Activate: Main] You may rest this Character: Up to 1 of your {Navy} type Leader or Character cards can also attack active Characters during this turn.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-014.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-014.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-014_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-015",
+      "name": "Mocha",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "4",
+      "power": "6000",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "Punk Hazard",
+      "effect": "-",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-015.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-015.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-015_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-016",
+      "name": "Roronoa Zoro",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "5",
+      "power": "6000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Straw Hat Crew",
+      "effect": "[Activate: Main] [Once Per Turn] Give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-016.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-016.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-016_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-017",
+      "name": "X.Drake",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "6",
+      "power": "7000",
+      "counter": "2000",
+      "attribute": "Slash",
+      "type": "Navy/SWORD/Drake Pirates",
+      "effect": "-",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-017.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-017.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-017_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-018",
+      "name": "Honesty Impact",
+      "rarity": "R",
+      "cardType": "EVENT",
+      "color": "Red",
+      "cost": "6",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Navy/SWORD",
+      "effect": "[Main] Give up to 1 of your opponent's Characters −4000 power during this turn. Then, K.O. up to 1 of your opponent's Characters with 6000 power or less.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-018.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-018.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-018_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-019",
+      "name": "Glorp Web!!",
+      "rarity": "C",
+      "cardType": "EVENT",
+      "color": "Red",
+      "cost": "2",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Navy/SWORD",
+      "effect": "[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, if your opponent has a Character with 6000 power or more, up to 1 of your Leader or Character cards gains +1000 power during this turn.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-019.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-019.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-019_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-020",
+      "name": "X Calibur",
+      "rarity": "UC",
+      "cardType": "EVENT",
+      "color": "Red",
+      "cost": "2",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Navy/SWORD/Drake Pirates",
+      "effect": "[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, if your opponent has a Character with 6000 power or more, up to 1 of your Leader or Character cards gains +1000 power during this turn.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-020.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-020.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-020_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-021",
+      "name": "Jinbe",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Green",
+      "cost": "5",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Strike",
+      "type": "Fish-Man/Straw Hat Crew",
+      "effect": "[End of Your Turn] If you have 6 or less cards in your hand, set up to 1 of your {Fish-Man} or {Merfolk} type Characters and up to 1 of your DON!! cards as active.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-021.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-021.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-021_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-023",
+      "name": "Arlong",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "7",
+      "power": "7000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Fish-Man/Fish-Man Island/The Sun Pirates",
+      "effect": "If your Leader has the {Fish-Man} type, you have 3 or less Life cards and your opponent has 5 or more rested cards, give this card in your hand −3 cost.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-023.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-023.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-023_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-024",
+      "name": "Aladine",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "4",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Merfolk/Fish-Man Island/The Sun Pirates",
+      "effect": "When this Character is K.O.'d by your opponent's effect, you may trash 1 card from your hand and rest 1 of your DON!! cards. If you do, play up to 1 {Fish-Man} or {Merfolk} type Character card with a cost of 6 or less from your hand.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-024.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-024.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-024_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-025",
+      "name": "Ishilly",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "2",
+      "power": "-",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "Merfolk/Fish-Man Island",
+      "effect": "[On Your Opponent's Attack] [Once Per Turn] You may rest 1 of your DON!! cards and this Character: Up to 1 of your Leader or Character cards gains +1000 power during this battle.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-025.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-025.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-025_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-026",
+      "name": "Scaled Neptunian",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "6",
+      "power": "8000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Neptunian",
+      "effect": "-",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-026.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-026.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-026_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-027",
+      "name": "Bulge-Eyed Neptunian",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "4",
+      "power": "6000",
+      "counter": "-",
+      "attribute": "Strike",
+      "type": "Neptunian",
+      "effect": "If your Leader is [Shirahoshi], this Character can attack Characters on the turn in which it is played.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-027.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-027.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-027_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-028",
+      "name": "Lord of the Coast",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "4",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Neptunian/East Blue",
+      "effect": "[On Play] Up to 1 of your opponent's rested Characters will not become active in your opponent's next Refresh Phase.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-028.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-028.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-028_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-029",
+      "name": "Charlotte Praline",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "3",
+      "power": "4000",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "Merfolk/Fish-Man Island/The Sun Pirates",
+      "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] Rest up to 1 of your opponent's Characters with a cost of 1 or less.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-029.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-029.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-029_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-030",
+      "name": "Shirahoshi",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "1",
+      "power": "-",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "Merfolk/Fish-Man Island",
+      "effect": "[Activate: Main] You may rest 1 of your DON!! cards and this Character: Look at 5 cards from the top of your deck; reveal up to 1 {Neptunian} or {Fish-Man Island} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-030.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-030.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-030_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-031",
+      "name": "Jinbe",
+      "rarity": "SR",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "6",
+      "power": "8000",
+      "counter": "-",
+      "attribute": "Strike",
+      "type": "Fish-Man/Fish-Man Island/The Sun Pirates",
+      "effect": "[On Play] If your Leader has the {Fish-Man} or {Merfolk} type, rest up to 1 of your opponent's Characters with a cost of 5 or less.[Activate: Main] [Once Per Turn] Up to 1 of your {Fish-Man} or {Merfolk} type Characters can attack Characters on the turn in which it is played.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-031.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-031.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-031_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-032",
+      "name": "Surume",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "5",
+      "power": "6000",
+      "counter": "2000",
+      "attribute": "Strike",
+      "type": "Animal/Fish-Man Island",
+      "effect": "-",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-032.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-032.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-032_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-033",
+      "name": "Bird Neptunian",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "6",
+      "power": "7000",
+      "counter": "2000",
+      "attribute": "Strike",
+      "type": "Neptunian",
+      "effect": "-",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-033.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-033.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-033_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-034",
+      "name": "Hatchan",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "4",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Fish-Man/Fish-Man Island/Former Arlong Pirates",
+      "effect": "[Activate: Main] You may rest this Character: If your Leader has the {Fish-Man} or {Merfolk} type, up to 1 of your opponent's Characters with a cost of 3 or less cannot be rested until the end of your opponent's next turn.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-034.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-034.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-034_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-035",
+      "name": "Fisher Tiger",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "6",
+      "power": "7000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Fish-Man/Fish-Man Island/The Sun Pirates",
+      "effect": "When this Character is K.O.'d by your opponent's effect, you may rest 1 of your DON!! cards. If you do, play up to 1 {Fish-Man} or {Merfolk} type Character card with a cost of 4 or less from your hand.[On Play] Rest up to 1 of your opponent's Characters.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-035.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-035.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-035_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-036",
+      "name": "Spotted Neptunian",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "4",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Neptunian",
+      "effect": "[On Play] If your Leader is [Shirahoshi], look at 5 cards from the top of your deck; reveal up to 1 {Neptunian} type card or [Shirahoshi] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-036.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-036.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-036_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-037",
+      "name": "Ancient Weapon Poseidon",
+      "rarity": "UC",
+      "cardType": "EVENT",
+      "color": "Green",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Fish-Man Island",
+      "effect": "[Main] Look at 4 cards from the top of your deck; reveal up to 1 {Neptunian} or {Fish-Man Island} type Character card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-037.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-037.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-037_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-038",
+      "name": "Gum-Gum Elephant Gatling",
+      "rarity": "R",
+      "cardType": "EVENT",
+      "color": "Green",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Fish-Man Island/Supernovas/Straw Hat Crew",
+      "effect": "[Main] You may rest 1 of your DON!! cards: Rest up to 1 of your opponent's Characters with a cost of 5 or less.[Counter] Up to 1 of your Leader gains +3000 power during this battle.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-038.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-038.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-038_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-039",
+      "name": "Vagabond Drill",
+      "rarity": "C",
+      "cardType": "EVENT",
+      "color": "Green",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Fish-Man/Fish-Man Island/The Sun Pirates",
+      "effect": "[Counter] Up to 1 of your {Fish-Man} or {Merfolk} type Leader or Character cards gains +3000 power during this battle. Then, rest up to 1 of your opponent's Characters with a cost of 3 or less.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-039.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-039.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-039_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-040",
+      "name": "Monkey.D.Luffy",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Blue/Purple",
+      "cost": "3",
+      "power": "6000",
+      "counter": "-",
+      "attribute": "Strike",
+      "type": "Straw Hat Crew",
+      "effect": "This effect can be activated at the start of your turn. If you have 8 or more DON!! cards on your field, look at 5 cards from the top of your deck; reveal up to 1 {Straw Hat Crew} type card and add it to your hand. Then, place the rest at the top or bottom of the deck in any order.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-040.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-040.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-040_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-042",
+      "name": "Vito",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "3",
+      "power": "4000",
+      "counter": "1000",
+      "attribute": "Ranged",
+      "type": "Firetank Pirates",
+      "effect": "[On Play] You may trash 1 {Firetank Pirates} type card from your hand: This Character gains [Rush] during this turn.(This card can attack on the turn in which it is played.)",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-042.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-042.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-042_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-043",
+      "name": "Vinsmoke Ichiji",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "7",
+      "power": "7000",
+      "counter": "-",
+      "attribute": "Strike",
+      "type": "The Vinsmoke Family/GERMA 66",
+      "effect": "[Blocker][On Your Opponent's Attack] [Once Per Turn] This effect can be activated when you only have Characters with a type including \"GERMA\". Up to 1 of your Leader or Character cards gains +1000 power during this battle. Then, trash 2 cards from the top of your deck.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-043.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-043.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-043_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-044",
+      "name": "Vinsmoke Judge",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "6",
+      "power": "8000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "The Vinsmoke Family/GERMA 66",
+      "effect": "[Activate: Main] [Once Per Turn] You may trash 1 card from your hand: All of your {GERMA 66} type Characters gain +1000 power during this turn.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-044.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-044.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-044_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-045",
+      "name": "Vinsmoke Niji",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "5",
+      "power": "6000",
+      "counter": "2000",
+      "attribute": "Special",
+      "type": "The Vinsmoke Family/GERMA 66",
+      "effect": "-",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-045.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-045.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-045_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-046",
+      "name": "Vinsmoke Yonji",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "4",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "The Vinsmoke Family/GERMA 66",
+      "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)If you only have Characters with a type including \"GERMA\", this Character cannot be K.O.'d or rested by your opponent's effects.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-046.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-046.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-046_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-047",
+      "name": "Vinsmoke Reiju",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "4",
+      "power": "5000",
+      "counter": "2000",
+      "attribute": "Special",
+      "type": "The Vinsmoke Family/GERMA 66",
+      "effect": "[On Play] If your Leader has the {The Vinsmoke Family} type, look at 5 cards from the top of your deck; reveal up to 1 card with a type including \"GERMA\" and add it to your hand. Then, trash the rest.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-047.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-047.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-047_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-048",
+      "name": "Capone\"Gang\"Bege",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "1",
+      "power": "2000",
+      "counter": "1000",
+      "attribute": "Ranged",
+      "type": "Supernovas/Firetank Pirates",
+      "effect": "[On Play] Look at 4 cards from the top of your deck; reveal up to 1 {Firetank Pirates} or {Straw Hat Crew} type card with a cost of 2 or more and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-048.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-048.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-048_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-049",
+      "name": "Carrot",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "1",
+      "power": "1000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Minks",
+      "effect": "[On Play] Look at 3 cards from the top of your deck and place them at the top or bottom of the deck in any order.[On Your Opponent's Attack] You may trash this Character: Up to 1 of your Leader gains +1000 power during this battle.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-049.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-049.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-049_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-050",
+      "name": "Gotti",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "3",
+      "power": "4000",
+      "counter": "2000",
+      "attribute": "Ranged",
+      "type": "Firetank Pirates",
+      "effect": "[When Attacking] You may trash 1 {Firetank Pirates} type card from your hand: Return up to 1 Character with a cost of 1 or less to the owner's hand or place it at the bottom of their deck.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-050.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-050.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-050_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-051",
+      "name": "Sanji",
+      "rarity": "SR",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "6",
+      "power": "7000",
+      "counter": "-",
+      "attribute": "Strike",
+      "type": "The Vinsmoke Family/Straw Hat Crew",
+      "effect": "When this Character is K.O.'d by your opponent's effect, look at 5 cards from the top of your deck and play up to 1 {Straw Hat Crew} type Character card with a cost of 5 or less. Then, place the rest at the bottom of your deck in any order.[On Play] Return up to 1 Character with 5000 base power or less to the owner's hand.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-051.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-051.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-051_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-052",
+      "name": "Charlotte Lola",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "5",
+      "power": "7000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Firetank Pirates/Former Rolling Pirates",
+      "effect": "-",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-052.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-052.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-052_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-053",
+      "name": "Tony Tony.Chopper",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "5",
+      "power": "6000",
+      "counter": "2000",
+      "attribute": "Strike",
+      "type": "Animal/Straw Hat Crew",
+      "effect": "-",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-053.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-053.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-053_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-054",
+      "name": "Nami",
+      "rarity": "SR",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "5",
+      "power": "6000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Straw Hat Crew",
+      "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] If your Leader is multicolored, draw 3 cards and place 2 cards from your hand at the top or bottom of your deck in any order.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-054.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-054.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-054_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-055",
+      "name": "Bartolomeo",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "6",
+      "power": "7000",
+      "counter": "2000",
+      "attribute": "Special",
+      "type": "Dressrosa/Supernovas",
+      "effect": "-",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-055.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-055.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-055_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-056",
+      "name": "Brook",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "3",
+      "power": "4000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Straw Hat Crew",
+      "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] Place up to 1 Character with a base cost of 1 at the bottom of the owner's deck.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-056.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-056.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-056_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-057",
+      "name": "Pedro",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "1",
+      "power": "1000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Minks",
+      "effect": "If you have 4 or less cards in your hand, this Character gains [Blocker].(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-057.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-057.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-057_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-059",
+      "name": "Gum-Gum King Cobra",
+      "rarity": "C",
+      "cardType": "EVENT",
+      "color": "Blue",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Straw Hat Crew",
+      "effect": "[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, if you have 4 or less cards in your hand, that card gains an additional +2000 power during this battle.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-059.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-059.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-059_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-060",
+      "name": "Let's Crash This Wedding!!!",
+      "rarity": "R",
+      "cardType": "EVENT",
+      "color": "Blue",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Straw Hat Crew",
+      "effect": "[Main] If your Leader is multicolored, look at 5 cards from the top of your deck; reveal up to 1 {Straw Hat Crew} type card other than [Let's Crash This Wedding!!!] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-060.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-060.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-060_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-061",
+      "name": "Gum-Gum Jet Culverin",
+      "rarity": "UC",
+      "cardType": "EVENT",
+      "color": "Blue",
+      "cost": "3",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Straw Hat Crew",
+      "effect": "[Main] Place up to 1 of your opponent's Characters with a base cost of 4 or less at the bottom of the owner's deck.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-061.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-061.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-061_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-062",
+      "name": "Charlotte Katakuri",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Purple",
+      "cost": "5",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Strike",
+      "type": "Big Mom Pirates",
+      "effect": "[When Attacking]/[On Your Opponent's Attack] [Once Per Turn] DON!! −1: Look at 1 card from the top of your opponent's deck. Then, this Leader gains +1000 power during this battle.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-062.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-062.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-062_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-063",
+      "name": "Little Sadi",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "2",
+      "power": "2000",
+      "counter": "2000",
+      "attribute": "Wisdom",
+      "type": "Impel Down",
+      "effect": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your Leader has the {Impel Down} type, rest up to 1 of your opponent's Characters with a cost of 3 or less.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-063.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-063.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-063_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-064",
+      "name": "Saldeath",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "6",
+      "power": "8000",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "Impel Down",
+      "effect": "-",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-064.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-064.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-064_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-065",
+      "name": "Charlotte Anana",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "1",
+      "power": "1000",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "Big Mom Pirates",
+      "effect": "If you have a purple {Big Mom Pirates} type Character other than [Charlotte Anana], this Character gains [Blocker].(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-065.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-065.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-065_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-066",
+      "name": "Charlotte Oven",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "4",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Big Mom Pirates",
+      "effect": "[Activate: Main] You may rest this Character: Choose a cost and reveal 1 card from the top of your opponent's deck. If the revealed card has the chosen cost, K.O. up to 1 of your opponent's Characters with a base cost of 3 or less. Then, add up to 1 DON!! card from your DON!! deck and rest it.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-066.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-066.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-066_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-068",
+      "name": "Charlotte Daifuku",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "6",
+      "power": "7000",
+      "counter": "2000",
+      "attribute": "Slash",
+      "type": "Big Mom Pirates",
+      "effect": "-",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-068.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-068.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-068_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-069",
+      "name": "Charlotte Brulee",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "3",
+      "power": "4000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Big Mom Pirates",
+      "effect": "[On Play] You may add 1 card from the top of your Life cards to your hand: If your Leader has the {Big Mom Pirates} type, add up to 1 DON!! card from your DON!! deck and set it as active.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-069.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-069.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-069_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-070",
+      "name": "Charlotte Pudding",
+      "rarity": "SR",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "1",
+      "power": "-",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "Big Mom Pirates",
+      "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Big Mom Pirates} type card with a cost of 2 or more and add it to your hand. Then, place the rest at the bottom of your deck in any order.[Activate: Main] DON!! −1, You may rest this Character: Look at 1 card from the top of your opponent's deck.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-070.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-070.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-070_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-071",
+      "name": "Charlotte Perospero",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "5",
+      "power": "7000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "Big Mom Pirates",
+      "effect": "[Activate: Main] [Once Per Turn] You may trash 1 card from your hand: Choose a cost and reveal 1 card from the top of your opponent's deck. If the revealed card has the chosen cost, draw 1 card and add up to 1 DON!! card from your DON!! deck and set it as active.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-071.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-071.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-071_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-072",
+      "name": "Charlotte Mont-d'or",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "3",
+      "power": "4000",
+      "counter": "2000",
+      "attribute": "Special",
+      "type": "Big Mom Pirates",
+      "effect": "[Activate: Main] [Once Per Turn] DON!! −1, You may rest this Character: Your opponent places 2 cards from their trash at the bottom of their deck in any order. Then, add 1 card from the top of your Life cards to your hand.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-072.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-072.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-072_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-073",
+      "name": "Charlotte Linlin",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "10",
+      "power": "12000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "The Four Emperors/Big Mom Pirates",
+      "effect": "If your Leader has the {Big Mom Pirates} type, this Character gains [Rush].[On Your Opponent's Attack] [Once Per Turn] DON!! −5: Choose a cost and reveal 1 card from the top of your opponent's deck. If the revealed card has the chosen cost, up to 1 of your Leader gains +2000 power during this turn.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-073.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-073.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-073_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-074",
+      "name": "Streusen",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "3",
+      "power": "3000",
+      "counter": "2000",
+      "attribute": "Slash",
+      "type": "Big Mom Pirates",
+      "effect": "[Activate: Main] [Once Per Turn] DON!! −1, You may rest this Character: Choose a cost and reveal 1 card from the top of your opponent's deck. If the revealed card has the chosen cost, rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-074.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-074.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-074_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-075",
+      "name": "Jaguar.D.Saul",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "6",
+      "power": "6000",
+      "counter": "-",
+      "attribute": "Strike",
+      "type": "Giant/Ohara/Former Navy",
+      "effect": "[On Play] If your Leader is [Nico Robin] and you have 7 or more DON!! cards on your field, draw 2 cards.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-075.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-075.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-075_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-076",
+      "name": "Hannyabal",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "5",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Impel Down",
+      "effect": "[Blocker][On Play] If your Leader has the {Impel Down} type, play up to 1 {Impel Down} type Character card with a cost of 3 or less from your hand.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-076.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-076.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-076_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-077",
+      "name": "Randolph",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "1",
+      "power": "2000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Homies/Big Mom Pirates",
+      "effect": "[Your Turn] [Once Per Turn] When a DON!! card on your field is returned to your DON!! deck, up to 1 of your {Big Mom Pirates} type Characters gains +2 cost until the end of your opponent's next turn.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-077.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-077.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-077_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-078",
+      "name": "Decuplets",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "5",
+      "power": "6000",
+      "counter": "2000",
+      "attribute": "Wisdom",
+      "type": "Big Mom Pirates",
+      "effect": "-",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-078.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-078.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-078_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-079",
+      "name": "When Two Men Are Fighting the Last Thing I Need Is Some Half-Hearted Assistance!!!!",
+      "rarity": "UC",
+      "cardType": "EVENT",
+      "color": "Purple",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Big Mom Pirates",
+      "effect": "[Counter] Choose a cost and reveal 1 card from the top of your opponent's deck. If the revealed card has the chosen cost, up to 1 of your Leader or Character cards gains +5000 power during this battle.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-079.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-079.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-079_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-080",
+      "name": "Gear Two",
+      "rarity": "R",
+      "cardType": "EVENT",
+      "color": "Purple",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Straw Hat Crew",
+      "effect": "[Main] You may rest 2 of your DON!! cards: If your Leader's colors include blue, add up to 1 DON!! card from your DON!! deck and rest it.[Counter] Up to 1 of your Leader gains +3000 power during this battle.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-080.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-080.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-080_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-081",
+      "name": "Cognac Mama-Mash",
+      "rarity": "C",
+      "cardType": "EVENT",
+      "color": "Purple",
+      "cost": "6",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "The Four Emperors/Big Mom Pirates",
+      "effect": "[Main] Choose a cost and reveal 1 card from the top of your opponent's deck. If the revealed card has the chosen cost, K.O. up to 1 of your opponent's Characters with a base cost of 8 or less.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-081.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-081.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-081_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-082",
+      "name": "Aramaki",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "1",
+      "power": "2000",
+      "counter": "2000",
+      "attribute": "Special",
+      "type": "Navy",
+      "effect": "[Activate: Main] You may trash this Character: If your Leader has the {Navy} type, up to 1 of your {Navy} type Characters can also attack active Characters during this turn. Then, trash 2 cards from the top of your deck.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-082.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-082.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-082_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-083",
+      "name": "Caribou",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "1",
+      "power": "2000",
+      "counter": "2000",
+      "attribute": "Special",
+      "type": "Caribou Pirates",
+      "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] Trash 2 cards from your hand.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-083.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-083.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-083_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-084",
+      "name": "Kuzan",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "4",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Navy",
+      "effect": "[On Play] Trash 3 cards from the top of your deck.[When Attacking] Up to 1 of your {Navy} type Leader or Character cards can also attack active Characters during this turn.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-084.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-084.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-084_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-085",
+      "name": "Kurozumi Orochi",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "3",
+      "power": "4000",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "Land of Wano/Kurozumi Clan",
+      "effect": "[On Play] Add up to 1 {SMILE} type card with a cost of 5 or less from your trash to your hand.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-085.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-085.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-085_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-086",
+      "name": "Coribou",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "3",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Caribou Pirates",
+      "effect": "[On Play] Trash 1 card from your hand.[Activate: Main] You may trash this Character: Play up to 1 [Caribou] with a cost of 4 or less from your trash.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-086.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-086.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-086_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-087",
+      "name": "Miss Sarahebi",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "5",
+      "power": "6000",
+      "counter": "2000",
+      "attribute": "Wisdom",
+      "type": "Animal Kingdom Pirates/SMILE",
+      "effect": "-",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-087.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-087.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-087_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-088",
+      "name": "Shu",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "4",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Navy",
+      "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[Once Per Turn] This effect can be activated when your opponent's Character attacks. If that Character has the ＜Slash＞ attribute, this Character gains +5000 power during this battle.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-088.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-088.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-088_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-089",
+      "name": "Black Maria",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "5",
+      "power": "7000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Animal Kingdom Pirates",
+      "effect": "-",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-089.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-089.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-089_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-090",
+      "name": "Briscola",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "2",
+      "power": "2000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Animal Kingdom Pirates/SMILE",
+      "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-090.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-090.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-090_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-091",
+      "name": "Berry Good",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "4",
+      "power": "5000",
+      "counter": "2000",
+      "attribute": "Special",
+      "type": "Navy",
+      "effect": "[On Play] Your opponent places 3 Events from their trash at the bottom of their deck in any order.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-091.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-091.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-091_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-092",
+      "name": "Helmeppo",
+      "rarity": "SR",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "6",
+      "power": "7000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "Navy/SWORD",
+      "effect": "[On Play] You may trash 1 card from your hand: Draw 1 card and play up to 1 {SWORD} type Character card with a cost of 8 or less other than [Helmeppo] from your trash. Then, place the 1 Character played by this effect at the bottom of the owner's deck at the end of this turn.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-092.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-092.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-092_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-093",
+      "name": "Bogard",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "6",
+      "power": "7000",
+      "counter": "2000",
+      "attribute": "Slash",
+      "type": "Navy",
+      "effect": "-",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-093.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-093.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-093_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-094",
+      "name": "Morgan",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "6",
+      "power": "8000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Navy",
+      "effect": "-",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-094.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-094.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-094_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-095",
+      "name": "Monkey.D.Garp",
+      "rarity": "SR",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "8",
+      "power": "8000",
+      "counter": "-",
+      "attribute": "Strike",
+      "type": "Navy",
+      "effect": "[On Play] You may place 3 {Navy} type cards from your trash at the bottom of your deck in any order: Give up to 1 rested DON!! card to 1 of your Leader. Then, if there is a Character with a cost of 9 or more, K.O. up to 1 of your opponent's Characters with a cost of 7 or less.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-095.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-095.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-095_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-096",
+      "name": "Ripper",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "1",
+      "power": "1000",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "East Blue/Navy",
+      "effect": "If you have a black {Navy} type Character other than [Ripper], this Character gains [Blocker].(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-096.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-096.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-096_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-097",
+      "name": "After All These Years I'm Losing My Edge!!!",
+      "rarity": "UC",
+      "cardType": "EVENT",
+      "color": "Black",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Navy",
+      "effect": "[Counter] Up to 1 of your Leader or Character cards gains +1000 power during this battle. Then, if you have 10 or more cards in your trash, add up to 1 black Character card with a cost of 3 or less from your trash to your hand.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-097.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-097.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-097_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-098",
+      "name": "Blue Hole",
+      "rarity": "C",
+      "cardType": "EVENT",
+      "color": "Black",
+      "cost": "3",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Navy",
+      "effect": "[Main] You may trash 3 cards from the top of your deck: K.O. up to 1 of your opponent's Characters with a cost of 2 or less.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-098.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-098.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-098_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-099",
+      "name": "I'm Gonna Be a Navy Officer!!!",
+      "rarity": "R",
+      "cardType": "EVENT",
+      "color": "Black",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "East Blue/Navy",
+      "effect": "[Main] Look at 3 cards from the top of your deck; reveal up to 1 {Navy} type card other than [I'm Gonna Be a Navy Officer!!!] and add it to your hand. Then, trash the rest.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-099.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-099.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-099_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-100",
+      "name": "Otohime",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "1",
+      "power": "-",
+      "counter": "2000",
+      "attribute": "Wisdom",
+      "type": "Merfolk/Fish-Man Island",
+      "effect": "[On Play] If your Leader is [Shirahoshi], you may turn 1 card from the top of your Life cards face-down: Draw 1 card.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-100.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-100.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-100_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-101",
+      "name": "Capone\"Gang\"Bege",
+      "rarity": "SR",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "2",
+      "power": "1000",
+      "counter": "1000",
+      "attribute": "Ranged",
+      "type": "Supernovas/Firetank Pirates",
+      "effect": "[Blocker][Once Per Turn] If your {Supernovas} type Character other than [Capone\"Gang\"Bege] would be removed from the field by your opponent's effect, you may add it to the top of your Life cards face-down instead.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-101.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-101.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-101_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-102",
+      "name": "Camie",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "1",
+      "power": "1000",
+      "counter": "2000",
+      "attribute": "Wisdom",
+      "type": "Merfolk/Fish-Man Island",
+      "effect": "[Your Turn] [Once Per Turn] This effect can be activated when your opponent activates an Event or [Trigger]. If your opponent has 2 or more Life cards, trash 1 card from the top of each of your and your opponent's Life cards.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-102.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-102.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-102_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-103",
+      "name": "Long-Jaw Neptunian",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "5",
+      "power": "7000",
+      "counter": "-",
+      "attribute": "Strike",
+      "type": "Neptunian",
+      "effect": "[Activate: Main] If your Leader is [Shirahoshi], you may rest this Character and turn 1 card from the top of your Life cards face-down: K.O. up to 1 of your opponent's Characters with a cost of 3 or less.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-103.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-103.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-103_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-104",
+      "name": "Shirley",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "3",
+      "power": "4000",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "Merfolk/Fish-Man Island",
+      "effect": "[Blocker][On Play] You may turn 1 card from the top of your Life cards face-down: Look at 3 cards from the top of your deck; reveal up to 1 {Fish-Man Island} type card and add it to your hand. Then, place the rest at the top or bottom of the deck in any order.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-104.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-104.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-104_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-105",
+      "name": "Charlotte Chiffon",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "5",
+      "power": "6000",
+      "counter": "2000",
+      "attribute": "Wisdom",
+      "type": "Firetank Pirates/Former Big Mom Pirates",
+      "effect": "-",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-105.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-105.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-105_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-107",
+      "name": "Topknot Neptunian",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "5",
+      "power": "6000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Neptunian",
+      "effect": "[Blocker][Activate: Main] [Once Per Turn] If your Leader is [Shirahoshi], you may turn 1 card from the top of your Life cards face-down: Set this Character as active at the end of this turn.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-107.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-107.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-107_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-108",
+      "name": "Neptune",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "5",
+      "power": "7000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "Merfolk/Fish-Man Island",
+      "effect": "[On Play] If your Leader is [Shirahoshi], you may turn 1 card from the top of your Life cards face-down: Draw 2 cards and trash 1 card from your hand.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-108.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-108.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-108_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-109",
+      "name": "Pappag",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "1",
+      "power": "-",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "Animal/Fish-Man Island",
+      "effect": "[On Play] If you have [Camie], draw 2 cards and trash 2 cards from your hand.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-109.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-109.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-109_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-110",
+      "name": "Fukaboshi",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "3",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "Merfolk/Fish-Man Island",
+      "effect": "If this Character would be K.O.'d, you may rest 1 of your [Fish-Man Island] or your [Shirahoshi] Leader instead.[On Play] You may add 1 card from the top or bottom of your Life cards to your hand: K.O. up to 1 of your opponent's Characters with a cost of 1 or less.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-110.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-110.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-110_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-111",
+      "name": "Mamboshi",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "6",
+      "power": "7000",
+      "counter": "2000",
+      "attribute": "Slash",
+      "type": "Merfolk/Fish-Man Island",
+      "effect": "-",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-111.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-111.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-111_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-112",
+      "name": "Megalo",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "3",
+      "power": "2000",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "Animal/Fish-Man Island",
+      "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[Opponent's Turn] If your Leader is [Shirahoshi], this Character gains +4000 power.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-112.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-112.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-112_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-113",
+      "name": "Ryuboshi",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "5",
+      "power": "7000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Merfolk/Fish-Man Island",
+      "effect": "-",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-113.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-113.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-113_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-114",
+      "name": "Gum-Gum Fire-Fist Pistol Red Hawk",
+      "rarity": "R",
+      "cardType": "EVENT",
+      "color": "Yellow",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Straw Hat Crew",
+      "effect": "[Main] You may rest 3 of your DON!! cards: If you and your opponent have a total of 5 or more Life cards, K.O. up to 1 of your opponent's Characters with a base cost of 5 or less.[Counter] Up to 1 of your Leader gains +3000 power during this battle.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-114.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-114.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-114_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-115",
+      "name": "You're Just Not My Type!",
+      "rarity": "UC",
+      "cardType": "EVENT",
+      "color": "Yellow",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Merfolk/Fish-Man Island",
+      "effect": "[Counter] If your Leader is [Shirahoshi], up to 1 of your Leader or Character cards gains +4000 power during this battle.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-115.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-115.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-115_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-116",
+      "name": "Merman Combat Ultramarine",
+      "rarity": "C",
+      "cardType": "EVENT",
+      "color": "Yellow",
+      "cost": "6",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Merfolk/Fish-Man Island",
+      "effect": "[Main] Add up to 1 Character with a cost of 6 or less to the top or bottom of the owner's Life cards face-up.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-116.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-116.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-116_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-117",
+      "name": "Fish-Man Island",
+      "rarity": "C",
+      "cardType": "STAGE",
+      "color": "Yellow",
+      "cost": "2",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Fish-Man Island",
+      "effect": "[Activate: Main] [Once Per Turn] If your Leader is [Shirahoshi], you may turn 1 card from the top of your Life cards face-up: Up to 1 of your {Neptunian}, {Fish-Man}, or {Merfolk} type Characters gains +1000 power during this turn.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-117.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-117.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-117_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-118",
+      "name": "Monkey.D.Luffy",
+      "rarity": "SEC",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "8",
+      "power": "8000",
+      "counter": "-",
+      "attribute": "Strike",
+      "type": "Straw Hat Crew",
+      "effect": "[Rush][When Attacking] You may trash 1 card from your hand: Return up to 1 Character with a cost of 4 or less to the owner's hand. Then, give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-118.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-118.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-118_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-119",
+      "name": "Koby",
+      "rarity": "SEC",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "8",
+      "power": "9000",
+      "counter": "-",
+      "attribute": "Strike",
+      "type": "Navy/SWORD",
+      "effect": "[On Play] Up to 1 of your Characters can also attack active Characters during this turn.[When Attacking] You may place 2 cards from your trash at the bottom of your deck in any order: Up to 1 of your Leader or Character cards gains +1000 power until the end of your opponent's next turn.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-119.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-119.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-119_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "ST18-005",
+      "name": "Luffy-Tarou",
+      "rarity": "SP CARD",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "7",
+      "power": "8000",
+      "counter": "-",
+      "attribute": "Strike",
+      "type": "Straw Hat Crew",
+      "effect": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Play up to 1 purple {Straw Hat Crew} type Character card with a cost of 5 or less from your hand.",
+      "cardSets": "Card Set(s)-A FIST OF DIVINE SPEED- [OP-11]",
+      "img": "https://optcgapi.com/media/static/Card_Images/ST18-005_p1.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/ST18-005_p1.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/ST18/ST18-005_EN.webp"
+      ]
+    }
+  ]
+}

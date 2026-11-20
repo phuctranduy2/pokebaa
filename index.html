@@ -1,0 +1,171 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>PokeCard Shop Simulator 3D - Tiệm Thẻ Bài Pokemon</title>
+    <meta name="description" content="Tựa game mô phỏng quản lý cửa hàng thẻ bài Pokemon TCG 3D phong cách Steam. Xé pack săn Charizard SIR, trưng bày tủ kính, nhập hàng sỉ và quét mã vạch POS cho khách hàng!" />
+    <meta property="og:title" content="PokeCard Shop Simulator 3D - Tiệm Thẻ Bài Pokemon" />
+    <meta property="og:description" content="Tựa game mô phỏng quản lý cửa hàng thẻ bài Pokemon TCG 3D phong cách Steam. Xé pack săn Charizard SIR, trưng bày tủ kính, nhập hàng sỉ và quét mã vạch POS cho khách hàng!" />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <script>
+      /* Safeguard against third-party browser extensions (Sender Wallet, Phantom, MetaMask, EVM/Web3 wallets) throwing errors */
+      (function() {
+        // 1. Intercept postMessage before Sender Wallet's in-page listener receives providerResult error
+        window.addEventListener('message', function(event) {
+          if (!event || !event.data) return;
+          var str = '';
+          try {
+            str = typeof event.data === 'string' ? event.data : JSON.stringify(event.data);
+          } catch (_) {}
+          if (
+            str.indexOf('sender-wallet') !== -1 ||
+            str.indexOf('sender_getProviderState') !== -1 ||
+            str.indexOf('No account exist') !== -1 ||
+            (event.data && event.data.type && String(event.data.type).indexOf('sender') !== -1)
+          ) {
+            if (event.stopImmediatePropagation) {
+              event.stopImmediatePropagation();
+            }
+            if (event.stopPropagation) {
+              event.stopPropagation();
+            }
+          }
+        }, true);
+
+        // 2. Pre-define dummy sender provider to satisfy Sender Wallet without triggering account lookups
+        try {
+          var dummySender = {
+            isSender: true,
+            callbacks: {},
+            getProviderState: function() {
+              return Promise.resolve({ isConnected: false, accounts: [] });
+            },
+            on: function() {},
+            off: function() {},
+            once: function() {},
+            addListener: function() {},
+            removeListener: function() {},
+            request: function() { return Promise.resolve(); },
+            send: function() { return Promise.resolve(); },
+            isSignedIn: function() { return false; },
+            getAccountId: function() { return ''; }
+          };
+          Object.defineProperty(window, 'sender', {
+            value: dummySender,
+            writable: true,
+            configurable: true
+          });
+        } catch (_) {}
+
+        try {
+          var origDefineProperty = Object.defineProperty;
+          Object.defineProperty = function(obj, prop, descriptor) {
+            if ((obj === window || obj === globalThis) && (prop === 'ethereum' || prop === 'sender')) {
+              try {
+                var safeDescriptor = Object.assign({}, descriptor, { configurable: true });
+                return origDefineProperty.call(Object, obj, prop, safeDescriptor);
+              } catch (_err) {
+                try {
+                  if (descriptor && 'value' in descriptor) {
+                    window[prop] = descriptor.value;
+                  }
+                } catch (_) {}
+                return obj;
+              }
+            }
+            return origDefineProperty.call(Object, obj, prop, descriptor);
+          };
+        } catch (_) {}
+
+        function isIgnoredExtensionNoise(str) {
+          if (!str) return false;
+          var s = String(str);
+          return (
+            s.indexOf('sender-wallet') !== -1 ||
+            s.indexOf('sender_getProviderState') !== -1 ||
+            s.indexOf('Sender: Failed to get initial state') !== -1 ||
+            s.indexOf('No account exist') !== -1 ||
+            s.indexOf('chrome-extension://') !== -1 ||
+            s.indexOf('moz-extension://') !== -1 ||
+            s.indexOf('safari-web-extension://') !== -1 ||
+            s.indexOf('evmAsk.js') !== -1 ||
+            s.indexOf('ethereum') !== -1 ||
+            s.indexOf('Cannot redefine property') !== -1
+          );
+        }
+
+        try {
+          var origConsoleError = console.error;
+          console.error = function() {
+            var args = Array.prototype.slice.call(arguments);
+            var text = '';
+            for (var i = 0; i < args.length; i++) {
+              try {
+                text += ' ' + (typeof args[i] === 'object' ? JSON.stringify(args[i]) : String(args[i]));
+              } catch (_) {
+                text += ' ' + String(args[i]);
+              }
+            }
+            if (isIgnoredExtensionNoise(text)) {
+              return;
+            }
+            return origConsoleError.apply(console, arguments);
+          };
+
+          var origConsoleWarn = console.warn;
+          console.warn = function() {
+            var args = Array.prototype.slice.call(arguments);
+            var text = '';
+            for (var i = 0; i < args.length; i++) {
+              try {
+                text += ' ' + (typeof args[i] === 'object' ? JSON.stringify(args[i]) : String(args[i]));
+              } catch (_) {
+                text += ' ' + String(args[i]);
+              }
+            }
+            if (isIgnoredExtensionNoise(text)) {
+              return;
+            }
+            return origConsoleWarn.apply(console, arguments);
+          };
+        } catch (_) {}
+
+        window.addEventListener('error', function(event) {
+          var filename = (event && event.filename) || '';
+          var message = (event && event.message) || '';
+          var errorStr = (event && event.error && (event.error.stack || event.error.message)) || '';
+          if (
+            isIgnoredExtensionNoise(filename) ||
+            isIgnoredExtensionNoise(message) ||
+            isIgnoredExtensionNoise(errorStr)
+          ) {
+            if (event.stopImmediatePropagation) {
+              event.stopImmediatePropagation();
+            }
+            event.stopPropagation();
+            event.preventDefault();
+            return true;
+          }
+        }, true);
+
+        window.addEventListener('unhandledrejection', function(event) {
+          var reason = (event && event.reason) ? (typeof event.reason === 'object' ? JSON.stringify(event.reason) : String(event.reason)) : '';
+          if (isIgnoredExtensionNoise(reason)) {
+            if (event.stopImmediatePropagation) {
+              event.stopImmediatePropagation();
+            }
+            event.stopPropagation();
+            event.preventDefault();
+          }
+        }, true);
+      })();
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
+

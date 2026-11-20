@@ -1,0 +1,2925 @@
+{
+  "setId": "op14AzureSea",
+  "setName": "OP-14: The Azure Sea’s Seven",
+  "series": "The Azure Sea’s Seven",
+  "jsonPath": "/data/onepiece/op14.json",
+  "counts": {
+    "total": 153,
+    "Common": 58,
+    "Uncommon": 31,
+    "Rare": 36,
+    "SuperRare": 13,
+    "SecretRare": 2,
+    "Leader": 6,
+    "Special": 7
+  },
+  "cards": [
+    {
+      "cardNum": "EB04-011",
+      "name": "Scaled Neptunian",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "7",
+      "power": "8000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Neptunian",
+      "effect": "[Rush: Character] (This card can attack Characters on the turn in which it is played.)[On Play] Draw a card for each of your {Neptunian} type Characters. Then, trash the same number of cards from your hand.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB04-011.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB04-011.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB04/EB04-011_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB04-012",
+      "name": "Kikunojo",
+      "rarity": "SR",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "7",
+      "power": "8000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "Land of Wano/The Akazaya Nine",
+      "effect": "[Activate: Main] [Once Per Turn] If this Character was played on this turn, set your {Land of Wano} type Leader as active.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB04-012.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB04-012.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB04/EB04-012_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB04-013",
+      "name": "Carrot",
+      "rarity": "SR",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "8",
+      "power": "9000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "Minks",
+      "effect": "[On Play] If your Leader has the {Minks} type, set up to 2 of your {Minks} type Characters and your Leader as active.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB04-013.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB04-013.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB04/EB04-013_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB04-014",
+      "name": "Kozuki Sukiyaki",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "3",
+      "power": "-",
+      "counter": "-",
+      "attribute": "Wisdom",
+      "type": "Land of Wano/Kouzuki Clan",
+      "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[Activate: Main] [Once Per Turn] Give up to 1 rested DON!! card to your {Land of Wano} type Leader.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB04-014.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB04-014.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB04/EB04-014_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB04-015",
+      "name": "Jinbe",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "7",
+      "power": "8000",
+      "counter": "-",
+      "attribute": "Strike",
+      "type": "Fish-Man/Fish-Man Island/The Sun Pirates",
+      "effect": "[Blocker][On K.O.] You may rest 1 of your cards: If your Leader has the {Fish-Man} or {Merfolk} type, play up to 1 green Character card with a cost of 6 or less from your hand.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB04-015.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB04-015.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB04/EB04-015_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB04-016",
+      "name": "Bird Neptunian",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "5",
+      "power": "7000",
+      "counter": "-",
+      "attribute": "Strike",
+      "type": "Neptunian",
+      "effect": "[Activate: Main] Set up to 1 of your DON!! cards as active. Then, you cannot set DON!! cards as active using Character effects during this turn.[When Attacking] If you have 3 or more {Neptunian} type Characters, rest up to 1 of your opponent's Characters with a cost of 8 or less.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB04-016.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB04-016.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB04/EB04-016_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB04-017",
+      "name": "Mystoms",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "6",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Minks/Big Mom Pirates",
+      "effect": "[Your Turn] If you have 3 or more {Minks} type Characters, give all of your opponent's Characters −1 cost.[On Play] If your Leader has the {Minks} type, play up to 1 {Minks} type Character card with a cost of 5 or less from your hand.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB04-017.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB04-017.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB04/EB04-017_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB04-018",
+      "name": "Megalo",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "4",
+      "power": "4000",
+      "counter": "2000",
+      "attribute": "Wisdom",
+      "type": "Animal/Fish-Man Island",
+      "effect": "[On Play] You may rest this Character: K.O. up to 1 of your opponent's rested Characters with 8000 power or less.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB04-018.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB04-018.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB04/EB04-018_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB04-019",
+      "name": "Eleclaw",
+      "rarity": "R",
+      "cardType": "EVENT",
+      "color": "Green",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Minks",
+      "effect": "[Main] You may rest 1 of your cards: If your Leader has the {Minks} type, give up to 1 of your opponent's Characters −3 cost during this turn.[Counter] Up to 1 of your {Minks} type Leader or Character cards gains +3000 power during this battle.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB04-019.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB04-019.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB04/EB04-019_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB04-020",
+      "name": "Shark Brick Fist",
+      "rarity": "C",
+      "cardType": "EVENT",
+      "color": "Green",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Fish-Man/Fish-Man Island/The Sun Pirates",
+      "effect": "[Counter] Up to 1 of your {Fish-Man} type Leader or Character cards gains +3000 power during this battle. Then, set up to 1 of your {Fish-Man} type Characters as active.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB04-020.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB04-020.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB04/EB04-020_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB04-021",
+      "name": "Igaram",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "3",
+      "power": "4000",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "Alabasta",
+      "effect": "[On Play] If your Leader is [Nefeltari Vivi], draw 2 cards and trash 1 card from your hand.[Activate: Main] [Once Per Turn] You may trash 1 card from your hand: Give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB04-021.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB04-021.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB04/EB04-021_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB04-022",
+      "name": "Issho",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "5",
+      "power": "7000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "Dressrosa/Navy",
+      "effect": "[On Play] You may trash 2 cards from your hand: If your opponent has 6 or more cards in their hand, your opponent places 2 cards from their hand at the bottom of their deck in any order.[DON!! x1] [When Attacking] You may trash 1 card from your hand: Give up to 1 of your opponent's Characters −2000 power during this turn.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB04-022.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB04-022.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB04/EB04-022_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB04-023",
+      "name": "Chaka & Pell",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "8",
+      "power": "9000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "Alabasta",
+      "effect": "[Double Attack] (This card deals 2 damage.)[On Play] You may give your active Leader −5000 power during this turn: Draw 2 cards.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB04-023.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB04-023.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB04/EB04-023_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB04-024",
+      "name": "Terracotta",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "2",
+      "power": "-",
+      "counter": "2000",
+      "attribute": "Wisdom",
+      "type": "Alabasta",
+      "effect": "[Activate: Main] You may rest this Character and trash 1 card from your hand: Up to 1 of your {Alabasta} type Characters gains [Unblockable] during this turn.(This card cannot be blocked.)",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB04-024.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB04-024.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB04/EB04-024_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB04-025",
+      "name": "Nefeltari Vivi",
+      "rarity": "SR",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "7",
+      "power": "4000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Alabasta",
+      "effect": "[On Play] Play up to 1 {Alabasta} type Character card with a cost of 8 or less other than [Nefeltari Vivi] from your hand. Then, your opponent places 1 card from their hand at the bottom of their deck.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB04-025.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB04-025.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB04/EB04-025_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB04-026",
+      "name": "Bluegrass",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "4",
+      "power": "6000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "Egghead/Navy",
+      "effect": "[On Play] Place up to 1 of your opponent's Characters with a cost of 1 or less at the bottom of the owner's deck.[When Attacking] Draw 1 card and trash 1 card from your hand.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB04-026.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB04-026.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB04/EB04-026_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB04-027",
+      "name": "Boa Hancock",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "5",
+      "power": "7000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "The Seven Warlords of the Sea/Kuja Pirates",
+      "effect": "[On Play] Draw 2 cards and trash 1 card from your hand.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB04-027.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB04-027.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB04/EB04-027_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB04-028",
+      "name": "Ice Time",
+      "rarity": "R",
+      "cardType": "EVENT",
+      "color": "Blue",
+      "cost": "5",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Navy",
+      "effect": "[Main] You may trash 1 card from your hand: If your Leader has the {Navy} type, up to 2 of your opponent's Characters with 10000 power or less cannot attack until the end of your opponent's next End Phase.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB04-028.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB04-028.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB04/EB04-028_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB04-029",
+      "name": "I Heard the Sound...of a Lady's Teardrops Falling",
+      "rarity": "UC",
+      "cardType": "EVENT",
+      "color": "Blue",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Punk Hazard/Straw Hat Crew",
+      "effect": "[Main] If your Leader is [Sanji], look at 3 cards from the top of your deck; reveal up to 1 [Sanji] or Event card and add it to your hand. Then, trash the rest.[Counter] You may trash 1 card from your hand: Up to 1 of your [Sanji] cards gains +4000 power during this battle.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB04-029.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB04-029.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB04/EB04-029_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB04-030",
+      "name": "Kaido",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "7",
+      "power": "9000",
+      "counter": "-",
+      "attribute": "Strike",
+      "type": "The Four Emperors/Animal Kingdom Pirates",
+      "effect": "If this Character would be K.O.'d, you may return 1 DON!! card from your field to your DON!! deck instead.[On Play] DON!! −2: If your Leader has the {Animal Kingdom Pirates} type, this Character gains [Rush] during this turn. Then, rest up to 1 of your opponent's Characters with a cost of 7 or less.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB04-030.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB04-030.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB04/EB04-030_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB04-031",
+      "name": "King",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "6",
+      "power": "7000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "Lunarian/Animal Kingdom Pirates",
+      "effect": "If this Character would be K.O.'d, you may return 1 DON!! card from your field to your DON!! deck instead.[Activate: Main] [Once Per Turn] If your Leader has the {Animal Kingdom Pirates} type and you have no other [King] Characters, add up to 1 DON!! card from your DON!! deck and set it as active, and add up to 1 additional DON!! card and rest it.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB04-031.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB04-031.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB04/EB04-031_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB04-032",
+      "name": "Queen",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "1",
+      "power": "1000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Animal Kingdom Pirates",
+      "effect": "[On Play] You may trash 1 {Animal Kingdom Pirates} type card from your hand: Draw 2 cards.[Activate: Main] [Once Per Turn] You may rest 2 of your DON!! cards: If your Leader has the {Animal Kingdom Pirates} type, add up to 1 DON!! card from your DON!! deck and rest it.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB04-032.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB04-032.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB04/EB04-032_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB04-033",
+      "name": "Groggy Monsters",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "5",
+      "power": "6000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Giant/Fish-Man/Foxy Pirates",
+      "effect": "[On Play] DON!! −1: If you have 3 or more {Foxy Pirates} type Characters, K.O. up to 1 of your opponent's Characters with 6000 base power or less.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB04-033.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB04-033.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB04/EB04-033_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB04-034",
+      "name": "Charlotte Pudding",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "2",
+      "power": "1000",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "Big Mom Pirates",
+      "effect": "[Blocker][On Your Opponent's Attack] [Once Per Turn] You may trash 1 card from your hand: If you have 4 or more Events in your trash, up to 1 of your Leader or Character cards gains +2000 power during this battle.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB04-034.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB04-034.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB04/EB04-034_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB04-035",
+      "name": "Hitokiri Kamazo",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "3",
+      "power": "4000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "SMILE/Supernovas/Kid Pirates",
+      "effect": "[Blocker][Your Turn] [Once Per Turn] When a DON!! card on your field is returned to your DON!! deck, if your Leader has the {Kid Pirates} type, add up to 1 DON!! card from your DON!! deck and rest it.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB04-035.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB04-035.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB04/EB04-035_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB04-036",
+      "name": "Foxy",
+      "rarity": "SR",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "8",
+      "power": "9000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "Foxy Pirates",
+      "effect": "[On Play] DON!! −1: If your Leader has the {Foxy Pirates} type, draw 2 cards and trash 1 card from your hand. Then, rest up to 1 of your opponent's Characters with a cost of 9 or less.[Activate: Main] [Once Per Turn] Add up to 1 DON!! card from your DON!! deck and rest it.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB04-036.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB04-036.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB04/EB04-036_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB04-037",
+      "name": "Porche",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "1",
+      "power": "2000",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "Foxy Pirates",
+      "effect": "[On Play] If your Leader has the {Foxy Pirates} type, look at 5 cards from the top of your deck; reveal up to 1 {Foxy Pirates} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB04-037.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB04-037.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB04/EB04-037_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB04-038",
+      "name": "Rosinante & Law",
+      "rarity": "SR",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "6",
+      "power": "8000",
+      "counter": "-",
+      "attribute": "Special/Wisdom",
+      "type": "Navy/Donquixote Pirates",
+      "effect": "Under the rules of this game, also treat this card's name as [Trafalgar Law] and [Donquixote Rosinante].[Blocker][On Play] If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, draw 1 card. Then, add up to 1 DON!! card from your DON!! deck and set it as active.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB04-038.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB04-038.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB04/EB04-038_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB04-039",
+      "name": "Eustass\"Captain\"Kid",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "7",
+      "power": "8000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "Supernovas/Kid Pirates",
+      "effect": "[On Play] Add up to 1 DON!! card from your DON!! deck and set it as active.[Activate: Main] You may trash this Character: Play up to 1 {Kid Pirates} type Character card with a cost of 5 or less from your hand.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB04-039.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB04-039.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB04/EB04-039_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB04-040",
+      "name": "Flame Dragon Torch",
+      "rarity": "R",
+      "cardType": "EVENT",
+      "color": "Purple",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "The Four Emperors/Animal Kingdom Pirates",
+      "effect": "[Main] You may rest 6 of your DON!! cards: Up to 1 of your [Kaido] cards gains +3000 power during this turn. Then, rest up to 1 of your opponent's Characters.[Counter] DON!! −1: Your Leader gains +4000 power during this battle.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB04-040.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB04-040.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB04/EB04-040_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB04-041",
+      "name": "Stealth Black",
+      "rarity": "C",
+      "cardType": "EVENT",
+      "color": "Purple",
+      "cost": "3",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Straw Hat Crew",
+      "effect": "[Main] If your Leader is [Sanji] and you have 4 or more DON!! cards on your field, play up to 1 [Sanji] with 6000 power or less from your hand or trash.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB04-041.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB04-041.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB04/EB04-041_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP06-093",
+      "name": "Perona",
+      "rarity": "SP CARD",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "4",
+      "power": "5000",
+      "counter": "2000",
+      "attribute": "Special",
+      "type": "Thriller Bark Pirates",
+      "effect": "[On Play] If your opponent has 5 or more cards in their hand, choose one:• Your opponent trashes 1 card from their hand.• Give up to 1 of your opponent's Characters −3 cost during this turn.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP06-093_p5.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP06-093_p5.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP06/OP06-093_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP07-046",
+      "name": "Sengoku",
+      "rarity": "SP CARD",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "1",
+      "power": "2000",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "Navy",
+      "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {The Seven Warlords of the Sea} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP07-046_p2.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP07-046_p2.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP07/OP07-046_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP09-051",
+      "name": "Buggy",
+      "rarity": "SP CARD",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "10",
+      "power": "12000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "The Four Emperors/Cross Guild",
+      "effect": "[On Play] Place up to 1 of your opponent's Characters at the bottom of the owner's deck. Then, if you do not have 5 Characters with a cost of 5 or more, place this Character at the bottom of the owner's deck.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP09-051_p4.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP09-051_p4.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP09/OP09-051_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP10-065",
+      "name": "Sugar",
+      "rarity": "SP CARD",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "1",
+      "power": "1000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Donquixote Pirates",
+      "effect": "[Activate: Main] Rest 1 of your DON!! cards and you may rest this Character: Look at 5 cards from the top of your deck; reveal up to 1 {Donquixote Pirates} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP10-065_p1.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP10-065_p1.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP10/OP10-065_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP12-030",
+      "name": "Dracule Mihawk",
+      "rarity": "SP CARD",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "8",
+      "power": "8000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "Muggy Kingdom/The Seven Warlords of the Sea",
+      "effect": "[Blocker][On Play] Set up to 4 of your DON!! cards as active. Then, you cannot play Character cards with a base cost of 7 or more during this turn.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP12-030_p2.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP12-030_p2.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP12/OP12-030_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP12-108",
+      "name": "Donquixote Rosinante",
+      "rarity": "TR",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "1",
+      "power": "2000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Navy/Donquixote Pirates",
+      "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 [Trafalgar Law] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP12-108_p2.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP12-108_p2.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP12/OP12-108_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-001",
+      "name": "Trafalgar Law",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Red",
+      "cost": "5",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "The Seven Warlords of the Sea/Supernovas/Heart Pirates",
+      "effect": "[Activate: Main] [Once Per Turn] Select 2 of your {Supernovas} or {Heart Pirates} type Characters. Swap the base power of the selected Characters with each other during this turn.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-001.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-001.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-001_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-002",
+      "name": "Urouge",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "3",
+      "power": "2000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Supernovas/Fallen Monk Pirates",
+      "effect": "[When Attacking] If this Character has 5000 power or more, draw 1 card and K.O. up to 1 of your opponent's Characters with 3000 base power or less.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-002.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-002.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-002_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-003",
+      "name": "Capone\"Gang\"Bege",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "1",
+      "power": "2000",
+      "counter": "1000",
+      "attribute": "Ranged",
+      "type": "Supernovas/Firetank Pirates",
+      "effect": "This Character cannot be K.O.'d by effects of your opponent's Characters with 5000 base power or less.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-003.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-003.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-003_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-004",
+      "name": "Cavendish",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "2",
+      "power": "2000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Dressrosa/Supernovas/Beautiful Pirates",
+      "effect": "If this Character has 5000 power or more, this Character gains [Rush].(This card can attack on the turn in which it is played.)",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-004.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-004.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-004_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-005",
+      "name": "Killer",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "1",
+      "power": "1000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Supernovas/Kid Pirates",
+      "effect": "[Activate: Main] [Once Per Turn] Give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-005.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-005.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-005_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-006",
+      "name": "Shachi & Penguin",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "2",
+      "power": "2000",
+      "counter": "1000",
+      "attribute": "Ranged",
+      "type": "Heart Pirates",
+      "effect": "[When Attacking] If this Character has 5000 power or more, give up to 1 of your opponent's Characters −2000 power during this turn.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-006.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-006.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-006_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-007",
+      "name": "Jewelry Bonney",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "6",
+      "power": "7000",
+      "counter": "2000",
+      "attribute": "Special",
+      "type": "Supernovas/Bonney Pirates",
+      "effect": "-",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-007.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-007.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-007_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-008",
+      "name": "Scratchmen Apoo",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "3",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Supernovas/On-Air Pirates",
+      "effect": "-",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-008.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-008.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-008_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-009",
+      "name": "Trafalgar Law",
+      "rarity": "SR",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "9",
+      "power": "10000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "The Seven Warlords of the Sea/Supernovas/Heart Pirates",
+      "effect": "[Rush][On Your Opponent's Attack] [Once Per Turn] You may trash 2 cards from your hand: Select your Leader and 1 Character. Swap the base power of the selected cards with each other during this battle.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-009.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-009.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-009_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-010",
+      "name": "Basil Hawkins",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "1",
+      "power": "2000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Supernovas/Hawkins Pirates",
+      "effect": "[On K.O.] Look at 5 cards from the top of your deck; play up to 1 {Supernovas} type Character card with 2000 power or less other than [Basil Hawkins]. Then, place the rest at the bottom of your deck in any order.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-010.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-010.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-010_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-011",
+      "name": "Bartolomeo",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "2",
+      "power": "2000",
+      "counter": "2000",
+      "attribute": "Special",
+      "type": "Dressrosa/Supernovas/Barto Club",
+      "effect": "[DON!! x2] This Character gains [Blocker].(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-011.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-011.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-011_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-012",
+      "name": "Bepo",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "2",
+      "power": "2000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Minks/Heart Pirates",
+      "effect": "[When Attacking] If this Character has 5000 power or more, give up to 2 rested DON!! cards to your Leader or 1 of your Characters.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-012.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-012.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-012_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-013",
+      "name": "Monkey.D.Luffy",
+      "rarity": "SR",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "1",
+      "power": "-",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Supernovas/Straw Hat Crew",
+      "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Supernovas} type card other than [Monkey.D.Luffy] and add it to your hand. Then, place the rest at the bottom of your deck in any order.[When Attacking] Give up to 1 of your opponent's Characters −1000 power during this turn.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-013.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-013.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-013_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-014",
+      "name": "Eustass\"Captain\"Kid",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "4",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Supernovas/Kid Pirates",
+      "effect": "[Blocker][On Play] If your Leader has the {Supernovas} type, play up to 1 red Character card with 2000 power or less from your hand.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-014.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-014.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-014_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-015",
+      "name": "Roronoa Zoro",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "7",
+      "power": "8000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "Supernovas/Straw Hat Crew",
+      "effect": "[Rush] (This card can attack on the turn in which it is played.)[When Attacking] Give up to 1 of your opponent's Characters −1000 power during this turn.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-015.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-015.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-015_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-016",
+      "name": "X.Drake",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "5",
+      "power": "7000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "Supernovas/Navy/Drake Pirates",
+      "effect": "[Opponent's Turn] [Once Per Turn] If your {Supernovas} type Character would be removed from the field by your opponent's effect, you may give your Leader −2000 power during this turn instead.[DON!! x1] [When Attacking] Give up to 1 of your opponent's Characters −2000 power during this turn.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-016.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-016.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-016_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-017",
+      "name": "Chambres",
+      "rarity": "C",
+      "cardType": "EVENT",
+      "color": "Red",
+      "cost": "3",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "The Seven Warlords of the Sea/Supernovas/Heart Pirates",
+      "effect": "[Main] Select 2 of your opponent's Characters with 9000 base power or less. Swap the base power of the selected Characters with each other during this turn.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-017.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-017.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-017_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-018",
+      "name": "Time for the Counterattack",
+      "rarity": "R",
+      "cardType": "EVENT",
+      "color": "Red",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "The Seven Warlords of the Sea/Supernovas/Heart Pirates",
+      "effect": "[Counter] If there is a Character with 8000 power or more, up to 1 of your Leader or Character cards gains +4000 power during this battle.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-018.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-018.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-018_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-019",
+      "name": "I Have a Plan to Take Down One of the Four Emperors!!",
+      "rarity": "UC",
+      "cardType": "EVENT",
+      "color": "Red",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "The Seven Warlords of the Sea/Supernovas/Heart Pirates",
+      "effect": "[Main] Look at 4 cards from the top of your deck; reveal up to 1 {Supernovas} or {Straw Hat Crew} type Character card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-019.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-019.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-019_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-020",
+      "name": "Dracule Mihawk",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Green",
+      "cost": "5",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "The Seven Warlords of the Sea",
+      "effect": "If your opponent's Leader has the <Slash> attribute, this Leader gains +1000 power.[Activate: Main] [Once Per Turn] You may rest 1 of your cards: If there is a Character with a cost of 5 or more, set up to 3 of your DON!! cards as active. Then, you cannot play Character cards during this turn.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-020.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-020.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-020_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-021",
+      "name": "Issho",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "6",
+      "power": "7000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Dressrosa/Navy",
+      "effect": "[Your Turn] When this Character becomes rested, you may add 1 card from the top of your Life cards to your hand. If you do, up to 1 of your opponent's rested Characters or Stages will not become active in your opponent's next Refresh Phase.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-021.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-021.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-021_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-022",
+      "name": "Usopp",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "4",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Ranged",
+      "type": "FILM/Straw Hat Crew",
+      "effect": "[End of Your Turn] If your Leader has the {FILM} or {Straw Hat Crew} type, set up to 2 of your DON!! cards as active.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-022.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-022.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-022_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-023",
+      "name": "Kikunojo",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "1",
+      "power": "2000",
+      "counter": "2000",
+      "attribute": "Slash",
+      "type": "Land of Wano/The Akazaya Nine",
+      "effect": "[End of Your Turn] Set this Character as active.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-023.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-023.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-023_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-024",
+      "name": "Kin'emon",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "4",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Land of Wano/The Akazaya Nine",
+      "effect": "[On Play] Set up to 3 of your DON!! cards as active. Then, you cannot play Character cards during this turn.[On K.O.] Rest up to 1 of your opponent's cards.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-024.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-024.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-024_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-025",
+      "name": "Kuro",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "7",
+      "power": "8000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "East Blue/Black Cat Pirates",
+      "effect": "[On Play] If your Leader is [Kuro], play up to 1 {East Blue} type Character card with a cost of 6 or less from your hand.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-025.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-025.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-025_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-026",
+      "name": "Kouzuki Oden",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "4",
+      "power": "5000",
+      "counter": "2000",
+      "attribute": "Slash",
+      "type": "Land of Wano/Kouzuki Clan",
+      "effect": "[Opponent's Turn] If this Character is rested, this Character gains +2000 power.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-026.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-026.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-026_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-027",
+      "name": "Shanks",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "7",
+      "power": "9000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "East Blue/The Four Emperors/Red-Haired Pirates",
+      "effect": "[Your Turn] When this Character becomes rested, rest up to 1 of your opponent's Characters with 7000 base power or less.[Opponent's Turn] If this Character is rested, give all of your opponent's Characters −1000 power.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-027.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-027.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-027_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-028",
+      "name": "Johnny",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "2",
+      "power": "2000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "East Blue",
+      "effect": "[Your Turn] When this Character becomes rested, K.O. up to 1 of your opponent's rested Characters with a cost of 2 or less.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-028.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-028.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-028_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-030",
+      "name": "Chaka & Pell",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "6",
+      "power": "7000",
+      "counter": "2000",
+      "attribute": "Slash",
+      "type": "Alabasta",
+      "effect": "-",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-030.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-030.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-030_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-031",
+      "name": "Nami",
+      "rarity": "SR",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "4",
+      "power": "2000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "FILM/Straw Hat Crew",
+      "effect": "[Blocker][On Play] Rest up to 2 of your opponent's Characters with a cost of 8 or less. Then, set up to 5 of your DON!! cards as active at the end of this turn.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-031.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-031.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-031_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-032",
+      "name": "Humandrill",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "3",
+      "power": "4000",
+      "counter": "2000",
+      "attribute": "Slash",
+      "type": "Animal/Muggy Kingdom",
+      "effect": "[Your Turn] When this Character becomes rested, rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-032.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-032.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-032_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-034",
+      "name": "Monkey.D.Luffy",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "3",
+      "power": "3000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "FILM/Supernovas/Straw Hat Crew",
+      "effect": "[Your Turn] All of your green {Straw Hat Crew} type Characters with a base cost of 4 or more gain +1000 power.[Once Per Turn] If your {Straw Hat Crew} type Character would be K.O.'d by your opponent's effect, you may rest 1 of your Characters instead.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-034.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-034.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-034_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-035",
+      "name": "Yosaku",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "2",
+      "power": "2000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "East Blue",
+      "effect": "[Your Turn] When this Character becomes rested, up to 1 of your opponent's rested Characters with a cost of 4 or less will not become active in your opponent's next Refresh Phase.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-035.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-035.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-035_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-036",
+      "name": "Strive to Surpass me, Roronoa Zoro!!!",
+      "rarity": "C",
+      "cardType": "EVENT",
+      "color": "Green",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "East Blue/The Seven Warlords of the Sea",
+      "effect": "[Counter] You may rest 1 of your cards: Up to 1 of your Leader or Character cards gains +4000 power during this battle.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-036.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-036.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-036_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-037",
+      "name": "For Fun",
+      "rarity": "R",
+      "cardType": "EVENT",
+      "color": "Green",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "East Blue/The Seven Warlords of the Sea",
+      "effect": "[Main] You may rest 3 of your cards: K.O. up to 1 of your opponent's rested Characters with 7000 base power or less.[Counter] Your Leader gains +3000 power during this battle.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-037.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-037.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-037_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-038",
+      "name": "I Never Bother to Remember the Faces of Trash",
+      "rarity": "UC",
+      "cardType": "EVENT",
+      "color": "Green",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "The Seven Warlords of the Sea",
+      "effect": "[Main] You may rest 2 of your cards: Draw 1 card and rest up to 1 of your opponent's Characters with 7000 base power or less.[Counter] Your Leader gains +3000 power during this battle.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-038.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-038.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-038_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-039",
+      "name": "Coffin Boat",
+      "rarity": "UC",
+      "cardType": "STAGE",
+      "color": "Green",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "East Blue/The Seven Warlords of the Sea",
+      "effect": "[On Play] If your Leader is [Dracule Mihawk], draw 1 card.[End of Your Turn] If your Leader is [Dracule Mihawk], set up to 1 of your DON!! cards as active.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-039.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-039.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-039_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-040",
+      "name": "Jinbe",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Blue",
+      "cost": "5",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Strike",
+      "type": "Fish-Man/The Seven Warlords of the Sea/The Sun Pirates",
+      "effect": "[Activate: Main] You may trash 1 card from your hand: Give up to 2 rested DON!! cards to 1 of your {Fish-Man} or {Merfolk} type Leader or Character cards.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-040.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-040.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-040_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-042",
+      "name": "Arlong",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "1",
+      "power": "3000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "Fish-Man/The Sun Pirates",
+      "effect": "[On Play] If your Leader has the {Fish-Man} type, look at 4 cards from the top of your deck; reveal up to 1 card with a cost of 2 or more and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-042.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-042.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-042_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-043",
+      "name": "Aladine",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "4",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Merfolk/The Sun Pirates",
+      "effect": "[On Play] Play up to 1 {Fish-Man} or {Merfolk} type Character card with a cost of 3 or less from your hand.[On K.O.] Draw 1 card.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-043.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-043.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-043_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-044",
+      "name": "Edward.Newgate",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "8",
+      "power": "8000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "The Four Emperors/Whitebeard Pirates",
+      "effect": "[Blocker][On Play] Reveal 1 card from the top of your deck. If that card's type includes \"Whitebeard Pirates\", draw 2 cards and trash 1 card from your hand.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-044.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-044.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-044_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-045",
+      "name": "Kuroobi",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "3",
+      "power": "3000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Fish-Man/The Sun Pirates",
+      "effect": "When a card is trashed from your hand by an effect, this Character gains [Rush] during this turn.(This card can attack on the turn in which it is played.)[On K.O.] Draw 1 card.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-045.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-045.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-045_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-046",
+      "name": "Koala",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "2",
+      "power": "-",
+      "counter": "2000",
+      "attribute": "Wisdom",
+      "type": "Foolshout Island",
+      "effect": "[Activate: Main] You may trash this Character: Up to 1 of your {Fish-Man} or {Merfolk} type Leader or Character cards gains +2000 power during this turn.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-046.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-046.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-046_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-047",
+      "name": "Shirahoshi",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "4",
+      "power": "-",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "Merfolk/Fish-Man Island",
+      "effect": "[Blocker][On Play] Draw 1 card and play up to 1 {Fish-Man} or {Merfolk} type Character card with a cost of 3 or less from your hand.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-047.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-047.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-047_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-048",
+      "name": "Shiryu",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "8",
+      "power": "10000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "Impel Down",
+      "effect": "[On Play] Return up to 1 of your opponent's Characters to the owner's hand. Then, trash all cards from your hand.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-048.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-048.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-048_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-049",
+      "name": "Jinbe",
+      "rarity": "SR",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "8",
+      "power": "10000",
+      "counter": "-",
+      "attribute": "Strike",
+      "type": "Fish-Man/The Seven Warlords of the Sea/The Sun Pirates",
+      "effect": "When a card is trashed from your hand by an effect, this Character gains [Rush] during this turn.[On Play] You may rest 2 of your DON!! cards: Draw 2 cards and return up to 1 Character with a cost of 7 or less to the owner's hand.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-049.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-049.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-049_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-050",
+      "name": "Chew",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "1",
+      "power": "3000",
+      "counter": "-",
+      "attribute": "Ranged",
+      "type": "Fish-Man/The Sun Pirates",
+      "effect": "[On Play] If your Leader has the {Fish-Man} type, draw 1 card.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-050.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-050.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-050_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-051",
+      "name": "Hatchan",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "1",
+      "power": "3000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "Fish-Man/The Sun Pirates",
+      "effect": "[DON!! x2] [On K.O.] Draw 1 card.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-051.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-051.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-051_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-052",
+      "name": "Hannyabal",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "5",
+      "power": "6000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Impel Down",
+      "effect": "[Blocker][On Play] You may trash 3 cards from your hand: Play up to 1 {Impel Down} type Character card with a cost of 6 or less from your hand.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-052.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-052.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-052_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-053",
+      "name": "Vista",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "3",
+      "power": "4000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Whitebeard Pirates",
+      "effect": "[Blocker][Opponent's Turn] If you have 7 or less cards in your hand, this Character's base power becomes the same as your Leader's base power.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-053.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-053.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-053_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-054",
+      "name": "Fisher Tiger",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "6",
+      "power": "7000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Fish-Man/The Sun Pirates",
+      "effect": "[On Play] If your Leader has the {Fish-Man} type, draw 3 cards.[End of Your Turn] Trash cards from your hand until you have 5 cards in your hand.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-054.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-054.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-054_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-055",
+      "name": "The Macro Gang",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "5",
+      "power": "6000",
+      "counter": "2000",
+      "attribute": "Strike",
+      "type": "Fish-Man/The Sun Pirates",
+      "effect": "-",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-055.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-055.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-055_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-056",
+      "name": "Wadatsumi",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "3",
+      "power": "5000",
+      "counter": "2000",
+      "attribute": "Strike",
+      "type": "Fish-Man/The Sun Pirates",
+      "effect": "This Character cannot attack.When a card is trashed from your hand by an effect, this Character's effect is negated during this turn.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-056.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-056.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-056_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-057",
+      "name": "Don't Worry!! I'm Here!!",
+      "rarity": "C",
+      "cardType": "EVENT",
+      "color": "Blue",
+      "cost": "2",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Fish-Man/The Seven Warlords of the Sea/The Sun Pirates",
+      "effect": "[Main] All of your {Fish-Man} or {Merfolk} type Leader and Character cards gain +1000 power during this turn.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-057.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-057.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-057_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-058",
+      "name": "Ocean Current Shoulder Throw",
+      "rarity": "R",
+      "cardType": "EVENT",
+      "color": "Blue",
+      "cost": "2",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Fish-Man/The Seven Warlords of the Sea/The Sun Pirates",
+      "effect": "[Main] You may rest 3 of your DON!! cards: Play up to 1 {Fish-Man} type Character card with a cost of 3 or less from your hand. Then, return up to 1 Character with 6000 base power to the owner's hand.[Counter] Draw 1 card and your Leader gains +3000 power during this battle.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-058.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-058.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-058_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-059",
+      "name": "Please Take Me with You!! I Can Be of Great Help to You!!",
+      "rarity": "UC",
+      "cardType": "EVENT",
+      "color": "Blue",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Fish-Man/The Seven Warlords of the Sea/The Sun Pirates",
+      "effect": "[Main] If your Leader is [Jinbe] and you have 2 or less cards in your hand, draw 2 cards.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-059.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-059.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-059_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-060",
+      "name": "Donquixote Doflamingo",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Purple",
+      "cost": "5",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "The Seven Warlords of the Sea/Donquixote Pirates",
+      "effect": "[On Your Opponent's Attack] [Once Per Turn] DON!! −1: Select your Leader or 1 of your {Donquixote Pirates} type Characters. Change the attack target to the selected card.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-060.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-060.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-060_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-061",
+      "name": "Vergo",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "5",
+      "power": "7000",
+      "counter": "-",
+      "attribute": "Strike",
+      "type": "Punk Hazard/Navy/Donquixote Pirates",
+      "effect": "[Once Per Turn] If your {Donquixote Pirates} type Character would be removed from the field by your opponent's effect, you may return 1 DON!! card from your field to your DON!! deck instead.[When Attacking] DON!! −1: Give up to 1 of your opponent's Characters −2000 power during this turn.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-061.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-061.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-061_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-062",
+      "name": "Gladius",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "3",
+      "power": "4000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Donquixote Pirates",
+      "effect": "[On K.O.] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): K.O. or rest up to 1 of your opponent's Characters with a base power of 6000 or less.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-062.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-062.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-062_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-063",
+      "name": "Sugar",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "4",
+      "power": "1000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Donquixote Pirates",
+      "effect": "[On Play] Add up to 1 DON!! card from your DON!! deck and set it as active.[On K.O.] If your opponent has 6 or more DON!! cards on their field, play up to 1 {Donquixote Pirates} type Character card with a cost of 5 or less from your hand.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-063.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-063.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-063_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-064",
+      "name": "Giolla",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "3",
+      "power": "1000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Donquixote Pirates",
+      "effect": "[On K.O.] Add up to 1 DON!! card from your DON!! deck and rest it. Then, K.O. up to 1 of your opponent's Characters with a base power of 0.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-064.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-064.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-064_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-065",
+      "name": "Senor Pink",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "4",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Donquixote Pirates",
+      "effect": "[On K.O.] Your opponent returns 1 DON!! card from their field to their DON!! deck.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-065.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-065.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-065_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-066",
+      "name": "Diamante",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "6",
+      "power": "8000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Donquixote Pirates",
+      "effect": "-",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-066.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-066.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-066_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-067",
+      "name": "Dellinger",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "1",
+      "power": "2000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Donquixote Pirates",
+      "effect": "[On K.O.] Add up to 1 DON!! card from your DON!! deck and rest it, look at 5 cards from the top of your deck; reveal up to 1 {Donquixote Pirates} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-067.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-067.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-067_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-068",
+      "name": "Trebol",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "5",
+      "power": "5000",
+      "counter": "2000",
+      "attribute": "Special",
+      "type": "Donquixote Pirates",
+      "effect": "[Opponent's Turn] [Once Per Turn] When a DON!! card on your field is returned to your DON!! deck, if your Leader has the {Donquixote Pirates} type, add up to 1 DON!! card from your DON!! deck and rest it.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-068.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-068.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-068_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-069",
+      "name": "Donquixote Doflamingo",
+      "rarity": "SR",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "10",
+      "power": "10000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "The Seven Warlords of the Sea/Donquixote Pirates",
+      "effect": "[On Play] DON!! −3: Choose one:• If your Leader has the {Donquixote Pirates} type, K.O. up to 1 of your opponent's Characters with a cost of 8 or less.• Up to 3 of your opponent's Characters with a cost of 7 or less cannot be rested until the end of your opponent's next End Phase.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-069.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-069.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-069_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-070",
+      "name": "Buffalo",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "2",
+      "power": "1000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Donquixote Pirates",
+      "effect": "When this Character becomes rested by your opponent's Character's effect, you may return 1 DON!! card from your field to your DON!! deck. If you do, set this Character as active.[Blocker]",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-070.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-070.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-070_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-071",
+      "name": "Pica",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "5",
+      "power": "6000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Donquixote Pirates",
+      "effect": "[End of Your Turn] If your Leader has the {Donquixote Pirates} type, add up to 1 DON!! card from your DON!! deck and set it as active.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-071.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-071.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-071_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-072",
+      "name": "Baby 5",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "4",
+      "power": "1000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Donquixote Pirates",
+      "effect": "[On Play] Add up to 1 DON!! card from your DON!! deck and set it as active.[On K.O.] DON!! −1: Add up to 1 card from the top of your deck to the top of your Life cards.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-072.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-072.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-072_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-073",
+      "name": "Machvise",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "6",
+      "power": "7000",
+      "counter": "2000",
+      "attribute": "Strike",
+      "type": "Donquixote Pirates",
+      "effect": "-",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-073.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-073.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-073_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-074",
+      "name": "Monet",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "5",
+      "power": "6000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Punk Hazard/Donquixote Pirates",
+      "effect": "[On Play] If your Leader has the {Donquixote Pirates} type, add up to 1 DON!! card from your DON!! deck and set it as active.[On K.O.] Draw 2 cards and trash 1 card from your hand. Then, add up to 2 DON!! cards from your DON!! deck and rest them.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-074.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-074.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-074_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-075",
+      "name": "Lao.G",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "3",
+      "power": "4000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Donquixote Pirates",
+      "effect": "[On K.O.] Add up to 1 DON!! card from your DON!! deck and rest it. Then, give up to 1 of your opponent's Characters −2000 power during this turn.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-075.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-075.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-075_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-076",
+      "name": "Ever White",
+      "rarity": "R",
+      "cardType": "EVENT",
+      "color": "Purple",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "The Seven Warlords of the Sea/Donquixote Pirates",
+      "effect": "[Main] You may rest 2 of your DON!! cards: If your Leader has the {Donquixote Pirates} type, add up to 1 DON!! card from your DON!! deck and rest it.[Counter] Your Leader gains +3000 power during this battle.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-076.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-076.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-076_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-077",
+      "name": "Penta-Chromatic String",
+      "rarity": "UC",
+      "cardType": "EVENT",
+      "color": "Purple",
+      "cost": "2",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "The Seven Warlords of the Sea/Donquixote Pirates",
+      "effect": "[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, if your opponent has a Character with 6000 power or more, add up to 1 DON!! card from your DON!! deck and rest it.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-077.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-077.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-077_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-078",
+      "name": "Bullet String",
+      "rarity": "C",
+      "cardType": "EVENT",
+      "color": "Purple",
+      "cost": "2",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "The Seven Warlords of the Sea/Donquixote Pirates",
+      "effect": "[Counter] DON!! −1: If your Leader has the {Donquixote Pirates} type, up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, that card gains an additional +2000 power during this turn.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-078.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-078.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-078_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-079",
+      "name": "Crocodile",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Black",
+      "cost": "5",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "The Seven Warlords of the Sea/Baroque Works",
+      "effect": "All of your opponent's Characters cannot be removed from the field by your effects.[Activate: Main] [Once Per Turn] You may K.O. 1 of your Characters with a type including \"Baroque Works\": Give up to 1 of your opponent's Characters −10 cost during this turn. Then, you may trash 2 cards from the top of your deck.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-079.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-079.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-079_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-080",
+      "name": "Gecko Moria",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Black/Yellow",
+      "cost": "4",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "The Seven Warlords of the Sea/Thriller Bark Pirates",
+      "effect": "[Activate: Main] [Once Per Turn] You may K.O. 1 of your {Thriller Bark Pirates} type Characters: Your Leader and all of your Characters gain +1000 power during this turn.[When Attacking] You may trash 3 cards from your hand: Add up to 1 card from the top of your deck to the top of your Life cards.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-080.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-080.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-080_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-081",
+      "name": "Spider Mice",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "1",
+      "power": "1000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Thriller Bark Pirates",
+      "effect": "[On Play] Trash 3 cards from the top of your deck.[On K.O.] K.O. up to 1 of your opponent's Characters with a base cost of 1.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-081.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-081.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-081_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-082",
+      "name": "Oinkchuck",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "2",
+      "power": "3000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Thriller Bark Pirates",
+      "effect": "[On K.O.] All of your {Thriller Bark Pirates} type Characters gain +4 cost until the end of your opponent's next End Phase.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-082.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-082.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-082_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-083",
+      "name": "Ms. Wednesday",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "1",
+      "power": "1000",
+      "counter": "2000",
+      "attribute": "Slash",
+      "type": "Baroque Works",
+      "effect": "[Activate: Main] You may trash this Character: Give up to 1 of your opponent's 0 cost Characters −3000 power during this turn.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-083.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-083.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-083_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-085",
+      "name": "Miss.Goldenweek(Marianne)",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "1",
+      "power": "2000",
+      "counter": "2000",
+      "attribute": "Wisdom",
+      "type": "Baroque Works",
+      "effect": "[On K.O.] Draw 2 cards and trash 2 cards from your hand.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-085.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-085.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-085_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-086",
+      "name": "Miss Doublefinger(Zala)",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "5",
+      "power": "6000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Baroque Works",
+      "effect": "If you have 7 or more cards in your trash, this Character gains +1000 power, and all of your Characters with a type including \"Baroque Works\" gain +2 cost.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-086.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-086.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-086_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-087",
+      "name": "Miss.Valentine(Mikita)",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "1",
+      "power": "2000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Baroque Works",
+      "effect": "[On Play] If your Leader's type includes \"Baroque Works\", look at 4 cards from the top of your deck; reveal up to 1 card with a type including \"Baroque Works\" other than [Miss.Valentine(Mikita)] and add it to your hand. Then, trash the rest.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-087.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-087.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-087_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-088",
+      "name": "Miss.MerryChristmas(Drophy)",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "1",
+      "power": "2000",
+      "counter": "2000",
+      "attribute": "Slash",
+      "type": "Baroque Works",
+      "effect": "[On K.O.] If your Leader's type includes \"Baroque Works\", draw 1 card and K.O. up to 1 of your opponent's Stages with a cost of 1.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-088.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-088.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-088_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-089",
+      "name": "Ryuma",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "3",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "Land of Wano/Thriller Bark Pirates",
+      "effect": "[On K.O.] Draw 2 cards and trash 2 cards from your hand.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-089.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-089.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-089_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-090",
+      "name": "Mr.1(Daz.Bonez)",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "5",
+      "power": "6000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Baroque Works",
+      "effect": "If there is a Character with a cost of 0 or with a cost of 8 or more, this Character can attack Characters on the turn in which it is played.[On Play] Rest up to 1 of your opponent's Characters with a cost of 0.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-090.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-090.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-090_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-091",
+      "name": "Mr.2.Bon.Kurei(Bentham)",
+      "rarity": "SR",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "4",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Baroque Works",
+      "effect": "[On K.O.] Play up to 1 Character card with a type including \"Baroque Works\" and a cost of 5 or less other than [Mr.2.Bon.Kurei(Bentham)] from your hand or trash.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-091.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-091.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-091_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-092",
+      "name": "Mr.3(Galdino)",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "4",
+      "power": "6000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "Baroque Works",
+      "effect": "[Opponent's Turn] [Once Per Turn] If this Character would be K.O.'d, you may place 3 cards from your trash at the bottom of your deck in any order instead.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-092.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-092.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-092_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-093",
+      "name": "Mr.4(Babe)",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "4",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Baroque Works",
+      "effect": "[Blocker][On K.O.] Add up to 1 Character card with a type including \"Baroque Works\" and a cost of 8 or less from your trash to your hand.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-093.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-093.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-093_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-094",
+      "name": "Mr.5(Gem)",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "5",
+      "power": "6000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Baroque Works",
+      "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] If there is a Character with a cost of 0 or with a cost of 8 or more, draw 2 cards and trash 1 card from your hand.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-094.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-094.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-094_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-095",
+      "name": "Mr.9",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "5",
+      "power": "6000",
+      "counter": "2000",
+      "attribute": "Strike",
+      "type": "Baroque Works",
+      "effect": "-",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-095.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-095.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-095_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-096",
+      "name": "Ground Death",
+      "rarity": "R",
+      "cardType": "EVENT",
+      "color": "Black",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "The Seven Warlords of the Sea/Baroque Works",
+      "effect": "[Main] You may rest 2 of your DON!! cards: Negate the effect of up to 1 of your opponent's Characters with a cost of 5 or less during this turn.[Counter] If you have 10 or more cards in your trash, up to 1 of your Leader or Character cards gains +4000 power during this battle.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-096.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-096.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-096_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-097",
+      "name": "Hurry Up and Make Me the Pirate King!",
+      "rarity": "UC",
+      "cardType": "EVENT",
+      "color": "Black",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "The Seven Warlords of the Sea/Thriller Bark Pirates",
+      "effect": "[Main] Look at 3 cards from the top of your deck; reveal up to 1 {Thriller Bark Pirates} type card other than [Hurry Up and Make Me the Pirate King!] and add it to your hand. Then, trash the rest.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-097.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-097.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-097_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-098",
+      "name": "Crescent Cutlass",
+      "rarity": "C",
+      "cardType": "EVENT",
+      "color": "Black",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Impel Down/Former Baroque Works",
+      "effect": "[Main] If there is a Character with a cost of 0 or with a cost of 8 or more, all of your Characters with a type including \"Baroque Works\" gain +3 cost until the end of your opponent's next End Phase.[Counter] Your Leader gains +3000 power during this battle.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-098.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-098.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-098_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-099",
+      "name": "Disappointed?",
+      "rarity": "UC",
+      "cardType": "EVENT",
+      "color": "Black",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "The Seven Warlords of the Sea/Baroque Works",
+      "effect": "[Main] Look at 3 cards from the top of your deck; reveal up to 1 card with a type including \"Baroque Works\" other than [Disappointed?] and add it to your hand. Then, trash the rest.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-099.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-099.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-099_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-100",
+      "name": "Absalom",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "3",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Ranged",
+      "type": "Thriller Bark Pirates",
+      "effect": "[On K.O.] Look at 3 cards from the top of your deck; reveal up to 1 {Thriller Bark Pirates} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-100.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-100.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-100_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-101",
+      "name": "Oars",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "8",
+      "power": "10000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Giant/Thriller Bark Pirates",
+      "effect": "-",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-101.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-101.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-101_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-102",
+      "name": "Kumacy",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "1",
+      "power": "2000",
+      "counter": "2000",
+      "attribute": "Strike",
+      "type": "Thriller Bark Pirates",
+      "effect": "-",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-102.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-102.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-102_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-103",
+      "name": "Gloriosa (Grandma Nyon)",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "2",
+      "power": "-",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "Amazon Lily",
+      "effect": "[On Play] You may add 1 card from the top or bottom of your Life cards to your hand: Add up to 1 card from your hand to the top of your Life cards.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-103.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-103.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-103_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-104",
+      "name": "Gecko Moria",
+      "rarity": "SR",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "8",
+      "power": "10000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "The Seven Warlords of the Sea/Thriller Bark Pirates",
+      "effect": "[On Play] Select up to 1 {Thriller Bark Pirates} type Character with a cost of 4 or less from your trash and play it or add it to the top of your Life cards face-up.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-104.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-104.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-104_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-105",
+      "name": "Gorgon Sisters",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "6",
+      "power": "5000",
+      "counter": "2000",
+      "attribute": "Slash/Special",
+      "type": "The Seven Warlords of the Sea/Kuja Pirates",
+      "effect": "[Activate: Main] [Once Per Turn] You may reveal 3 {Amazon Lily} or {Kuja Pirates} type cards from your hand: Give your Leader and all of your Characters up to 1 rested DON!! card each.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-105.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-105.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-105_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-106",
+      "name": "Salome",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "3",
+      "power": "1000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Animal/Amazon Lily",
+      "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-106.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-106.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-106_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-107",
+      "name": "Shakuyaku",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "6",
+      "power": "5000",
+      "counter": "2000",
+      "attribute": "Wisdom",
+      "type": "Amazon Lily",
+      "effect": "[On Play] If your opponent has 3 or less Life cards, draw 2 cards and trash 2 cards from your hand.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-107.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-107.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-107_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-109",
+      "name": "Victoria Cindry",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "3",
+      "power": "1000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Thriller Bark Pirates",
+      "effect": "[Blocker]",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-109.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-109.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-109_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-110",
+      "name": "Dr. Hogback",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "4",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "Thriller Bark Pirates",
+      "effect": "[On K.O.] Play up to 1 Character card with a cost of 4 or less and a [Trigger] other than [Dr. Hogback] from your trash.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-110.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-110.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-110_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-111",
+      "name": "Perona",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "4",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Thriller Bark Pirates",
+      "effect": "[On Play]/[On K.O.] Up to 1 of your opponent's Characters with a cost of 6 or less cannot attack until the end of your opponent's next End Phase.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-111.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-111.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-111_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-112",
+      "name": "Boa Hancock",
+      "rarity": "SR",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "9",
+      "power": "10000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "The Seven Warlords of the Sea/Kuja Pirates",
+      "effect": "[On Play] If your Leader has the {The Seven Warlords of the Sea} type, add up to 1 card from the top of your deck to the top of your Life cards. Then, add up to 1 card from the top of your opponent's Life cards to the owner's hand.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-112.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-112.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-112_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-113",
+      "name": "Marguerite",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "3",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Wisdom",
+      "type": "Amazon Lily",
+      "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Amazon Lily} or {Kuja Pirates} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order and trash 1 card from your hand.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-113.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-113.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-113_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-114",
+      "name": "Ran",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "4",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Ranged",
+      "type": "Kuja Pirates",
+      "effect": "[Activate: Main] [Once Per Turn] Give up to 1 rested DON!! card to 1 of your {Kuja Pirates} type Leader or Character cards.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-114.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-114.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-114_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-115",
+      "name": "Rindo",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "5",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Ranged",
+      "type": "Kuja Pirates",
+      "effect": "[Opponent's Turn] [On K.O.] Add up to 1 card from the top of your deck to the top of your Life cards. Then, you take 1 damage.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-115.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-115.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-115_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-116",
+      "name": "Salamander",
+      "rarity": "C",
+      "cardType": "EVENT",
+      "color": "Yellow",
+      "cost": "4",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Kuja Pirates",
+      "effect": "[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, play up to 1 {Amazon Lily} or {Kuja Pirates} type Character card with a cost of 4 or less from your hand.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-116.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-116.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-116_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-117",
+      "name": "Brick Bat",
+      "rarity": "UC",
+      "cardType": "EVENT",
+      "color": "Yellow",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Thriller Bark Pirates",
+      "effect": "[Counter] Up to 1 of your {Thriller Bark Pirates} type Leader or Character cards gains +3000 power during this battle.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-117.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-117.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-117_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-118",
+      "name": "You'll Frighten Me... ♡",
+      "rarity": "R",
+      "cardType": "EVENT",
+      "color": "Yellow",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "The Seven Warlords of the Sea/Kuja Pirates",
+      "effect": "[Counter] If you have 2 or less Life cards, up to 1 of your opponent's active Characters cannot attack during this turn.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-118.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-118.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-118_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-119",
+      "name": "Dracule Mihawk",
+      "rarity": "SEC",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "9",
+      "power": "10000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "The Seven Warlords of the Sea",
+      "effect": "[Your Turn] When this Character becomes rested, up to 1 of your opponent's Characters with a cost of 9 or less cannot be rested until the end of your opponent's next End Phase.[On Your Opponent's Attack] [Once Per Turn] You may trash 1 card from your hand: Up to 1 of your Leader or Character cards gains +2000 power during this battle.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-119.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-119.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-119_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-120",
+      "name": "Crocodile",
+      "rarity": "SEC",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "8",
+      "power": "10000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "The Seven Warlords of the Sea/Baroque Works",
+      "effect": "[On Play] Up to 1 of your opponent's Characters with a cost of 9 or less cannot attack until the end of your opponent's next End Phase. Then, if your opponent has a Character with a cost of 0 or with a cost of 8 or more, draw 1 card.[On K.O.] You may trash 1 card from your hand: Play this Character card from your trash.",
+      "cardSets": "Card Set(s)-THE AZURE SEA’S SEVEN- [OP14-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-120.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-120.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-120_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "P-096",
+      "name": "Girl",
+      "rarity": "P",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "2",
+      "power": "-",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "Sabaody Archipelago",
+      "effect": "[On Play] Draw 1 card and trash 1 card from your hand.[Activate: Main] [Once Per Turn] Give up to 1 rested DON!! card to 1 of your [Nami] cards.",
+      "cardSets": "Card Set(s)OP14-EB04 Release Event",
+      "img": "https://optcgapi.com/media/static/Card_Images/P-096.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/P-096.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/P/P-096_EN.webp"
+      ]
+    }
+  ]
+}

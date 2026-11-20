@@ -1,0 +1,2051 @@
+{
+  "setId": "op02ParamountWar",
+  "setName": "OP-02: Paramount War",
+  "series": "Paramount War",
+  "jsonPath": "/data/onepiece/op02.json",
+  "counts": {
+    "total": 107,
+    "Common": 45,
+    "Uncommon": 26,
+    "Rare": 23,
+    "SuperRare": 4,
+    "SecretRare": 0,
+    "Leader": 8,
+    "Special": 1
+  },
+  "cards": [
+    {
+      "cardNum": "OP02-001",
+      "name": "Edward.Newgate",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Red",
+      "cost": "6",
+      "power": "6000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "The Four Emperors/Whitebeard Pirates",
+      "effect": "[End of Your Turn] Add 1 card from the top of your Life cards to your hand.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-001.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-001.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-001_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-002",
+      "name": "Monkey.D.Garp",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Red/Black",
+      "cost": "4",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Strike",
+      "type": "Navy",
+      "effect": "[Your Turn] When this Leader or any of your Characters is given a DON!! card, give up to 1 of your opponent's Characters with a cost of 7 or less −1 cost during this turn.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-002.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-002.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-002_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-003",
+      "name": "Atmos",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "4",
+      "power": "6000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Whitebeard Pirates",
+      "effect": "-",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-003.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-003.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-003_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-006",
+      "name": "Kingdew",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "5",
+      "power": "7000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Whitebeard Pirates",
+      "effect": "-",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-006.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-006.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-006_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-007",
+      "name": "Thatch",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "6",
+      "power": "8000",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "Whitebeard Pirates",
+      "effect": "-",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-007.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-007.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-007_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-008",
+      "name": "Jozu",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "4",
+      "power": "4000",
+      "counter": "2000",
+      "attribute": "Strike",
+      "type": "Whitebeard Pirates",
+      "effect": "[DON!! x1] If you have 2 or less Life cards and your Leader's type includes \"Whitebeard Pirates\", this Character gains [Rush].(This card can attack on the turn in which it is played.)",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-008.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-008.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-008_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-009",
+      "name": "Squard",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "3",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "Whitebeard Pirates Allies",
+      "effect": "[On Play] If your Leader's type includes \"Whitebeard Pirates\", give up to 1 of your opponent's Characters −4000 power during this turn and add 1 card from the top of your Life cards to your hand.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-009.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-009.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-009_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-010",
+      "name": "Dogura",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "1",
+      "power": "2000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Mountain Bandits",
+      "effect": "[Activate: Main] You may rest this Character: Play up to 1 red Character other than [Dogura] with a cost of 1 from your hand.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-010.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-010.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-010_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-011",
+      "name": "Vista",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "3",
+      "power": "3000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Whitebeard Pirates",
+      "effect": "[On Play] K.O. up to 1 of your opponent's Characters with 3000 power or less.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-011.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-011.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-011_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-012",
+      "name": "Blenheim",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "2",
+      "power": "3000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "Whitebeard Pirates",
+      "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-012.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-012.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-012_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-014",
+      "name": "Whitey Bay",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "1",
+      "power": "2000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Whitebeard Pirates Allies",
+      "effect": "[DON!! x1] This Character can also attack your opponent's active Characters.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-014.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-014.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-014_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-016",
+      "name": "Magura",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "1",
+      "power": "2000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Mountain Bandits",
+      "effect": "[On Play] Up to 1 of your red Characters with a cost of 1 gains +3000 power during this turn.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-016.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-016.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-016_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-017",
+      "name": "Masked Deuce",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "2",
+      "power": "3000",
+      "counter": "2000",
+      "attribute": "Wisdom",
+      "type": "Spade Pirates",
+      "effect": "[DON!! x2] [When Attacking] K.O. up to 1 of your opponent's Characters with 2000 power or less.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-017.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-017.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-017_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-019",
+      "name": "Rakuyo",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "3",
+      "power": "4000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Whitebeard Pirates",
+      "effect": "[DON!! x1] [Your Turn] All of your Characters with a type including \"Whitebeard Pirates\" gain +1000 power.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-019.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-019.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-019_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-020",
+      "name": "LittleOars Jr.",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "7",
+      "power": "9000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Giant/Whitebeard Pirates Allies",
+      "effect": "-",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-020.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-020.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-020_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-021",
+      "name": "Seaquake",
+      "rarity": "R",
+      "cardType": "EVENT",
+      "color": "Red",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "The Four Emperors/Whitebeard Pirates",
+      "effect": "[Main] If your Leader's type includes \"Whitebeard Pirates\", K.O. up to 1 of your opponent's Characters with 3000 power or less.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-021.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-021.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-021_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-022",
+      "name": "Whitebeard Pirates",
+      "rarity": "UC",
+      "cardType": "EVENT",
+      "color": "Red",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Whitebeard Pirates",
+      "effect": "[Main] Look at 5 cards from the top of your deck; reveal up to 1 Character card with a type including \"Whitebeard Pirates\" and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-022.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-022.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-022_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-023",
+      "name": "You May Be a Fool...but I Still Love You",
+      "rarity": "C",
+      "cardType": "EVENT",
+      "color": "Red",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "The Four Emperors/Whitebeard Pirates",
+      "effect": "[Main] If you have 3 or less Life cards, you cannot add Life cards to your hand using your own effects during this turn.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-023.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-023.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-023_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-024",
+      "name": "Moby Dick",
+      "rarity": "C",
+      "cardType": "STAGE",
+      "color": "Red",
+      "cost": "2",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Whitebeard Pirates",
+      "effect": "[Your Turn] If you have 1 or less Life cards, your [Edward.Newgate] and all your Characters with a type including \"Whitebeard Pirates\" gain +2000 power.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-024.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-024.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-024_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-025",
+      "name": "Kin'emon",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Green",
+      "cost": "5",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "Land of Wano/The Akazaya Nine",
+      "effect": "[Activate: Main] [Once Per Turn] If you have 1 or less Characters, the next time you play a {Land of Wano} type Character card with a cost of 3 or more from your hand during this turn, the cost will be reduced by 1.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-025.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-025.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-025_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-026",
+      "name": "Sanji",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Green/Blue",
+      "cost": "4",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Strike",
+      "type": "Straw Hat Crew",
+      "effect": "[Once Per Turn] When you play a Character with no base effect from your hand, if you have 3 or less Characters, set up to 2 of your DON!! cards as active.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-026.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-026.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-026_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-027",
+      "name": "Inuarashi",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "3",
+      "power": "4000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Minks/Land of Wano/The Akazaya Nine",
+      "effect": "If all of your DON!! cards are rested, this Character cannot be removed from the field by your opponent's effects.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-027.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-027.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-027_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-028",
+      "name": "Usopp",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "3",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Ranged",
+      "type": "FILM/Straw Hat Crew",
+      "effect": "-",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-028.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-028.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-028_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-029",
+      "name": "Carrot",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "5",
+      "power": "5000",
+      "counter": "2000",
+      "attribute": "Special",
+      "type": "Minks",
+      "effect": "[End of Your Turn] Set up to 1 of your DON!! cards as active.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-029.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-029.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-029_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-030",
+      "name": "Kouzuki Oden",
+      "rarity": "SR",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "8",
+      "power": "8000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "Land of Wano/Kouzuki Clan",
+      "effect": "[Activate: Main] [Once Per Turn] ③ (You may rest the specified number of DON!! cards in your cost area.): Set this Character as active.[On K.O.] Play up to 1 green {Land of Wano} type Character card with a cost of 3 from your deck. Then, shuffle your deck.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-030.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-030.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-030_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-031",
+      "name": "Kouzuki Toki",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "1",
+      "power": "-",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "Land of Wano/Kouzuki Clan",
+      "effect": "If you have a [Kouzuki Oden] Character, this Character gains [Blocker].(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-031.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-031.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-031_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-032",
+      "name": "Shishilian",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "2",
+      "power": "3000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Minks",
+      "effect": "[On Play] ② (You may rest the specified number of DON!! cards in your cost area.): Set up to 1 of your {Minks} type Characters with a cost of 5 or less as active.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-032.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-032.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-032_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-033",
+      "name": "Jinbe",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "2",
+      "power": "4000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "FILM/Fish-Man/Straw Hat Crew",
+      "effect": "-",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-033.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-033.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-033_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-034",
+      "name": "Tony Tony.Chopper",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "2",
+      "power": "2000",
+      "counter": "2000",
+      "attribute": "Wisdom",
+      "type": "FILM/Animal/Straw Hat Crew",
+      "effect": "[DON!! x1] [When Attacking] Rest up to 1 of your opponent's Characters with a cost of 2 or less.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-034.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-034.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-034_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-035",
+      "name": "Trafalgar Law",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "2",
+      "power": "3000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "FILM/Supernovas/Heart Pirates",
+      "effect": "[Activate: Main] ➀ (You may rest the specified number of DON!! cards in your cost area.) You may return this Character to the owner's hand: Play up to 1 Character with a cost of 3 from your hand.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-035.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-035.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-035_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-036",
+      "name": "Nami",
+      "rarity": "SR",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "3",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "FILM/Straw Hat Crew",
+      "effect": "[On Play]/[When Attacking] ➀ (You may rest the specified number of DON!! cards in your cost area.): Look at 3 cards from the top of your deck; reveal up to 1 {FILM} type card other than [Nami] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-036.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-036.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-036_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-037",
+      "name": "Nico Robin",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "3",
+      "power": "4000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "FILM/Straw Hat Crew",
+      "effect": "[On Play] Play up to 1 {FILM} or {Straw Hat Crew} type Character card with a cost of 2 or less from your hand.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-037.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-037.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-037_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-038",
+      "name": "Nekomamushi",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "3",
+      "power": "4000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "Minks/Land of Wano/The Akazaya Nine",
+      "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-038.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-038.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-038_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-039",
+      "name": "Franky",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "5",
+      "power": "7000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "FILM/Straw Hat Crew",
+      "effect": "-",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-039.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-039.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-039_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-040",
+      "name": "Brook",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "4",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "FILM/Straw Hat Crew",
+      "effect": "[On Play] Play up to 1 {FILM} or {Straw Hat Crew} type Character card with a cost of 3 or less from your hand.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-040.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-040.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-040_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-041",
+      "name": "Monkey.D.Luffy",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "7",
+      "power": "7000",
+      "counter": "-",
+      "attribute": "Strike",
+      "type": "FILM/Supernovas/Straw Hat Crew",
+      "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] Play up to 1 {FILM} or {Straw Hat Crew} type Character card with a cost of 4 or less from your hand.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-041.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-041.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-041_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-042",
+      "name": "Yamato",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "4",
+      "power": "6000",
+      "counter": "-",
+      "attribute": "Strike",
+      "type": "Land of Wano",
+      "effect": "Also treat this card's name as [Kouzuki Oden] according to the rules.[On Play] Rest up to 1 of your opponent's Characters with a cost of 6 or less.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-042.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-042.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-042_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-043",
+      "name": "Roronoa Zoro",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "4",
+      "power": "6000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "FILM/Supernovas/Straw Hat Crew",
+      "effect": "-",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-043.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-043.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-043_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-044",
+      "name": "Wanda",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "2",
+      "power": "3000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Minks",
+      "effect": "[On Play] Play up to 1 {Minks} type Character card other than [Wanda] with a cost of 3 or less from your hand.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-044.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-044.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-044_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-045",
+      "name": "Three Sword Style Oni Giri",
+      "rarity": "C",
+      "cardType": "EVENT",
+      "color": "Green",
+      "cost": "3",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "FILM/Supernovas/Straw Hat Crew",
+      "effect": "[Counter] Up to 1 of your Leader or Character cards gains +6000 power during this battle. Then, play up to 1 Character card with a cost of 3 or less and no base effect from your hand.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-045.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-045.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-045_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-046",
+      "name": "Diable Jambe Venaison Shoot",
+      "rarity": "UC",
+      "cardType": "EVENT",
+      "color": "Green",
+      "cost": "2",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "FILM/Straw Hat Crew",
+      "effect": "[Main] K.O. up to 1 of your opponent's rested Characters with a cost of 4 or less.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-046.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-046.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-046_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-047",
+      "name": "Paradise Totsuka",
+      "rarity": "R",
+      "cardType": "EVENT",
+      "color": "Green",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Land of Wano/Kouzuki Clan",
+      "effect": "[Main] Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-047.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-047.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-047_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-048",
+      "name": "Land of Wano",
+      "rarity": "C",
+      "cardType": "STAGE",
+      "color": "Green",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Land of Wano",
+      "effect": "[Activate: Main] You may trash 1 {Land of Wano} type card from your hand and rest this Stage: Set up to 1 of your DON!! cards as active.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-048.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-048.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-048_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-049",
+      "name": "Emporio.Ivankov",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Blue",
+      "cost": "5",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "Impel Down/Revolutionary Army",
+      "effect": "[End of Your Turn] If you have 0 cards in your hand, draw 2 cards.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-049.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-049.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-049_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-050",
+      "name": "Inazuma",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "4",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Impel Down/Revolutionary Army",
+      "effect": "If you have 1 or less cards in your hand, this Character gains +2000 power.[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-050.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-050.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-050_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-051",
+      "name": "Emporio.Ivankov",
+      "rarity": "SR",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "7",
+      "power": "7000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "Impel Down/Revolutionary Army",
+      "effect": "[On Play] Draw card(s) so that you have 3 cards in your hand and then play up to 1 blue {Impel Down} type Character card with a cost of 6 or less from your hand.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-051.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-051.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-051_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-052",
+      "name": "Cabaji",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "2",
+      "power": "3000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Buggy Pirates",
+      "effect": "[On Play] If you have [Mohji], draw 2 cards and trash 1 card from your hand.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-052.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-052.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-052_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-053",
+      "name": "Crocodile",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "5",
+      "power": "7000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Impel Down/Former Baroque Works",
+      "effect": "-",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-053.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-053.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-053_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-054",
+      "name": "Gecko Moria",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "4",
+      "power": "6000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "The Seven Warlords of the Sea/Thriller Bark Pirates",
+      "effect": "-",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-054.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-054.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-054_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-055",
+      "name": "Dracule Mihawk",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "6",
+      "power": "8000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "The Seven Warlords of the Sea",
+      "effect": "-",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-055.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-055.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-055_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-056",
+      "name": "Donquixote Doflamingo",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "1",
+      "power": "2000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "The Seven Warlords of the Sea/Donquixote Pirates",
+      "effect": "[On Play] Look at 3 cards from the top of your deck and place them at the top or bottom of the deck in any order.[DON!! x1] [When Attacking] You may trash 1 card from your hand: Place up to 1 of your opponent's Characters with a cost of 1 or less at the bottom of the owner's deck.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-056.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-056.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-056_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-057",
+      "name": "Bartholomew Kuma",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "3",
+      "power": "3000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "The Seven Warlords of the Sea/Revolutionary Army",
+      "effect": "[On Play] Look at 2 cards from the top of your deck; reveal up to 1 {The Seven Warlords of the Sea} type card and add it to your hand. Then, place the rest at the top or bottom of the deck in any order.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-057.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-057.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-057_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-058",
+      "name": "Buggy",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "1",
+      "power": "2000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Impel Down/Buggy Pirates",
+      "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 blue {Impel Down} type card other than [Buggy] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-058.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-058.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-058_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-059",
+      "name": "Boa Hancock",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "4",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Impel Down/The Seven Warlords of the Sea/Kuja Pirates",
+      "effect": "[When Attacking] Draw 1 card and trash 1 card from your hand. Then, trash up to 3 cards from your hand.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-059.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-059.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-059_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-060",
+      "name": "Mohji",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "1",
+      "power": "3000",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "Buggy Pirates",
+      "effect": "-",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-060.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-060.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-060_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-061",
+      "name": "Morley",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "4",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Giant/Revolutionary Army",
+      "effect": "[When Attacking] If you have 1 or less cards in your hand, your opponent cannot activate the [Blocker] of any Character with a cost of 5 or less during this battle.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-061.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-061.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-061_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-062",
+      "name": "Monkey.D.Luffy",
+      "rarity": "SR",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "6",
+      "power": "7000",
+      "counter": "-",
+      "attribute": "Strike",
+      "type": "Impel Down/Straw Hat Crew",
+      "effect": "[On Play]/[When Attacking] You may trash 2 cards from your hand: Return up to 1 Character with a cost of 4 or less to the owner's hand. Then, this Character gains [Double Attack] during this turn.(This card deals 2 damage.)",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-062.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-062.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-062_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-063",
+      "name": "Mr.1(Daz.Bonez)",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "1",
+      "power": "1000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Impel Down/Former Baroque Works",
+      "effect": "[On Play] Add up to 1 blue Event card with a cost of 1 from your trash to your hand.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-063.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-063.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-063_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-064",
+      "name": "Mr.2.Bon.Kurei(Bentham)",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "5",
+      "power": "5000",
+      "counter": "2000",
+      "attribute": "Strike",
+      "type": "Impel Down/Former Baroque Works",
+      "effect": "[DON!! x1] [When Attacking] You may trash 1 card from your hand: Place up to 1 Character with a cost of 2 or less at the bottom of the owner's deck. Then, at the end of this battle, place this Character at the bottom of the owner's deck.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-064.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-064.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-064_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-065",
+      "name": "Mr.3(Galdino)",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "4",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Impel Down/Former Baroque Works",
+      "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[End of Your Turn] You may trash 1 card from your hand: Set this Character as active.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-065.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-065.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-065_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-066",
+      "name": "Impel Down All Stars",
+      "rarity": "C",
+      "cardType": "EVENT",
+      "color": "Blue",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Impel Down",
+      "effect": "[Main] You may trash 2 cards from your hand: If your Leader has the {Impel Down} type, draw up to 2 cards.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-066.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-066.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-066_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-067",
+      "name": "Arabesque Brick Fist",
+      "rarity": "UC",
+      "cardType": "EVENT",
+      "color": "Blue",
+      "cost": "2",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Fish-Man/Impel Down",
+      "effect": "[Main] Return up to 1 Character with a cost of 4 or less to the owner's hand.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-067.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-067.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-067_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-069",
+      "name": "DEATH WINK",
+      "rarity": "C",
+      "cardType": "EVENT",
+      "color": "Blue",
+      "cost": "3",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Impel Down/Revolutionary Army",
+      "effect": "[Counter] Up to 1 of your Leader or Character cards gains +6000 power during this battle. Then, draw cards so that you have 2 cards in your hand.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-069.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-069.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-069_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-070",
+      "name": "New Kama Land",
+      "rarity": "C",
+      "cardType": "STAGE",
+      "color": "Blue",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Impel Down",
+      "effect": "[Activate: Main] You may rest this Stage: If your Leader is [Emporio.Ivankov], draw 1 card and trash 1 card from your hand. Then, trash up to 3 cards from your hand.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-070.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-070.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-070_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-071",
+      "name": "Magellan",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Purple",
+      "cost": "5",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "Impel Down",
+      "effect": "[Your Turn] [Once Per Turn] When a DON!! card on the field is returned to your DON!! deck, this Leader gains +1000 power during this turn.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-071.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-071.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-071_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-072",
+      "name": "Zephyr",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Purple/Black",
+      "cost": "4",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Strike",
+      "type": "FILM/Neo Navy",
+      "effect": "[When Attacking] DON!! −4 (You may return the specified number of DON!! cards from your field to your DON!! deck.): K.O. up to 1 of your opponent's Characters with a cost of 3 or less. Then, this Leader gains +1000 power during this turn.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-072.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-072.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-072_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-073",
+      "name": "Little Sadi",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "3",
+      "power": "3000",
+      "counter": "2000",
+      "attribute": "Wisdom",
+      "type": "Impel Down",
+      "effect": "[On Play] Play up to 1 {Jailer Beast} type Character card from your hand.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-073.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-073.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-073_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-074",
+      "name": "Saldeath",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "1",
+      "power": "2000",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "Impel Down",
+      "effect": "Your [Blugori] gains [Blocker].(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-074.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-074.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-074_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-075",
+      "name": "Shiki",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "2",
+      "power": "3000",
+      "counter": "2000",
+      "attribute": "Slash",
+      "type": "FILM/Golden Lion Pirates",
+      "effect": "-",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-075.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-075.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-075_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-076",
+      "name": "Shiryu",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "4",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Impel Down",
+      "effect": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): K.O. up to 1 of your opponent's Characters with a cost of 1 or less.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-076.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-076.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-076_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-077",
+      "name": "Solitaire",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "3",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Animal Kingdom Pirates/SMILE",
+      "effect": "-",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-077.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-077.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-077_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-078",
+      "name": "Daifugo",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "3",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Ranged",
+      "type": "Animal Kingdom Pirates/SMILE",
+      "effect": "[On Play] DON!! −2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Play up to 1 {SMILE} type Character card other than [Daifugo] with a cost of 3 or less from your hand.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-078.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-078.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-078_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-079",
+      "name": "Douglas Bullet",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "5",
+      "power": "6000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "FILM/The Pirates Fest",
+      "effect": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-079.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-079.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-079_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-080",
+      "name": "Dobon",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "2",
+      "power": "4000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Animal Kingdom Pirates/SMILE",
+      "effect": "-",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-080.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-080.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-080_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-081",
+      "name": "Domino",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "2",
+      "power": "2000",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "Impel Down",
+      "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-081.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-081.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-081_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-082",
+      "name": "Byrnndi World",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "8",
+      "power": "8000",
+      "counter": "-",
+      "attribute": "Strike",
+      "type": "World Pirates",
+      "effect": "[Activate: Main] DON!! −8 (You may return the specified number of DON!! cards from your field to your DON!! deck.): This Character gains +792000 power during this turn.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-082.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-082.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-082_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-083",
+      "name": "Hannyabal",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "1",
+      "power": "2000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Impel Down",
+      "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 purple {Impel Down} type card other than [Hannyabal] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-083.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-083.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-083_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-084",
+      "name": "Blugori",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "1",
+      "power": "3000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Animal/Impel Down",
+      "effect": "-",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-084.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-084.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-084_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-086",
+      "name": "Minokoala",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "4",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Impel Down/Jailer Beast",
+      "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On K.O.] If your Leader has the {Impel Down} type, add up to 1 DON!! card from your DON!! deck and rest it.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-086.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-086.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-086_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-087",
+      "name": "Minotaur",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "4",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Impel Down/Jailer Beast",
+      "effect": "[Double Attack] (This card deals 2 damage.)[On K.O.] If your Leader has the {Impel Down} type, add up to 1 DON!! card from your DON!! deck and rest it.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-087.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-087.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-087_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-088",
+      "name": "Sphinx",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "4",
+      "power": "6000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Animal/Impel Down",
+      "effect": "-",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-088.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-088.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-088_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-090",
+      "name": "Hydra",
+      "rarity": "UC",
+      "cardType": "EVENT",
+      "color": "Purple",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Impel Down",
+      "effect": "[Main] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Give up to 1 of your opponent's Characters −3000 power during this turn.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-090.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-090.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-090_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-091",
+      "name": "Venom Road",
+      "rarity": "C",
+      "cardType": "EVENT",
+      "color": "Purple",
+      "cost": "3",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Impel Down",
+      "effect": "[Main] Add up to 1 DON!! card from your DON!! deck and set it as active.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-091.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-091.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-091_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-092",
+      "name": "Impel Down",
+      "rarity": "C",
+      "cardType": "STAGE",
+      "color": "Purple",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Impel Down",
+      "effect": "[Activate: Main] You may trash 1 card from your hand and rest this Stage: Look at 3 cards from the top of your deck; reveal up to 1 {Impel Down} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-092.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-092.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-092_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-093",
+      "name": "Smoker",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Black",
+      "cost": "5",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "Navy",
+      "effect": "[DON!! x1] [Activate: Main] [Once Per Turn] Give up to 1 of your opponent's Characters −1 cost during this turn. Then, if there is a Character with a cost of 0, this Leader gains +1000 power during this turn.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-093.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-093.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-093_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-094",
+      "name": "Isuka",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "3",
+      "power": "4000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Navy",
+      "effect": "[DON!! x1] [Once Per Turn] When this Character battles and K.O.'s your opponent's Character, set this Character as active.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-094.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-094.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-094_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-095",
+      "name": "Onigumo",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "5",
+      "power": "6000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Navy",
+      "effect": "If there is a Character with a cost of 0, this Character gains [Banish].(When this card deals damage, the target card is trashed without activating its Trigger.)",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-095.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-095.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-095_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-097",
+      "name": "Komille",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "1",
+      "power": "3000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Navy",
+      "effect": "-",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-097.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-097.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-097_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-098",
+      "name": "Koby",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "3",
+      "power": "4000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Navy",
+      "effect": "[On Play] You may trash 1 card from your hand: K.O. up to 1 of your opponent's Characters with a cost of 3 or less.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-098.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-098.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-098_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-100",
+      "name": "Jango",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "2",
+      "power": "3000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Navy",
+      "effect": "If you have [Fullbody], this Character cannot be K.O.'d in battle.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-100.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-100.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-100_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-101",
+      "name": "Strawberry",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "4",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "Navy",
+      "effect": "[When Attacking] If there is a Character with a cost of 0, your opponent cannot activate the [Blocker] of any Character with a cost of 5 or less during this battle.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-101.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-101.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-101_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-102",
+      "name": "Smoker",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "3",
+      "power": "4000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Navy",
+      "effect": "This Character cannot be K.O.'d by effects.[When Attacking] If there is a Character with a cost of 0, this Character gains +2000 power during this battle.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-102.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-102.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-102_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-103",
+      "name": "Sengoku",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "2",
+      "power": "3000",
+      "counter": "2000",
+      "attribute": "Wisdom",
+      "type": "Navy",
+      "effect": "[DON!! x1] [When Attacking] Give up to 1 of your opponent's Characters −2 cost during this turn.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-103.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-103.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-103_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-104",
+      "name": "Sentomaru",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "2",
+      "power": "3000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Navy",
+      "effect": "-",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-104.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-104.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-104_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-105",
+      "name": "Tashigi",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "3",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "Navy",
+      "effect": "[DON!! x1] [When Attacking] Give up to 1 of your opponent's Characters −3 cost during this turn.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-105.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-105.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-105_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-107",
+      "name": "Doberman",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "2",
+      "power": "4000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Navy",
+      "effect": "-",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-107.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-107.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-107_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-108",
+      "name": "Donquixote Rosinante",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "2",
+      "power": "2000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Navy/Donquixote Pirates",
+      "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-108.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-108.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-108_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-109",
+      "name": "Jaguar.D.Saul",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "4",
+      "power": "6000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Giant/Navy",
+      "effect": "-",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-109.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-109.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-109_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-110",
+      "name": "Hina",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "5",
+      "power": "6000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Navy",
+      "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Block] Select up to 1 of your opponent's Characters with a cost of 6 or less. The selected Character cannot attack during this turn.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-110.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-110.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-110_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-111",
+      "name": "Fullbody",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "2",
+      "power": "3000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Navy",
+      "effect": "[When Attacking] If you have [Jango], this card gains +3000 power during this battle.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-111.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-111.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-111_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-112",
+      "name": "Bell-mère",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "1",
+      "power": "1000",
+      "counter": "1000",
+      "attribute": "Ranged",
+      "type": "Navy",
+      "effect": "[Activate: Main] You may rest this Character: Give up to 1 of your opponent's Characters −1 cost during this turn. Then, up to 1 of your Leader or Character cards gains +1000 power during this turn.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-112.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-112.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-112_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-113",
+      "name": "Helmeppo",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "3",
+      "power": "3000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Navy",
+      "effect": "[When Attacking] Give up to 1 of your opponent's Characters −2 cost during this turn. Then, if there is a Character with a cost of 0, this Character gains +2000 power during this battle.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-113.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-113.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-113_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-115",
+      "name": "Monkey.D.Garp",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "2",
+      "power": "3000",
+      "counter": "2000",
+      "attribute": "Strike",
+      "type": "Navy",
+      "effect": "[DON!! x2] [When Attacking] K.O. up to 1 of your opponent's Characters with a cost of 0.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-115.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-115.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-115_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-116",
+      "name": "Yamakaji",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "3",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Navy",
+      "effect": "-",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-116.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-116.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-116_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-118",
+      "name": "Yasakani Sacred Jewel",
+      "rarity": "C",
+      "cardType": "EVENT",
+      "color": "Black",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Navy",
+      "effect": "[Counter] You may trash 1 card from your hand: Select up to 1 of your Characters. The selected Character cannot be K.O.'d during this battle.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-118.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-118.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-118_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP02-119",
+      "name": "Meteor Volcano",
+      "rarity": "R",
+      "cardType": "EVENT",
+      "color": "Black",
+      "cost": "2",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Navy",
+      "effect": "[Main] K.O. up to 1 of your opponent's Characters with a cost of 1 or less.",
+      "cardSets": "Card Set(s)-PARAMOUNT WAR- [OP02]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-119.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-119.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-119_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "P-025",
+      "name": "Smoker",
+      "rarity": "P",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "3",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "Navy",
+      "effect": "[DON!! x1] This Character cannot be K.O.'d in battle by Characters without the <Special> attribute.",
+      "cardSets": "Card Set(s)Pre-Release OP02",
+      "img": "https://optcgapi.com/media/static/Card_Images/P-025.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/P-025.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/P/P-025_EN.webp"
+      ]
+    }
+  ]
+}

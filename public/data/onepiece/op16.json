@@ -1,0 +1,2393 @@
+{
+  "setId": "op16TimeOfBattle",
+  "setName": "OP-16: The Time of Battle",
+  "series": "The Time of Battle",
+  "jsonPath": "/data/onepiece/op16.json",
+  "counts": {
+    "total": 125,
+    "Common": 45,
+    "Uncommon": 30,
+    "Rare": 26,
+    "SuperRare": 9,
+    "SecretRare": 2,
+    "Leader": 6,
+    "Special": 7
+  },
+  "cards": [
+    {
+      "cardNum": "EB04-054",
+      "name": "Bartholomew Kuma",
+      "rarity": "SP CARD",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "7",
+      "power": "7000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Egghead/Revolutionary Army",
+      "effect": "[On Play] If you have 2 or less Life cards, add up to 1 card from the top of your deck to the top of your Life cards.[On K.O.] Add up to 1 card from the top of your opponent's Life cards to the owner's hand.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB04-054_p1.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB04-054_p1.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB04/EB04-054_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP10-045",
+      "name": "Cavendish",
+      "rarity": "SP CARD",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "4",
+      "power": "6000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "Dressrosa/Beautiful Pirates",
+      "effect": "[When Attacking] [Once Per Turn] Draw 2 cards and trash 1 card from your hand.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP10-045_p2.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP10-045_p2.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP10/OP10-045_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-067",
+      "name": "Charlotte Katakuri",
+      "rarity": "SP CARD",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "8",
+      "power": "8000",
+      "counter": "-",
+      "attribute": "Strike",
+      "type": "Big Mom Pirates",
+      "effect": "[Blocker][End of Your Turn] Set up to 2 of your {Big Mom Pirates} type Characters with a cost of 3 or more as active. Then, add up to 1 DON!! card from your DON!! deck and rest it.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-067_p3.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-067_p3.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-067_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-029",
+      "name": "Tashigi",
+      "rarity": "SP CARD",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "5",
+      "power": "6000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Navy",
+      "effect": "[Opponent's Turn] If this Character would be removed from the field by your opponent's effect, you may rest 1 of your cards instead.[Activate: Main] [Once Per Turn] You may rest 2 of your cards: This Character gains +2000 power until the end of your opponent's next End Phase.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-029_p1.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-029_p1.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-029_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP14-084",
+      "name": "Ms. All Sunday",
+      "rarity": "SP CARD",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "7",
+      "power": "8000",
+      "counter": "-",
+      "attribute": "Strike",
+      "type": "Baroque Works",
+      "effect": "[On Play] If your Leader's type includes \"Baroque Works\", play up to 1 Character card with a type including \"Baroque Works\" and a cost of 4 or less and up to 1 Character card with a type including \"Baroque Works\" and a cost of 1 from your trash.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP14-084_p2.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP14-084_p2.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP14/OP14-084_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-001",
+      "name": "Portgas.D.Ace",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Red",
+      "cost": "5",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "Whitebeard Pirates",
+      "effect": "[Activate: Main] [Once Per Turn] Up to 1 of your [Monkey.D.Luffy] Characters or up to 1 of your Characters with a type including \"Whitebeard Pirates\", with 8000 power or more, gains [Rush] during this turn.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-001.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-001.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-001_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-002",
+      "name": "Izo",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "1",
+      "power": "2000",
+      "counter": "1000",
+      "attribute": "Ranged",
+      "type": "Land of Wano/Whitebeard Pirates",
+      "effect": "[On Play] You may reveal 1 Character card with 8000 power from your hand: Draw 1 card.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-002.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-002.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-002_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-003",
+      "name": "Edward.Newgate",
+      "rarity": "SR",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "8",
+      "power": "10000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "The Four Emperors/Whitebeard Pirates",
+      "effect": "[Your Turn] Your Leader gains [Double Attack] and +2000 power.[On Play] You may reveal 2 Character cards with 8000 power from your hand: Give up to 1 of your opponent's Characters −6000 power during this turn.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-003.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-003.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-003_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-004",
+      "name": "Curiel",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "7",
+      "power": "8000",
+      "counter": "2000",
+      "attribute": "Ranged",
+      "type": "Whitebeard Pirates",
+      "effect": "-",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-004.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-004.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-004_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-005",
+      "name": "Thatch",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "8",
+      "power": "8000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Whitebeard Pirates",
+      "effect": "If you have a Character with 8000 power or more and a type including \"Whitebeard Pirates\", give this card in your hand −3 cost.[Blocker]",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-005.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-005.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-005_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-006",
+      "name": "Shanks",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "4",
+      "power": "5000",
+      "counter": "2000",
+      "attribute": "Slash",
+      "type": "The Four Emperors/Red-Haired Pirates",
+      "effect": "[On Play] You may rest 2 of your DON!! cards: K.O. up to 1 of your opponent's Characters with 4000 power or less.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-006.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-006.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-006_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-007",
+      "name": "Jozu",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "7",
+      "power": "8000",
+      "counter": "-",
+      "attribute": "Strike",
+      "type": "Whitebeard Pirates",
+      "effect": "[Blocker][On Play] You may reveal 1 Character card with 8000 power from your hand: Give up to 1 of your opponent's Characters −1000 power during this turn.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-007.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-007.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-007_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-008",
+      "name": "Squard",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "5",
+      "power": "7000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "Whitebeard Pirates Allies",
+      "effect": "[On Play] You may trash 1 of your Characters with 10000 base power: K.O. up to 1 of your opponent's Characters with 8000 power or less.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-008.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-008.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-008_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-009",
+      "name": "Speed Jil",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "4",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Whitebeard Pirates",
+      "effect": "[On Play] You may trash 1 Character card with 8000 power from your hand: This Character gains [Rush] and +2000 power until the end of your opponent's next End Phase.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-009.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-009.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-009_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-010",
+      "name": "Namule",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "1",
+      "power": "2000",
+      "counter": "2000",
+      "attribute": "Strike",
+      "type": "Fish-Man/Whitebeard Pirates",
+      "effect": "[On Play] You may reveal 1 Character card with 8000 power from your hand: K.O. up to 1 of your opponent's Characters with 2000 base power or less.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-010.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-010.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-010_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-011",
+      "name": "Vista",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "6",
+      "power": "8000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "Whitebeard Pirates",
+      "effect": "[On Play] You may reveal 1 Character card with 8000 power from your hand: Draw 1 card.[DON!! x1] [When Attacking] K.O. up to 2 of your opponent's Characters with 2000 base power or less.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-011.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-011.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-011_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-012",
+      "name": "Benn.Beckman",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "5",
+      "power": "6000",
+      "counter": "1000",
+      "attribute": "Ranged",
+      "type": "Red-Haired Pirates",
+      "effect": "[Blocker][On Play] You may rest 1 of your DON!! cards: If your Leader has the {Red-Haired Pirates} type and you have 10 DON!! cards on your field, play up to 1 [Shanks] from your hand.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-012.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-012.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-012_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-013",
+      "name": "McGuy",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "6",
+      "power": "8000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "Whitebeard Pirates Allies",
+      "effect": "[On K.O.] K.O. up to 1 of your opponent's Characters with 8000 base power or less.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-013.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-013.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-013_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-014",
+      "name": "Marco",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "6",
+      "power": "8000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "Whitebeard Pirates",
+      "effect": "If one of your Characters would be removed from the field by your opponent's effect, you may K.O. this Character instead.[On K.O.] You may trash 1 Character card with 8000 power from your hand: Play this Character card from your trash.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-014.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-014.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-014_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-015",
+      "name": "Monkey.D.Luffy",
+      "rarity": "SR",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "4",
+      "power": "6000",
+      "counter": "-",
+      "attribute": "Strike",
+      "type": "Impel Down/Straw Hat Crew",
+      "effect": "If your Leader's card name includes \"Ace\" and you have 6 or more DON!! cards on your field, give this card in your hand −2 cost.[On Your Opponent's Attack] You may trash 1 Character card with 8000 power from your hand: Your Leader and this Character's base power becomes 7000 during this turn.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-015.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-015.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-015_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-016",
+      "name": "Ramba",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "6",
+      "power": "8000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Whitebeard Pirates Allies",
+      "effect": "-",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-016.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-016.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-016_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-017",
+      "name": "LittleOars Jr.",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "4",
+      "power": "8000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Giant/Whitebeard Pirates Allies",
+      "effect": "If you have no Characters with a type including \"Whitebeard Pirates\" and a cost of 8 or more, give this Character −4000 power.[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-017.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-017.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-017_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-018",
+      "name": "Rockstar",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "1",
+      "power": "2000",
+      "counter": "2000",
+      "attribute": "Slash",
+      "type": "Red-Haired Pirates",
+      "effect": "[Once Per Turn] If your {Red-Haired Pirates} type Character would be K.O.'d, you may trash 1 Character card with 6000 power or more from your hand instead.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-018.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-018.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-018_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-019",
+      "name": "Let's Show 'Em What We're Made Of!!",
+      "rarity": "C",
+      "cardType": "EVENT",
+      "color": "Red",
+      "cost": "9",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Whitebeard Pirates",
+      "effect": "[Main] Play up to 2 Character cards with a type including \"Whitebeard Pirates\" and 8000 power from your hand.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-019.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-019.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-019_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-020",
+      "name": "If You're Coming with Me... Kiss Your Lives Goodbye!!",
+      "rarity": "UC",
+      "cardType": "EVENT",
+      "color": "Red",
+      "cost": "-",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "The Four Emperors/Whitebeard Pirates",
+      "effect": "[Main] You may rest 1 of your DON!! cards and reveal 1 Character card with 8000 power from your hand: Draw 1 card.[Counter] You may trash 1 card from your hand: Up to 1 of your Leader or Character cards gains +3000 power during this battle.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-020.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-020.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-020_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-021",
+      "name": "Moby Dick",
+      "rarity": "R",
+      "cardType": "STAGE",
+      "color": "Red",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Whitebeard Pirates",
+      "effect": "[On Play] If your Leader has the {Whitebeard Pirates} type, look at 3 cards from the top of your deck and add up to 1 card to your hand. Then, place the rest at the bottom of your deck in any order.[Activate: Main] You may trash this Stage: Give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-021.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-021.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-021_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-022",
+      "name": "Monkey.D.Luffy",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Green/Blue",
+      "cost": "4",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Strike",
+      "type": "Impel Down/Straw Hat Crew",
+      "effect": "[Activate: Main] [Once Per Turn] If the only Characters on your field are {Impel Down} type Characters, set up to 2 of your DON!! cards as active.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-022.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-022.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-022_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-023",
+      "name": "Arlong",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "1",
+      "power": "3000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Fish-Man/Impel Down/The Sun Pirates",
+      "effect": "-",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-023.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-023.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-023_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-024",
+      "name": "Inazuma",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "2",
+      "power": "1000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Impel Down/Revolutionary Army",
+      "effect": "When this Character is K.O.'d by your opponent's effect, rest up to 1 of your opponent's Characters.[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-024.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-024.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-024_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-025",
+      "name": "Bunkov",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "2",
+      "power": "3000",
+      "counter": "2000",
+      "attribute": "Strike",
+      "type": "Impel Down",
+      "effect": "[When Attacking] If you have [Antlerkov], play up to 1 Character card with a cost of 2 or less from your hand.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-025.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-025.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-025_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-026",
+      "name": "Emporio.Ivankov",
+      "rarity": "SR",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "4",
+      "power": "4000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Impel Down/Revolutionary Army",
+      "effect": "[On Play] Look at 3 cards from the top of your deck; reveal up to 1 {Impel Down} type card, add it to your hand and place the rest at the bottom of your deck in any order. Then, play up to 1 Character card with a cost of 2 or less from your hand.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-026.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-026.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-026_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-027",
+      "name": "Jinbe",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "2",
+      "power": "2000",
+      "counter": "2000",
+      "attribute": "Strike",
+      "type": "Fish-Man/Impel Down/The Sun Pirates",
+      "effect": "[DON!! x1] This Character gains +2000 power.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-027.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-027.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-027_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-028",
+      "name": "Smoker",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "6",
+      "power": "7000",
+      "counter": "2000",
+      "attribute": "Special",
+      "type": "Navy",
+      "effect": "-",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-028.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-028.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-028_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-029",
+      "name": "Antlerkov",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "2",
+      "power": "3000",
+      "counter": "2000",
+      "attribute": "Ranged",
+      "type": "Impel Down",
+      "effect": "[When Attacking] If you have [Bunkov], play up to 1 Character card with a cost of 2 or less from your hand.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-029.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-029.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-029_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-030",
+      "name": "Trafalgar Law",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "8",
+      "power": "9000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "Supernovas/Heart Pirates",
+      "effect": "[On Play] Up to 1 of your opponent's rested Characters will not become active in your opponent's next Refresh Phase.[End of Your Turn] Set all of your green Characters with a cost of 5 or less as active.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-030.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-030.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-030_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-031",
+      "name": "Buggy",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "4",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Impel Down/Buggy Pirates",
+      "effect": "[On K.O.] Play up to 1 [Prisoner of Impel Down] card from your hand.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-031.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-031.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-031_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-032",
+      "name": "Boa Hancock",
+      "rarity": "SR",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "7",
+      "power": "9000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "Impel Down/The Seven Warlords of the Sea/Kuja Pirates",
+      "effect": "[Unblockable] (This card cannot be blocked.)[On Play] Up to 1 of your opponent's Characters other than [Monkey.D.Luffy] cannot be rested until the end of your opponent's next End Phase.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-032.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-032.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-032_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-033",
+      "name": "Morley",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "4",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Giant/Revolutionary Army",
+      "effect": "If this Character would be K.O.'d, you may rest 2 of your cards instead.[Unblockable] (This card cannot be blocked.)",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-033.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-033.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-033_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-034",
+      "name": "Monkey.D.Luffy",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "1",
+      "power": "-",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Impel Down/Straw Hat Crew",
+      "effect": "[DON!! x1] [Your Turn] This Character gains +1000 power for each of your Characters with a different card name.[On Play] Look at 3 cards from the top of your deck; reveal up to 1 {Impel Down} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-034.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-034.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-034_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-035",
+      "name": "Roronoa Zoro",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "7",
+      "power": "9000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "Straw Hat Crew",
+      "effect": "[On Play] Rest up to 1 of your opponent's cards. Then, you may trash 1 card from your hand. If you do, give up to 3 rested DON!! cards to your Leader.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-035.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-035.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-035_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-036",
+      "name": "Mr.2.Bon.Kurei(Bentham)",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "4",
+      "power": "1000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Impel Down/Former Baroque Works",
+      "effect": "[On Play] Rest up to 1 of your opponent's Characters with a cost of 4 or less.[When Attacking] This Character's base power becomes the same as your opponent's Leader during this turn.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-036.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-036.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-036_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-037",
+      "name": "Mr.3(Galdino)",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "2",
+      "power": "3000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Impel Down/Former Baroque Works",
+      "effect": "[On Play] If your Leader has the {Impel Down} type, rest up to 1 of your opponent's Characters with a cost of 5 or less.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-037.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-037.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-037_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-038",
+      "name": "Let's Go!! To the Navy Headquarters!!",
+      "rarity": "R",
+      "cardType": "EVENT",
+      "color": "Green",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Impel Down/Straw Hat Crew",
+      "effect": "[Main] You may rest 6 of your DON!! cards: If you have 5 {Impel Down} type Characters with different card names, set your Leader and all of your Characters as active.[Counter] Your Leader gains +3000 power during this battle.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-038.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-038.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-038_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-039",
+      "name": "Gum-Gum Twin Jet Pistol",
+      "rarity": "C",
+      "cardType": "EVENT",
+      "color": "Green",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Impel Down/Straw Hat Crew",
+      "effect": "[Main] Up to 1 of your [Monkey.D.Luffy] cards gains [Double Attack] during this turn. Then, if your Leader has the {Impel Down} type, rest up to 2 of your opponent's Characters with a cost of 3 or less.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-039.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-039.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-039_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-040",
+      "name": "Gum-Gum Hammer Rifle",
+      "rarity": "UC",
+      "cardType": "EVENT",
+      "color": "Green",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Impel Down/Straw Hat Crew",
+      "effect": "[Main] If you have [Monkey.D.Luffy] and [Mr.3(Galdino)], up to 1 of your opponent's rested Characters with a cost of 6 or less will not become active in your opponent's next Refresh Phase.[Counter] Your Leader gains +3000 power during this battle.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-040.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-040.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-040_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-041",
+      "name": "Buggy",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Blue",
+      "cost": "5",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "Impel Down/Buggy Pirates",
+      "effect": "[DON!! x1] [Once Per Turn] This effect can be activated when your {Impel Down} type Character card is removed from the field. Play up to 1 [Prisoner of Impel Down] card from your hand.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-041.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-041.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-041_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-042",
+      "name": "Prisoner of Impel Down",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "6",
+      "power": "6000",
+      "counter": "2000",
+      "attribute": "Strike",
+      "type": "Impel Down",
+      "effect": "Under the rules of this game, you may have any number of this card in your deck.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-042.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-042.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-042_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-043",
+      "name": "Usopp",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "2",
+      "power": "1000",
+      "counter": "1000",
+      "attribute": "Ranged",
+      "type": "Dressrosa/Straw Hat Crew",
+      "effect": "[Blocker][On K.O.] You may rest 1 of your {Dressrosa} type Leader or Stage cards: Return up to 1 of your opponent's Characters with a cost of 5 or less to the owner's hand.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-043.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-043.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-043_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-044",
+      "name": "Emporio.Ivankov",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "2",
+      "power": "2000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Impel Down/Revolutionary Army",
+      "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-044.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-044.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-044_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-045",
+      "name": "Crocodile",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "4",
+      "power": "6000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "Impel Down/Former Baroque Works",
+      "effect": "[Blocker][On Play] You may return 1 of your Characters with a cost of 2 or more to the owner's hand: Play up to 1 {Impel Down} type Character card with a cost of 2 or less from your hand.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-045.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-045.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-045_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-046",
+      "name": "Jinbe",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "5",
+      "power": "6000",
+      "counter": "2000",
+      "attribute": "Strike",
+      "type": "Fish-Man/Impel Down/The Sun Pirates",
+      "effect": "-",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-046.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-046.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-046_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-047",
+      "name": "Donquixote Doflamingo",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "3",
+      "power": "-",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Impel Down/Donquixote Pirates",
+      "effect": "[Activate: Main] You may rest this Character: If your opponent has 8 or more cards in their hand, they place 2 cards from their hand at the bottom of their deck in any order.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-047.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-047.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-047_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-048",
+      "name": "Buggy",
+      "rarity": "SR",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "5",
+      "power": "6000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Impel Down/Buggy Pirates",
+      "effect": "[On Play] If your Leader has the {Impel Down} type, draw 1 card and play up to 1 [Prisoner of Impel Down] card from your hand.[Once Per Turn] This effect can be activated when your opponent attacks. Up to 1 of your [Prisoner of Impel Down] cards gains [Blocker] during this turn.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-048.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-048.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-048_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-049",
+      "name": "Portgas.D.Ace",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "3",
+      "power": "-",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Impel Down/Whitebeard Pirates",
+      "effect": "[Activate: Main] You may rest this Character: Draw 1 card.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-049.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-049.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-049_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-050",
+      "name": "Miss Olive",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "5",
+      "power": "6000",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "Impel Down",
+      "effect": "[Blocker][On Play] You may return 1 of your Characters with a cost of 2 or more to the owner's hand: Draw 2 cards and trash 1 card from your hand.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-050.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-050.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-050_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-051",
+      "name": "Mohji & Cabaji",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "6",
+      "power": "7000",
+      "counter": "1000",
+      "attribute": "Slash/Wisdom",
+      "type": "Cross Guild",
+      "effect": "[On Play] If you have 5 or less cards in your hand, draw 2 cards.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-051.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-051.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-051_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-052",
+      "name": "Monkey.D.Luffy",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "2",
+      "power": "3000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Impel Down/Straw Hat Crew",
+      "effect": "[Activate: Main] [Once Per Turn] Give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-052.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-052.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-052_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-053",
+      "name": "Roronoa Zoro",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "7",
+      "power": "9000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "Dressrosa/Supernovas/Straw Hat Crew",
+      "effect": "[When Attacking] If you have 6 or less cards in your hand, draw 1 card.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-053.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-053.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-053_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-054",
+      "name": "Mr.1(Daz.Bonez)",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "2",
+      "power": "2000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Impel Down/Former Baroque Works",
+      "effect": "[DON!! x1] [Your Turn] If you have 5 or more cards in your hand, this Character gains +3000 power.[On Play] Draw 1 card.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-054.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-054.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-054_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-055",
+      "name": "Mr.2.Bon.Kurei(Bentham)",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "2",
+      "power": "1000",
+      "counter": "-",
+      "attribute": "Strike",
+      "type": "Impel Down/Former Baroque Works",
+      "effect": "[On Play] Draw 1 card.[DON!! x1] [When Attacking] This Character's base power becomes the same as your opponent's Leader's power during this turn.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-055.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-055.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-055_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-056",
+      "name": "Mr.3(Galdino)",
+      "rarity": "SR",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "4",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Impel Down/Former Baroque Works",
+      "effect": "[Activate: Main] You may trash this Character: Draw 2 cards, and up to 1 of your opponent's Characters with a cost of 9 or less cannot attack until the end of your opponent's next End Phase.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-056.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-056.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-056_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-057",
+      "name": "Captain Buggy's Our Savior!!",
+      "rarity": "C",
+      "cardType": "EVENT",
+      "color": "Blue",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Impel Down",
+      "effect": "[Counter] If you have 2 or more [Prisoner of Impel Down] cards, up to 1 of your Leader or Character cards gains +4000 power during this battle.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-057.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-057.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-057_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-058",
+      "name": "The Prisoners Are Rioting!!",
+      "rarity": "R",
+      "cardType": "EVENT",
+      "color": "Blue",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Impel Down",
+      "effect": "[Main] If you have 10 DON!! cards on your field, all of your [Prisoner of Impel Down] cards' base power becomes 7000 during this turn.[Counter] Up to 1 of your [Buggy] gains +4000 power during this battle.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-058.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-058.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-058_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-059",
+      "name": "We'll Change This Mission from Sneaky to Flashy!",
+      "rarity": "UC",
+      "cardType": "EVENT",
+      "color": "Blue",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Impel Down/Buggy Pirates",
+      "effect": "[Main] You may rest 7 of your DON!! cards: Look at 5 cards from the top of your deck; play up to 2 {Impel Down} type Character cards with 6000 power or less. Then, place the rest at the bottom of your deck in any order.[Counter] Your Leader gains +3000 power during this battle.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-059.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-059.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-059_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-060",
+      "name": "Sengoku",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Purple",
+      "cost": "5",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Wisdom",
+      "type": "Navy",
+      "effect": "[Activate: Main] You may return 8 of your active DON!! cards to your DON!! deck: Play up to 3 {Admiral} type Character cards with different card names from your hand.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-060.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-060.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-060_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-061",
+      "name": "Older Brother Marine",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "5",
+      "power": "7000",
+      "counter": "1000",
+      "attribute": "Ranged",
+      "type": "Navy",
+      "effect": "-",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-061.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-061.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-061_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-062",
+      "name": "Younger Brother Marine",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "5",
+      "power": "6000",
+      "counter": "2000",
+      "attribute": "Ranged",
+      "type": "Navy",
+      "effect": "-",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-062.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-062.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-062_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-063",
+      "name": "Kuzan",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "7",
+      "power": "8000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "Admiral/Navy",
+      "effect": "[On Play] Add up to 2 DON!! cards from your DON!! deck and rest them.[Activate: Main] [Once Per Turn] DON!! −1: Up to 1 of your opponent's Characters cannot activate [Blocker] during this turn.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-063.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-063.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-063_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-064",
+      "name": "Koby",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "1",
+      "power": "2000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Navy",
+      "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Navy} type card other than [Koby] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-064.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-064.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-064_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-065",
+      "name": "Sakazuki",
+      "rarity": "SR",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "7",
+      "power": "8000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "Admiral/Navy",
+      "effect": "[On Play] DON!! −1: Give up to 1 of your opponent's Characters −6000 power until the end of your opponent's next End Phase.[Activate: Main] [Once Per Turn] You may rest 1 of your DON!! cards: If your Leader has the {Navy} type, add up to 2 DON!! cards from your DON!! deck and set them as active.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-065.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-065.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-065_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-066",
+      "name": "Sengoku",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "5",
+      "power": "5000",
+      "counter": "2000",
+      "attribute": "Wisdom",
+      "type": "Navy",
+      "effect": "[On Play] If your Leader has the {Navy} type, add up to 2 DON!! cards from your DON!! deck and rest them. Then, draw 2 cards and trash 2 cards from your hand.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-066.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-066.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-066_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-067",
+      "name": "Tsuru",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "1",
+      "power": "2000",
+      "counter": "2000",
+      "attribute": "Wisdom",
+      "type": "Navy",
+      "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Navy} type card, add it to your hand and place the rest at the bottom of your deck in any order. Then, trash 1 card from your hand.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-067.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-067.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-067_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-068",
+      "name": "Trafalgar Law",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "4",
+      "power": "3000",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "Donquixote Pirates",
+      "effect": "[On Play] Add up to 1 DON!! card from your DON!! deck and set it as active.[When Attacking] If your Leader has the {Donquixote Pirates} type, this Character gains +3000 power during this turn.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-068.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-068.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-068_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-069",
+      "name": "Donquixote Doflamingo",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "7",
+      "power": "8000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "Donquixote Pirates",
+      "effect": "[On Play]/[When Attacking] Add up to 1 DON!! card from your DON!! deck and set it as active.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-069.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-069.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-069_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-070",
+      "name": "Donquixote Rosinante",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "2",
+      "power": "1000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Navy/Donquixote Pirates",
+      "effect": "[Blocker][On Play] You may rest 2 of your DON!! cards: If your Leader has the {Navy} type, add up to 1 DON!! card from your DON!! deck and rest it.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-070.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-070.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-070_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-071",
+      "name": "Benevolent King of the Waves",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "3",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Strike",
+      "type": "Navy",
+      "effect": "[On Play] You may trash 1 card from your hand: Add up to 1 DON!! card from your DON!! deck and rest it.[On K.O.] Add up to 1 DON!! card from your DON!! deck and rest it.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-071.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-071.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-071_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-072",
+      "name": "Hannyabal",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "2",
+      "power": "3000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Impel Down",
+      "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Impel Down} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-072.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-072.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-072_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-073",
+      "name": "Borsalino",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "7",
+      "power": "8000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "Admiral/Navy",
+      "effect": "[On Play] Add up to 1 DON!! card from your DON!! deck and set it as active, and add up to 1 additional DON!! card and rest it.[End of Your Turn] DON!! −2: Set this Character as active. Then, this Character gains [Blocker] until the end of your opponent's next End Phase.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-073.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-073.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-073_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-074",
+      "name": "Magellan",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "8",
+      "power": "10000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "Impel Down",
+      "effect": "[On Play] If your Leader has the {Impel Down} type, your opponent returns 1 DON!! card from their field to their DON!! deck.[On K.O.] Your opponent returns 4 DON!! cards from their field to their DON!! deck.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-074.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-074.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-074_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-075",
+      "name": "Monkey.D.Garp",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "5",
+      "power": "6000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Navy",
+      "effect": "[On Play] If your Leader has the {Navy} type, add up to 1 DON!! card from your DON!! deck and set it as active, and add up to 1 additional DON!! card and rest it.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-075.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-075.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-075_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-076",
+      "name": "The Three Admirals!!",
+      "rarity": "UC",
+      "cardType": "EVENT",
+      "color": "Purple",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Admiral/Navy",
+      "effect": "[Main] You may rest 3 of your DON!! cards: Up to 3 of your {Admiral} type Characters gain +2000 power during this turn.[Counter] If you have an {Admiral} type Character, up to 1 of your Leader or Character cards gains +4000 power during this battle.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-076.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-076.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-076_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-077",
+      "name": "\"Buddha\" Sengoku",
+      "rarity": "R",
+      "cardType": "EVENT",
+      "color": "Purple",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Navy",
+      "effect": "[Main] Look at 5 cards from the top of your deck; reveal up to 2 {Navy} type cards, add them to your hand and place the rest at the bottom of your deck in any order. Then, trash 1 card from your hand.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-077.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-077.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-077_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-078",
+      "name": "Marineford",
+      "rarity": "UC",
+      "cardType": "STAGE",
+      "color": "Purple",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Navy",
+      "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Navy} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.[Activate: Main] DON!! −1, You may rest this Stage: Draw 1 card and trash 1 card from your hand.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-078.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-078.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-078_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-079",
+      "name": "Yamato",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Black",
+      "cost": "5",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Strike",
+      "type": "Land of Wano",
+      "effect": "When a {Land of Wano} type Character card is played from your trash, that Character gains [Rush] during this turn.(This card can attack on the turn in which it is played.)",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-079.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-079.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-079_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-080",
+      "name": "Marshall.D.Teach",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Black/Yellow",
+      "cost": "4",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "The Seven Warlords of the Sea/Blackbeard Pirates",
+      "effect": "[Opponent's Turn] All of your Characters gain +1 cost.[On Your Opponent's Attack] [Once Per Turn] You may trash 1 card with a [Trigger] from your hand: Change the target of that attack to this Leader or to one of your {Blackbeard Pirates} type Character cards.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-080.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-080.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-080_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-081",
+      "name": "Otama",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "2",
+      "power": "-",
+      "counter": "2000",
+      "attribute": "Special",
+      "type": "Land of Wano",
+      "effect": "[Activate: Main] You may rest this Character: If you have a Character with a cost of 8 or more, give up to 1 of your opponent's Characters −2000 power during this turn.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-081.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-081.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-081_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-082",
+      "name": "Kin'emon",
+      "rarity": "SR",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "4",
+      "power": "6000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "Land of Wano/The Akazaya Nine",
+      "effect": "This Character gains +3 cost.[On Play] If your Leader has the {Land of Wano} type, look at 5 cards from the top of your deck; reveal up to 1 {Land of Wano} type card and add it to your hand. Then, trash the rest.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-082.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-082.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-082_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-083",
+      "name": "Kouzuki Oden",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "5",
+      "power": "6000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Land of Wano/Kouzuki Clan",
+      "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] You may trash 1 Character card with a cost of 8 or more from your hand: Draw 2 cards.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-083.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-083.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-083_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-084",
+      "name": "Kouzuki Momonosuke",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "5",
+      "power": "-",
+      "counter": "2000",
+      "attribute": "Slash",
+      "type": "Land of Wano/Kouzuki Clan",
+      "effect": "[Activate: Main] You may trash this Character with a cost of 20 or more: If you have 9 or more DON!! cards on your field, play up to 1 [Kouzuki Momonosuke] with a cost of 9 from your trash.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-084.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-084.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-084_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-085",
+      "name": "Kouzuki Momonosuke",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "9",
+      "power": "6000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Land of Wano/Kouzuki Clan",
+      "effect": "[Blocker][On Play] Play up to 1 {Land of Wano} type Character card with a cost of 6 or less other than [Kouzuki Momonosuke] from your trash.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-085.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-085.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-085_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-086",
+      "name": "Sanji",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "8",
+      "power": "9000",
+      "counter": "2000",
+      "attribute": "Strike",
+      "type": "Land of Wano/Straw Hat Crew",
+      "effect": "-",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-086.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-086.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-086_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-087",
+      "name": "Shinobu",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "2",
+      "power": "1000",
+      "counter": "2000",
+      "attribute": "Special",
+      "type": "Land of Wano",
+      "effect": "[On Play] You may trash this Character: If your Leader has the {Land of Wano} type, draw 1 card and up to 1 of your [Kouzuki Momonosuke] gains +20 cost during this turn.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-087.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-087.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-087_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-088",
+      "name": "Shimotsuki Ushimaru",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "2",
+      "power": "2000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Land of Wano",
+      "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-088.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-088.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-088_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-089",
+      "name": "Dracule Mihawk",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "6",
+      "power": "8000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "The Seven Warlords of the Sea",
+      "effect": "[Rush: Character] (This card can attack Characters on the turn in which it is played.)[On Play] Draw 2 cards and trash 2 cards from your hand. Then, give up to 1 of your opponent's Characters −4 cost during this turn.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-089.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-089.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-089_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-090",
+      "name": "Tony Tony.Chopper",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "3",
+      "power": "4000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Animal/Land of Wano/Straw Hat Crew",
+      "effect": "[On Play] Draw 2 cards and trash 2 cards from your hand. Then, K.O. up to 1 of your opponent's Characters with a cost of 1 or less.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-090.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-090.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-090_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-091",
+      "name": "Nami",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "1",
+      "power": "2000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Land of Wano/Straw Hat Crew",
+      "effect": "[On Play] If your Leader has the {Land of Wano} type, look at 4 cards from the top of your deck; reveal up to 1 {Land of Wano} type card other than [Nami] and add it to your hand. Then, trash the rest.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-091.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-091.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-091_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-092",
+      "name": "Nico Robin",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "1",
+      "power": "2000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Land of Wano/Straw Hat Crew",
+      "effect": "[On Play] You may trash 1 Character card with a cost of 8 or more from your hand: Draw 2 cards.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-092.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-092.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-092_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-093",
+      "name": "Bartholomew Kuma",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "3",
+      "power": "4000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "The Seven Warlords of the Sea/Revolutionary Army",
+      "effect": "[On Play] Draw 2 cards and trash 2 cards from your hand. Then, give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-093.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-093.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-093_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-094",
+      "name": "Portgas.D.Ace",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "4",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Land of Wano/Spade Pirates",
+      "effect": "[On K.O.] Your opponent trashes 2 cards from their hand.[Activate: Main] [Once Per Turn] Give up to 1 rested DON!! card to 1 of your {Land of Wano} type Leader or Character cards.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-094.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-094.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-094_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-095",
+      "name": "Monkey.D.Luffy",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "2",
+      "power": "2000",
+      "counter": "2000",
+      "attribute": "Strike",
+      "type": "Land of Wano/Straw Hat Crew",
+      "effect": "[On Play] Up to 1 of your black {Land of Wano} type Characters gains [Unblockable] during this turn.(This card cannot be blocked.)",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-095.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-095.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-095_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-096",
+      "name": "Yamato",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "8",
+      "power": "8000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Land of Wano",
+      "effect": "[Unblockable] (This card cannot be blocked.)[On K.O.] Play up to 1 [Yamato] with a cost of 6 or less from your trash.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-096.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-096.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-096_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-097",
+      "name": "Yamato",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "8",
+      "power": "8000",
+      "counter": "-",
+      "attribute": "Strike",
+      "type": "Land of Wano",
+      "effect": "[On Play] Add up to 1 {Land of Wano} type Character card with a cost of 6 or less from your trash to your hand. Then, play up to 1 Character card with a cost of 2 or less from your hand.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-097.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-097.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-097_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-099",
+      "name": "I've Come Here... To Cut Those Chains!!!",
+      "rarity": "UC",
+      "cardType": "EVENT",
+      "color": "Black",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Land of Wano",
+      "effect": "[Main] You may rest 6 of your DON!! cards: Trash 5 cards from the top of your deck. Then, play up to 1 {Land of Wano} type Character card with a cost of 6 or less from your trash.[Counter] Your Leader gains +3000 power during this battle.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-099.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-099.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-099_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-100",
+      "name": "Hallowed Glacier Slash",
+      "rarity": "C",
+      "cardType": "EVENT",
+      "color": "Black",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Land of Wano",
+      "effect": "[Main] You may rest 2 of your DON!! cards: If your opponent's Character has been K.O.'d during this turn, set your Leader [Yamato] as active.[Counter] Your Leader gains +3000 power during this battle.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-100.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-100.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-100_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-101",
+      "name": "Mahoroba",
+      "rarity": "C",
+      "cardType": "EVENT",
+      "color": "Black",
+      "cost": "2",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Land of Wano",
+      "effect": "[Main] Up to 1 of your Leader or Character cards gains +3000 power during this turn. Then, if you have 10 or more cards in your trash, K.O. up to 1 of your opponent's Characters with a cost of 2 or less.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-101.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-101.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-101_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-102",
+      "name": "Avalo Pizarro",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "1",
+      "power": "2000",
+      "counter": "2000",
+      "attribute": "Special",
+      "type": "Impel Down/Blackbeard Pirates",
+      "effect": "[On K.O.] Draw 1 card, then play up to 1 [Fullalead] from your hand or trash.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-102.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-102.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-102_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-103",
+      "name": "Van Augur",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "1",
+      "power": "2000",
+      "counter": "1000",
+      "attribute": "Ranged",
+      "type": "Blackbeard Pirates",
+      "effect": "[Opponent's Turn] [On K.O.] If your Leader has the {Blackbeard Pirates} type, draw 1 card and give up to 1 of your opponent's Leader or Character cards −3000 power during this turn.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-103.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-103.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-103_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-104",
+      "name": "Catarina Devon",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "4",
+      "power": "3000",
+      "counter": "2000",
+      "attribute": "Special",
+      "type": "Impel Down/Blackbeard Pirates",
+      "effect": "[When Attacking] Select up to 1 of your opponent's Characters. This Character's base power becomes the same as the selected Character's power during this turn.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-104.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-104.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-104_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-105",
+      "name": "Gecko Moria",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "6",
+      "power": "7000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "The Seven Warlords of the Sea/Thriller Bark Pirates",
+      "effect": "-",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-105.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-105.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-105_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-106",
+      "name": "Sanjuan.Wolf",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "4",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Giant/Impel Down/Blackbeard Pirates",
+      "effect": "[On K.O.] If your Leader has the {Blackbeard Pirates} type, draw 1 card, then up to 1 of your Leader or Character cards' base power becomes 7000 during this turn.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-106.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-106.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-106_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-107",
+      "name": "Jesus Burgess",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "3",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Strike",
+      "type": "Blackbeard Pirates",
+      "effect": "[On K.O.] Add up to 1 card from the top of your opponent's Life cards to the owner's hand.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-107.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-107.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-107_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-108",
+      "name": "Shiryu",
+      "rarity": "SR",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "6",
+      "power": "8000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "Impel Down/Blackbeard Pirates",
+      "effect": "[On Play] You may trash 1 card from your hand: Add up to 1 {Blackbeard Pirates} type card with a cost of 6 or less from your trash to the top of your Life cards face-up.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-108.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-108.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-108_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-109",
+      "name": "Doc Q",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "1",
+      "power": "-",
+      "counter": "2000",
+      "attribute": "Special",
+      "type": "Blackbeard Pirates",
+      "effect": "[On K.O.] If your Leader has the {Blackbeard Pirates} type, draw 1 card and K.O. up to 2 of your opponent's Characters with a cost of 1 or less.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-109.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-109.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-109_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-110",
+      "name": "Vasco Shot",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "1",
+      "power": "2000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Impel Down/Blackbeard Pirates",
+      "effect": "[On K.O.] Draw 1 card and rest up to 1 of your opponent's Characters with a cost of 6 or less.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-110.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-110.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-110_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-111",
+      "name": "Boa Sandersonia",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "4",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Strike",
+      "type": "Kuja Pirates",
+      "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-111.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-111.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-111_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-112",
+      "name": "Boa Hancock",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "6",
+      "power": "8000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Kuja Pirates",
+      "effect": "-",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-112.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-112.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-112_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-113",
+      "name": "Boa Marigold",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "5",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Kuja Pirates",
+      "effect": "If you have 2 or less Life cards, this Character gains [Blocker].",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-113.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-113.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-113_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-114",
+      "name": "Laffitte",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "1",
+      "power": "2000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Blackbeard Pirates",
+      "effect": "[On K.O.] K.O. up to 1 of your opponent's Characters with a cost of 4 or less.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-114.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-114.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-114_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-115",
+      "name": "Black Vortex",
+      "rarity": "UC",
+      "cardType": "EVENT",
+      "color": "Yellow",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "The Seven Warlords of the Sea/Blackbeard Pirates",
+      "effect": "[Main] If your Leader has the {Blackbeard Pirates} type, add up to 1 card with a [Trigger] other than [Black Vortex] from your trash to your hand.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-115.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-115.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-115_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-116",
+      "name": "Zehahahahaha!",
+      "rarity": "R",
+      "cardType": "EVENT",
+      "color": "Yellow",
+      "cost": "8",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "The Seven Warlords of the Sea/Blackbeard Pirates",
+      "effect": "[Main] If you have 10 DON!! cards on your field, play up to 1 [Marshall.D.Teach] from your hand. Then, add up to 1 card from the top of your opponent's Life cards to the owner's hand.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-116.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-116.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-116_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-117",
+      "name": "Black Hole",
+      "rarity": "C",
+      "cardType": "EVENT",
+      "color": "Yellow",
+      "cost": "2",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "The Seven Warlords of the Sea/Blackbeard Pirates",
+      "effect": "[Main] You may trash 1 card with a [Trigger] from your hand: Negate the effects of up to 1 of your opponent's Characters with a cost of 8 or less during this turn.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-117.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-117.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-117_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-118",
+      "name": "Portgas.D.Ace",
+      "rarity": "SEC",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "5",
+      "power": "6000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Whitebeard Pirates",
+      "effect": "The counter of all of your Character cards with 8000 power in your hand becomes +2000.[On Play]/[On K.O.] Look at 5 cards from the top of your deck; reveal up to 1 [Monkey.D.Luffy] or up to 1 card with a type including \"Whitebeard Pirates\" and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-118.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-118.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-118_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP16-119",
+      "name": "Marshall.D.Teach",
+      "rarity": "SEC",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "8",
+      "power": "10000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "The Seven Warlords of the Sea/Blackbeard Pirates",
+      "effect": "[On Play] Look at 3 cards from the top of your deck; add up to 1 card to the top of your Life cards. Then, place the rest at the bottom of your deck in any order.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP16-119.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP16-119.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP16/OP16-119_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "P-135",
+      "name": "Monkey.D.Luffy",
+      "rarity": "P",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "5",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Straw Hat Crew",
+      "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] Rest up to 1 of your opponent's Characters with a cost of 5 or less.",
+      "cardSets": "Card Set(s)OP-16 Release Event",
+      "img": "https://optcgapi.com/media/static/Card_Images/P-135.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/P-135.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/P/P-135_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "ST15-005",
+      "name": "Portgas.D.Ace",
+      "rarity": "SP CARD",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "5",
+      "power": "6000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Whitebeard Pirates",
+      "effect": "If your Leader's type includes \"Whitebeard Pirates\", this Character gains [Rush].(This card can attack on the turn in which it is played.)[Once Per Turn] If this Character would be removed from the field by your opponent's effect, you may give this Character −2000 power during this turn instead.",
+      "cardSets": "Card Set(s)-THE TIME OF BATTLE- [OP-16]",
+      "img": "https://optcgapi.com/media/static/Card_Images/ST15-005_p5.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/ST15-005_p5.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/ST15/ST15-005_EN.webp"
+      ]
+    }
+  ]
+}

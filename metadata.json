@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Remix Remix Remix Remix  pokeba",
+  "description": "Tựa game 3D khám phá sòng bài phong cách Las Vegas sang trọng với các trò chơi Roulette, Blackjack, Slots và Vòng quay may mắn.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

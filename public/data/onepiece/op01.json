@@ -1,0 +1,1994 @@
+{
+  "setId": "op01RomanceDawn",
+  "setName": "OP-01: Romance Dawn",
+  "series": "Romance Dawn",
+  "jsonPath": "/data/onepiece/op01.json",
+  "counts": {
+    "total": 104,
+    "Common": 44,
+    "Uncommon": 25,
+    "Rare": 22,
+    "SuperRare": 5,
+    "SecretRare": 0,
+    "Leader": 8,
+    "Special": 0
+  },
+  "cards": [
+    {
+      "cardNum": "OP01-001",
+      "name": "Roronoa Zoro",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Red",
+      "cost": "5",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "Supernovas/Straw Hat Crew",
+      "effect": "[DON!! x1] [Your Turn] All of your Characters gain +1000 power.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-001.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-001.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-001_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-002",
+      "name": "Trafalgar Law",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Red/Green",
+      "cost": "4",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "Supernovas/Heart Pirates",
+      "effect": "[Activate: Main] [Once Per Turn] ➁ (You may rest the specified number of DON!! cards in your cost area.): If you have 5 Characters, return 1 of your Characters to the owner's hand. Then, play up to 1 Character with a cost of 5 or less from your hand that is a different color than the returned Character.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-002.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-002.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-002_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-003",
+      "name": "Monkey.D.Luffy",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Red/Green",
+      "cost": "4",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Strike",
+      "type": "Supernovas/Straw Hat Crew",
+      "effect": "[Activate: Main] [Once Per Turn] ➃ (You may rest the specified number of DON!! cards in your cost area.): Set up to 1 of your {Supernovas} or {Straw Hat Crew} type Character cards with a cost of 5 or less as active. It gains +1000 power during this turn.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-003.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-003.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-003_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-004",
+      "name": "Usopp",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "2",
+      "power": "3000",
+      "counter": "2000",
+      "attribute": "Ranged",
+      "type": "Straw Hat Crew",
+      "effect": "[DON!! x1] [Your Turn] [Once Per Turn] Draw 1 card when your opponent activates an Event.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-004.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-004.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-004_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-005",
+      "name": "Uta",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "4",
+      "power": "4000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "FILM",
+      "effect": "[On Play] Add up to 1 red Character card other than [Uta] with a cost of 3 or less from your trash to your hand.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-005.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-005.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-005_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-007",
+      "name": "Caribou",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "3",
+      "power": "4000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Supernovas/Caribou Pirates",
+      "effect": "[On K.O.] K.O. up to 1 of your opponent's Characters with 4000 power or less.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-007.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-007.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-007_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-008",
+      "name": "Cavendish",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "4",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "Supernovas/Beautiful Pirates",
+      "effect": "[On Play] You may add 1 card from your Life area to your hand: This Character gains [Rush] during this turn. (This card can attack on the turn in which it is played.)",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-008.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-008.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-008_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-009",
+      "name": "Carrot",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "2",
+      "power": "3000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Minks",
+      "effect": "[Trigger] Play this card.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-009.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-009.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-009_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-010",
+      "name": "Komachiyo",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "1",
+      "power": "3000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Animal/Land of Wano",
+      "effect": "-",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-010.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-010.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-010_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-011",
+      "name": "Gordon",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "2",
+      "power": "3000",
+      "counter": "2000",
+      "attribute": "Wisdom",
+      "type": "FILM",
+      "effect": "[On Play] You may place 1 card from your hand at the bottom of your deck: Draw 1 card.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-011.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-011.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-011_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-012",
+      "name": "Sai",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "2",
+      "power": "4000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Happosui Army",
+      "effect": "-",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-012.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-012.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-012_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-013",
+      "name": "Sanji",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "2",
+      "power": "3000",
+      "counter": "2000",
+      "attribute": "Strike",
+      "type": "Straw Hat Crew",
+      "effect": "[Activate: Main] [Once Per Turn] You may add 1 card from your Life area to your hand: This Character gains +2000 power during this turn. Then, give this Character up to 2 rested DON!! cards.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-013.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-013.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-013_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-014",
+      "name": "Jinbe",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "4",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Strike",
+      "type": "Fish-Man/Straw Hat Crew",
+      "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[DON!! x1] [On Block] Play up to 1 red Character card with a cost of 2 or less from your hand.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-014.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-014.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-014_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-015",
+      "name": "Tony Tony.Chopper",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "3",
+      "power": "4000",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "Animal/Straw Hat Crew",
+      "effect": "[DON!! x1] [When Attacking] You may trash 1 card from your hand: Add up to 1 {Straw Hat Crew} type Character card other than [Tony Tony.Chopper] with a cost of 4 or less from your trash to your hand.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-015.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-015.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-015_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-017",
+      "name": "Nico Robin",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "3",
+      "power": "4000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Straw Hat Crew",
+      "effect": "[DON!! x1] [When Attacking] K.O. up to 1 of your opponent's Characters with 3000 power or less.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-017.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-017.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-017_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-018",
+      "name": "Hajrudin",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "4",
+      "power": "6000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Giant/New Giant Pirates",
+      "effect": "-",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-018.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-018.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-018_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-019",
+      "name": "Bartolomeo",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "2",
+      "power": "2000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Supernovas/Barto Club",
+      "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[DON!! x2] [Opponent's Turn] This Character gains +3000 power.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-019.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-019.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-019_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-020",
+      "name": "Hyogoro",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "2",
+      "power": "3000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Land of Wano",
+      "effect": "[Activate: Main] You may rest this Character: Up to 1 of your Leader or Character cards gains +2000 power during this turn.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-020.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-020.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-020_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-021",
+      "name": "Franky",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "3",
+      "power": "4000",
+      "counter": "-",
+      "attribute": "Ranged",
+      "type": "Straw Hat Crew",
+      "effect": "[DON!! x1] This Character can also attack your opponent's active Characters.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-021.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-021.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-021_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-022",
+      "name": "Brook",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "4",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Straw Hat Crew",
+      "effect": "[DON!! x1] [When Attacking] Give up to 2 of your opponent's Characters −2000 power during this turn.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-022.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-022.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-022_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-023",
+      "name": "Marco",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "3",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Former Whitebeard Pirates",
+      "effect": "-",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-023.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-023.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-023_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-025",
+      "name": "Roronoa Zoro",
+      "rarity": "SR",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "3",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "Supernovas/Straw Hat Crew",
+      "effect": "[Rush] (This card can attack on the turn in which it is played.)",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-025.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-025.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-025_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-026",
+      "name": "Gum-Gum Fire-Fist Pistol Red Hawk",
+      "rarity": "R",
+      "cardType": "EVENT",
+      "color": "Red",
+      "cost": "2",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Supernovas/Straw Hat Crew",
+      "effect": "[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, K.O. up to 1 of your opponent's Characters with 4000 power or less.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-026.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-026.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-026_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-027",
+      "name": "Round Table",
+      "rarity": "C",
+      "cardType": "EVENT",
+      "color": "Red",
+      "cost": "4",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Supernovas/Beautiful Pirates",
+      "effect": "[Main] Give up to 1 of your opponent's Characters −10000 power during this turn.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-027.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-027.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-027_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-028",
+      "name": "Green Star Rafflesia",
+      "rarity": "C",
+      "cardType": "EVENT",
+      "color": "Red",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Straw Hat Crew",
+      "effect": "[Counter] Give up to 1 of your opponent's Leader or Character cards −2000 power during this turn.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-028.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-028.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-028_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-030",
+      "name": "In Two Years!! At the Sabaody Archipelago!!",
+      "rarity": "UC",
+      "cardType": "EVENT",
+      "color": "Red",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Straw Hat Crew",
+      "effect": "[Main] Look at 5 cards from the top of your deck; reveal up to 1 {Straw Hat Crew} type Character card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-030.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-030.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-030_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-031",
+      "name": "Kouzuki Oden",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Green",
+      "cost": "5",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "Land of Wano/Kouzuki Clan",
+      "effect": "[Activate: Main] [Once Per Turn] You can trash 1 {Land of Wano} type card from your hand: Set up to 2 of your DON!! cards as active.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-031.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-031.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-031_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-032",
+      "name": "Ashura Doji",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "3",
+      "power": "4000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Land of Wano/The Akazaya Nine",
+      "effect": "[DON!! x1] If your opponent has 2 or more rested Characters, this Character gains +2000 power.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-032.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-032.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-032_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-034",
+      "name": "Inuarashi",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "3",
+      "power": "4000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Minks/Land of Wano/The Akazaya Nine",
+      "effect": "[DON!! x2] [When Attacking] Set up to 1 of your DON!! cards as active.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-034.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-034.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-034_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-036",
+      "name": "Otsuru",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "1",
+      "power": "3000",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "Land of Wano",
+      "effect": "-",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-036.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-036.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-036_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-037",
+      "name": "Kawamatsu",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "2",
+      "power": "3000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Fish-Man/Land of Wano/The Akazaya Nine",
+      "effect": "-",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-037.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-037.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-037_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-038",
+      "name": "Kanjuro",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "2",
+      "power": "3000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Land of Wano/The Akazaya Nine",
+      "effect": "[DON!! x1] [When Attacking] K.O. up to 1 of your opponent's rested Characters with a cost of 2 or less.[On K.O.] Your opponent chooses 1 card from your hand; trash that card.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-038.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-038.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-038_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-040",
+      "name": "Kin'emon",
+      "rarity": "SR",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "6",
+      "power": "6000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "Land of Wano/The Akazaya Nine",
+      "effect": "[On Play] If your Leader is [Kouzuki Oden], play up to 1 {The Akazaya Nine} type Character card with a cost of 3 or less from your hand.[DON!! x1] [When Attacking] [Once Per Turn] Set up to 1 of your {The Akazaya Nine} type Character cards with a cost of 3 or less as active.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-040.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-040.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-040_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-042",
+      "name": "Komurasaki",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "1",
+      "power": "-",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "Land of Wano/Kouzuki Clan",
+      "effect": "[On Play] ③ (You may rest the specified number of DON!! cards in your cost area.): If your Leader is [Kouzuki Oden], set up to 1 of your {Land of Wano} type Character cards with a cost of 3 or less as active.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-042.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-042.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-042_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-043",
+      "name": "Shinobu",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "3",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Land of Wano",
+      "effect": "-",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-043.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-043.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-043_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-044",
+      "name": "Shachi",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "3",
+      "power": "4000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Heart Pirates",
+      "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] If you don't have [Penguin], play up to 1 [Penguin] from your hand.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-044.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-044.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-044_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-045",
+      "name": "Jean Bart",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "4",
+      "power": "6000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Heart Pirates",
+      "effect": "-",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-045.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-045.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-045_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-046",
+      "name": "Denjiro",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "5",
+      "power": "7000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "Land of Wano/The Akazaya Nine",
+      "effect": "[DON!! x1] [When Attacking] If your Leader is [Kouzuki Oden], set up to 2 of your DON!! cards as active.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-046.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-046.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-046_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-048",
+      "name": "Nekomamushi",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "2",
+      "power": "3000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Minks/Land of Wano/The Akazaya Nine",
+      "effect": "[On Play] Rest up to 1 of your opponent's Characters with a cost of 3 or less.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-048.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-048.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-048_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-049",
+      "name": "Bepo",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "4",
+      "power": "4000",
+      "counter": "2000",
+      "attribute": "Strike",
+      "type": "Minks/Heart Pirates",
+      "effect": "[DON!! x1] [When Attacking] Play up to 1 {Heart Pirates} type Character card other than [Bepo] with a cost of 4 or less from your hand.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-049.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-049.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-049_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-050",
+      "name": "Penguin",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "3",
+      "power": "2000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Heart Pirates",
+      "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] If you don't have [Shachi], play up to 1 [Shachi] from your hand.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-050.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-050.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-050_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-053",
+      "name": "Wire",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "2",
+      "power": "4000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Kid Pirates",
+      "effect": "-",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-053.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-053.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-053_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-054",
+      "name": "X.Drake",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "5",
+      "power": "6000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Supernovas/Navy/Drake Pirates",
+      "effect": "[On Play] K.O. up to 1 of your opponent's rested Characters with a cost of 4 or less.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-054.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-054.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-054_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-056",
+      "name": "Demon Face",
+      "rarity": "UC",
+      "cardType": "EVENT",
+      "color": "Green",
+      "cost": "6",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Supernovas/Hawkins Pirates",
+      "effect": "[Main] K.O. up to 2 of your opponent's rested Characters with a cost of 5 or less.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-056.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-056.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-056_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-057",
+      "name": "Paradise Waterfall",
+      "rarity": "UC",
+      "cardType": "EVENT",
+      "color": "Green",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Land of Wano/Kouzuki Clan",
+      "effect": "[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, set up to 1 of your Characters as active.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-057.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-057.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-057_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-058",
+      "name": "Punk Gibson",
+      "rarity": "R",
+      "cardType": "EVENT",
+      "color": "Green",
+      "cost": "2",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Supernovas/Kid Pirates",
+      "effect": "[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-058.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-058.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-058_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-059",
+      "name": "BE-BENG!!",
+      "rarity": "C",
+      "cardType": "EVENT",
+      "color": "Green",
+      "cost": "3",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Land of Wano",
+      "effect": "[Main] You may trash 1 {Land of Wano} type card from your hand: Set up to 1 of your {Land of Wano} type Character cards with a cost of 3 or less as active.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-059.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-059.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-059_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-060",
+      "name": "Donquixote Doflamingo",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Blue",
+      "cost": "5",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "The Seven Warlords of the Sea/Donquixote Pirates",
+      "effect": "[DON!! x2] [When Attacking] ➀ (You may rest the specified number of DON!! cards in your cost area.): Reveal 1 card from the top of your deck. If that card is a {The Seven Warlords of the Sea} type Character card with a cost of 4 or less, you may play that card rested.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-060.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-060.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-060_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-061",
+      "name": "Kaido",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Blue/Purple",
+      "cost": "4",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Strike",
+      "type": "The Four Emperors/Animal Kingdom Pirates",
+      "effect": "[DON!! x1] [Your Turn] [Once Per Turn] When your opponent's Character is K.O.'d, add up to 1 DON!! card from your DON!! deck and set it as active.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-061.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-061.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-061_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-062",
+      "name": "Crocodile",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Blue/Purple",
+      "cost": "4",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "The Seven Warlords of the Sea/Baroque Works",
+      "effect": "[DON!! x1] When you activate an Event, you may draw 1 card if you have 4 or less cards in your hand and haven't drawn a card using this Leader's effect during this turn.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-062.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-062.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-062_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-063",
+      "name": "Arlong",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "4",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Fish-Man/Arlong Pirates",
+      "effect": "[DON!! x1] [Activate: Main] You may rest this Character: Choose 1 card from your opponent's hand; your opponent reveals that card. If the revealed card is an Event, place up to 1 card from your opponent's Life area at the bottom of the owner's deck.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-063.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-063.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-063_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-064",
+      "name": "Alvida",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "2",
+      "power": "3000",
+      "counter": "2000",
+      "attribute": "Strike",
+      "type": "Buggy Pirates",
+      "effect": "[DON!! x1] [When Attacking] You may trash 1 card from your hand: Return up to 1 of your opponent's Characters with a cost of 3 or less to the owner's hand.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-064.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-064.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-064_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-065",
+      "name": "Vergo",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "5",
+      "power": "7000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Navy/Donquixote Pirates/Punk Hazard",
+      "effect": "-",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-065.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-065.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-065_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-066",
+      "name": "Krieg",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "4",
+      "power": "6000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Krieg Pirates",
+      "effect": "-",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-066.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-066.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-066_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-067",
+      "name": "Crocodile",
+      "rarity": "SR",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "7",
+      "power": "7000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "The Seven Warlords of the Sea/Baroque Works",
+      "effect": "[Banish] (When this card deals damage, the target card is trashed without activating its Trigger.)[DON!! x1] Give blue Events in your hand −1 cost.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-067.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-067.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-067_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-068",
+      "name": "Gecko Moria",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "4",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "The Seven Warlords of the Sea/Thriller Bark Pirates",
+      "effect": "[Your Turn] This Character gains [Double Attack] if you have 5 or more cards in your hand.(This card deals 2 damage.)",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-068.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-068.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-068_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-069",
+      "name": "Caesar Clown",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "4",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Scientist/Punk Hazard",
+      "effect": "[On K.O.] Play up to 1 [Smiley] from your deck, then shuffle your deck.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-069.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-069.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-069_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-071",
+      "name": "Jinbe",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "4",
+      "power": "2000",
+      "counter": "-",
+      "attribute": "Strike",
+      "type": "Fish-Man/Straw Hat Crew",
+      "effect": "[On Play] Place up to 1 Character with a cost of 3 or less at the bottom of the owner's deck.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-071.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-071.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-071_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-072",
+      "name": "Smiley",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "3",
+      "power": "1000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Biological Weapon/Punk Hazard",
+      "effect": "[DON!! x1] [Your Turn] This Character gains +1000 power for every card in your hand.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-072.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-072.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-072_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-074",
+      "name": "Bartholomew Kuma",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "4",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "The Seven Warlords of the Sea/Revolutionary Army",
+      "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On K.O.] Play up to 1 [Pacifista] with a cost of 4 or less from your hand.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-074.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-074.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-074_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-075",
+      "name": "Pacifista",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "4",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "Biological Weapon/Navy",
+      "effect": "Under the rules of this game, you may have any number of this card in your deck.[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-075.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-075.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-075_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-076",
+      "name": "Bellamy",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "2",
+      "power": "4000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Dressrosa",
+      "effect": "-",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-076.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-076.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-076_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-077",
+      "name": "Perona",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "1",
+      "power": "2000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Thriller Bark Pirates",
+      "effect": "[On Play] Look at 5 cards from the top of your deck and place them at the top or bottom of the deck in any order.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-077.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-077.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-077_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-079",
+      "name": "Ms. All Sunday",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "3",
+      "power": "1000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Baroque Works",
+      "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On K.O.] If your Leader has the {Baroque Works} type, add up to 1 Event from your trash to your hand.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-079.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-079.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-079_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-080",
+      "name": "Miss Doublefinger(Zala)",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "3",
+      "power": "4000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Baroque Works",
+      "effect": "[On K.O.] Draw 1 card.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-080.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-080.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-080_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-081",
+      "name": "Mocha",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "3",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Punk Hazard",
+      "effect": "-",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-081.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-081.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-081_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-082",
+      "name": "Monet",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "2",
+      "power": "3000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Donquixote Pirates/Punk Hazard",
+      "effect": "-",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-082.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-082.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-082_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-083",
+      "name": "Mr.1(Daz.Bonez)",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "2",
+      "power": "3000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Baroque Works",
+      "effect": "[DON!! x1] [Your Turn] If your Leader has the {Baroque Works} type, this Character gains +1000 power for every 2 Events in your trash.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-083.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-083.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-083_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-084",
+      "name": "Mr.2.Bon.Kurei(Bentham)",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "3",
+      "power": "4000",
+      "counter": "2000",
+      "attribute": "Strike",
+      "type": "Baroque Works",
+      "effect": "[DON!! x1] [When Attacking] Look at 5 cards from the top of your deck; reveal up to 1 {Baroque Works} type Event card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-084.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-084.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-084_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-085",
+      "name": "Mr.3(Galdino)",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "2",
+      "power": "3000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Baroque Works",
+      "effect": "[On Play] If your Leader has the {Baroque Works} type, select up to 1 of your opponent's Characters with a cost of 4 or less. The selected Character cannot attack until the end of your opponent's next turn.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-085.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-085.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-085_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-086",
+      "name": "Overheat",
+      "rarity": "R",
+      "cardType": "EVENT",
+      "color": "Blue",
+      "cost": "2",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "The Seven Warlords of the Sea/Donquixote Pirates",
+      "effect": "[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, return up to 1 active Character with a cost of 3 or less to the owner's hand.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-086.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-086.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-086_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-087",
+      "name": "Officer Agents",
+      "rarity": "C",
+      "cardType": "EVENT",
+      "color": "Blue",
+      "cost": "2",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Baroque Works",
+      "effect": "[Counter] Play up to 1 {Baroque Works} type Character card with a cost of 3 or less from your hand.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-087.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-087.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-087_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-088",
+      "name": "Desert Spada",
+      "rarity": "UC",
+      "cardType": "EVENT",
+      "color": "Blue",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "The Seven Warlords of the Sea/Baroque Works",
+      "effect": "[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, look at 3 cards from the top of your deck and place them at the top or bottom of the deck in any order.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-088.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-088.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-088_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-089",
+      "name": "Crescent Cutlass",
+      "rarity": "C",
+      "cardType": "EVENT",
+      "color": "Blue",
+      "cost": "3",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "The Seven Warlords of the Sea/Baroque Works",
+      "effect": "[Counter] If your Leader has the {The Seven Warlords of the Sea} type, return up to 1 Character with a cost of 5 or less to the owner's hand.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-089.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-089.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-089_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-090",
+      "name": "Baroque Works",
+      "rarity": "UC",
+      "cardType": "EVENT",
+      "color": "Blue",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Baroque Works",
+      "effect": "[Main] Look at 5 cards from the top of your deck; reveal up to 1 {Baroque Works} type card other than [Baroque Works] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-090.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-090.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-090_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-091",
+      "name": "King",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Purple",
+      "cost": "5",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "Animal Kingdom Pirates",
+      "effect": "[Your Turn] If you have 10 DON!! cards on your field, give all of your opponent's Characters −1000 power.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-091.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-091.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-091_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-092",
+      "name": "Urashima",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "7",
+      "power": "9000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Land of Wano",
+      "effect": "-",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-092.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-092.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-092_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-093",
+      "name": "Ulti",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "2",
+      "power": "3000",
+      "counter": "-",
+      "attribute": "Strike",
+      "type": "Animal Kingdom Pirates",
+      "effect": "[On Play] ① (You may rest the specified number of DON!! cards in your cost area.): Add up to 1 DON!! card from your DON!! deck and rest it.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-093.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-093.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-093_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-094",
+      "name": "Kaido",
+      "rarity": "SR",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "10",
+      "power": "12000",
+      "counter": "-",
+      "attribute": "Strike",
+      "type": "The Four Emperors/Animal Kingdom Pirates",
+      "effect": "[On Play] DON!! −6 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your Leader has the {Animal Kingdom Pirates} type, K.O. all Characters other than this Character.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-094.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-094.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-094_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-095",
+      "name": "Kyoshirou",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "5",
+      "power": "6000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Land of Wano",
+      "effect": "[On Play] Draw 1 card if you have 8 or more DON!! cards on your field.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-095.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-095.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-095_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-096",
+      "name": "King",
+      "rarity": "SR",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "7",
+      "power": "7000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "Animal Kingdom Pirates",
+      "effect": "[On Play] DON!! −2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): K.O. up to 1 of your opponent's Characters with a cost of 3 or less and up to 1 of your opponent's Characters with a cost of 2 or less.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-096.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-096.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-096_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-097",
+      "name": "Queen",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "6",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Animal Kingdom Pirates",
+      "effect": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): This Character gains [Rush] during this turn. Then, give up to 1 of your opponent's Characters −2000 power during this turn.(This card can attack on the turn in which it is played.)",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-097.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-097.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-097_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-098",
+      "name": "Kurozumi Orochi",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "1",
+      "power": "2000",
+      "counter": "2000",
+      "attribute": "Wisdom",
+      "type": "Land of Wano/Kurozumi Clan",
+      "effect": "[On Play] Reveal up to 1 [Artificial Devil Fruit SMILE] from your deck and add it to your hand. Then, shuffle your deck.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-098.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-098.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-098_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-099",
+      "name": "Kurozumi Semimaru",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "2",
+      "power": "3000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Land of Wano/Kurozumi Clan",
+      "effect": "{Kurozumi Clan} type Characters other than your [Kurozumi Semimaru] cannot be K.O.'d in battle.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-099.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-099.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-099_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-100",
+      "name": "Kurozumi Higurashi",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "2",
+      "power": "3000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Land of Wano/Kurozumi Clan",
+      "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-100.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-100.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-100_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-101",
+      "name": "Sasaki",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "3",
+      "power": "4000",
+      "counter": "2000",
+      "attribute": "Slash",
+      "type": "Animal Kingdom Pirates",
+      "effect": "[DON!! x1] [When Attacking] You may trash 1 card from your hand: Add up to 1 DON!! card from your DON!! deck and rest it.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-101.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-101.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-101_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-102",
+      "name": "Jack",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "3",
+      "power": "4000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Animal Kingdom Pirates",
+      "effect": "[When Attacking] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Your opponent trashes 1 card from their hand.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-102.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-102.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-102_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-103",
+      "name": "Scratchmen Apoo",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "4",
+      "power": "6000",
+      "counter": "1000",
+      "attribute": "Ranged",
+      "type": "Animal Kingdom Pirates/On-Air Pirates",
+      "effect": "-",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-103.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-103.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-103_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-104",
+      "name": "Speed",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "2",
+      "power": "3000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Animal Kingdom Pirates/SMILE",
+      "effect": "-",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-104.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-104.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-104_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-105",
+      "name": "Bao Huang",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "2",
+      "power": "3000",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "Animal Kingdom Pirates/SMILE",
+      "effect": "[On Play] Choose 2 cards from your opponent's hand; your opponent reveals those cards.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-105.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-105.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-105_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-106",
+      "name": "Basil Hawkins",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "4",
+      "power": "2000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Animal Kingdom Pirates/Hawkins Pirates",
+      "effect": "[On Play] Add up to 1 DON!! card from your DON!! deck and rest it.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-106.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-106.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-106_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-107",
+      "name": "Babanuki",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "5",
+      "power": "7000",
+      "counter": "1000",
+      "attribute": "Ranged",
+      "type": "Animal Kingdom Pirates/SMILE",
+      "effect": "-",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-107.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-107.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-107_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-108",
+      "name": "Hitokiri Kamazo",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "4",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Supernovas/Kid Pirates/SMILE",
+      "effect": "[On K.O.] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): K.O. up to 1 of your opponent's Characters with a cost of 5 or less.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-108.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-108.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-108_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-109",
+      "name": "Who's.Who",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "2",
+      "power": "3000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Animal Kingdom Pirates",
+      "effect": "[DON!! x1] [Your Turn] If you have 8 or more DON!! cards on your field, this Character gains +1000 power.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-109.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-109.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-109_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-110",
+      "name": "Fukurokuju",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "6",
+      "power": "8000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Land of Wano/Animal Kingdom Pirates",
+      "effect": "-",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-110.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-110.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-110_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-111",
+      "name": "Black Maria",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "4",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Animal Kingdom Pirates",
+      "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Block] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): This Character gains +1000 power during this turn.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-111.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-111.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-111_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-112",
+      "name": "Page One",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "4",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Animal Kingdom Pirates",
+      "effect": "[Activate: Main] [Once Per Turn] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): This Character can also attack your opponent's active Characters during this turn.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-112.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-112.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-112_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-113",
+      "name": "Holedem",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "3",
+      "power": "4000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Animal Kingdom Pirates/SMILE",
+      "effect": "[On K.O.] Add up to 1 DON!! card from your DON!! deck and rest it.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-113.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-113.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-113_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-114",
+      "name": "X.Drake",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "5",
+      "power": "5000",
+      "counter": "2000",
+      "attribute": "Slash",
+      "type": "Navy/Drake Pirates/Animal Kingdom Pirates",
+      "effect": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Your opponent trashes 1 card from their hand.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-114.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-114.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-114_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-115",
+      "name": "Elephant's Marchoo",
+      "rarity": "C",
+      "cardType": "EVENT",
+      "color": "Purple",
+      "cost": "4",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Animal Kingdom Pirates/SMILE",
+      "effect": "[Main] K.O. up to 1 of your opponent's Characters with a cost of 2 or less, then add up to 1 DON!! card from your DON!! deck and set it as active.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-115.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-115.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-115_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-116",
+      "name": "Artificial Devil Fruit SMILE",
+      "rarity": "UC",
+      "cardType": "EVENT",
+      "color": "Purple",
+      "cost": "2",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Animal Kingdom Pirates/SMILE",
+      "effect": "[Main] Look at 5 cards from the top of your deck; play up to 1 {SMILE} type Character card with a cost of 3 or less. Then, place the rest at the bottom of your deck in any order.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-116.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-116.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-116_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-117",
+      "name": "Sheep's Horn",
+      "rarity": "C",
+      "cardType": "EVENT",
+      "color": "Purple",
+      "cost": "2",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Animal Kingdom Pirates/SMILE",
+      "effect": "[Main] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Rest up to 1 of your opponent's Characters with a cost of 6 or less.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-117.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-117.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-117_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-118",
+      "name": "Ulti-Mortar",
+      "rarity": "UC",
+      "cardType": "EVENT",
+      "color": "Purple",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Animal Kingdom Pirates",
+      "effect": "[Counter] DON!! −2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, draw 1 card.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-118.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-118.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-118_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP01-119",
+      "name": "Thunder Bagua",
+      "rarity": "R",
+      "cardType": "EVENT",
+      "color": "Purple",
+      "cost": "2",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "The Four Emperors/Animal Kingdom Pirates",
+      "effect": "[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, if you have 2 or less Life cards, add up to 1 DON!! card from your DON!! deck and rest it.",
+      "cardSets": "Card Set(s)-ROMANCE DAWN- [OP01]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP01-119.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP01-119.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP01/OP01-119_EN.webp"
+      ]
+    }
+  ]
+}

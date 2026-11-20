@@ -1,0 +1,2925 @@
+{
+  "setId": "op15KamisIsland",
+  "setName": "OP-15: Adventure on Kami’s Island",
+  "series": "Adventure on Kami’s Island",
+  "jsonPath": "/data/onepiece/op15.json",
+  "counts": {
+    "total": 153,
+    "Common": 59,
+    "Uncommon": 30,
+    "Rare": 35,
+    "SuperRare": 13,
+    "SecretRare": 2,
+    "Leader": 6,
+    "Special": 8
+  },
+  "cards": [
+    {
+      "cardNum": "EB04-001",
+      "name": "Jewelry Bonney",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Red/Yellow",
+      "cost": "4",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "Egghead/Bonney Pirates",
+      "effect": "[Opponent's Turn] If you have 1 or less Life cards, this Leader gains +2000 power.[Activate: Main] [Once Per Turn] Give up to 1 of your opponent's Characters −1000 power during this turn. Then, if you have 2 or more Life cards, you may add 1 card from the top of your Life cards to your hand.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB04-001.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB04-001.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB04/EB04-001_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB04-002",
+      "name": "Jewelry Bonney",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "1",
+      "power": "2000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Egghead/Bonney Pirates",
+      "effect": "[On Play] Look at 4 cards from the top of your deck; reveal up to 1 {Egghead} or {Straw Hat Crew} type card other than [Jewelry Bonney] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB04-002.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB04-002.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB04/EB04-002_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB04-003",
+      "name": "Smoker & Tashigi",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "8",
+      "power": "8000",
+      "counter": "-",
+      "attribute": "Slash/Special",
+      "type": "Punk Hazard/Navy",
+      "effect": "[Rush] (This card can attack on the turn in which it is played.)[Opponent's Turn] Your {Navy} type Leader's base power becomes 7000.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB04-003.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB04-003.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB04/EB04-003_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB04-004",
+      "name": "Zeff",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "7",
+      "power": "8000",
+      "counter": "-",
+      "attribute": "Strike",
+      "type": "East Blue",
+      "effect": "[When Attacking] Your Leader's base power becomes 7000 until the end of your opponent's next End Phase.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB04-004.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB04-004.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB04/EB04-004_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB04-005",
+      "name": "Trafalgar Law",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "3",
+      "power": "5000",
+      "counter": "2000",
+      "attribute": "Slash",
+      "type": "The Seven Warlords of the Sea/Supernovas/Heart Pirates",
+      "effect": "This Character cannot attack unless your opponent has 2 or more Characters with a base power of 5000 or more.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB04-005.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB04-005.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB04/EB04-005_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB04-006",
+      "name": "Moda",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "1",
+      "power": "-",
+      "counter": "2000",
+      "attribute": "Wisdom",
+      "type": "Lulucia Kingdom",
+      "effect": "[On Play] Look at 7 cards from the top of your deck; reveal up to 1 [Lulucia Kingdom] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB04-006.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB04-006.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB04/EB04-006_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB04-008",
+      "name": "Distorted Future",
+      "rarity": "R",
+      "cardType": "EVENT",
+      "color": "Red",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Egghead/Bonney Pirates",
+      "effect": "[Main] If you have 2 or less Life cards, give up to 1 of your opponent's Characters −3000 power during this turn.[Counter] Your Leader gains +3000 power during this battle.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB04-008.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB04-008.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB04/EB04-008_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB04-009",
+      "name": "It's My Student's Farewell. I Want It to Be Proper.",
+      "rarity": "C",
+      "cardType": "EVENT",
+      "color": "Red",
+      "cost": "-",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Former Roger Pirates",
+      "effect": "[Main] You may give 1 active DON!! card to 1 of your [Silvers Rayleigh]: Give up to 1 of your opponent's Characters −2000 power during this turn.[Counter] Up to 1 of your Characters or [Silvers Rayleigh] gains +2000 power during this battle.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB04-009.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB04-009.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB04/EB04-009_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB04-010",
+      "name": "Lulucia Kingdom",
+      "rarity": "C",
+      "cardType": "STAGE",
+      "color": "Red",
+      "cost": "7",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Lulucia Kingdom",
+      "effect": "[Opponent's Turn] All of your Characters with a base cost of 1 gain +5000 power.[On Play] Set the power of up to 1 of your opponent's Characters to 0 during this turn.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB04-010.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB04-010.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB04/EB04-010_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB04-042",
+      "name": "Alpha",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "1",
+      "power": "2000",
+      "counter": "2000",
+      "attribute": "Strike",
+      "type": "CP8",
+      "effect": "[On Play] You may trash 3 cards from the top of your deck: Give up to 1 of your opponent's Characters −1 cost during this turn.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB04-042.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB04-042.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB04/EB04-042_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB04-043",
+      "name": "Kaku",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "3",
+      "power": "4000",
+      "counter": "2000",
+      "attribute": "Slash",
+      "type": "Egghead/CP0",
+      "effect": "[Once Per Turn] If your black Character with a base cost of 5 or less would be K.O.'d by your opponent's effect, you may place 3 cards from your trash at the bottom of your deck in any order instead.[On Play] Trash 2 cards from the top of your deck.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB04-043.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB04-043.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB04/EB04-043_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB04-044",
+      "name": "Koby",
+      "rarity": "SR",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "6",
+      "power": "7000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Navy/SWORD",
+      "effect": "[Once Per Turn] If your Leader's type includes \"Navy\" and this Character would be removed from the field, you may trash 1 card from your hand instead.[Your Turn] [Once Per Turn] When your opponent's Character is K.O.'d, draw 1 card.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB04-044.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB04-044.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB04/EB04-044_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB04-045",
+      "name": "Ginny",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "1",
+      "power": "2000",
+      "counter": "2000",
+      "attribute": "Ranged",
+      "type": "Revolutionary Army",
+      "effect": "[Activate: Main] You may rest this Character: If there are 2 or more Characters with a cost of 8 or more, up to 1 of your {Revolutionary Army} type Leader or Character cards gains +1000 power during this turn.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB04-045.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB04-045.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB04/EB04-045_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB04-046",
+      "name": "Doll",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "2",
+      "power": "1000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Egghead/Navy",
+      "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[Opponent's Turn] All of your {Navy} type Characters gain +2 cost.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB04-046.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB04-046.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB04/EB04-046_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB04-047",
+      "name": "Helmeppo",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "3",
+      "power": "3000",
+      "counter": "2000",
+      "attribute": "Slash",
+      "type": "Navy/SWORD",
+      "effect": "[Activate: Main] You may trash this Character: Play up to 1 {SWORD} type Character card with a cost of 3 or less other than [Helmeppo] from your hand or trash.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB04-047.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB04-047.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB04/EB04-047_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB04-048",
+      "name": "Rob Lucci",
+      "rarity": "SR",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "4",
+      "power": "6000",
+      "counter": "-",
+      "attribute": "Strike",
+      "type": "Egghead/CP0",
+      "effect": "If your Leader's type includes \"CP\", this Character gains +1000 power and +2 cost for every 5 cards in your trash.[On Play] You may trash 1 of your Characters: Draw 1 card.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB04-048.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB04-048.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB04/EB04-048_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB04-049",
+      "name": "Finger Pistol Yellow Lotus",
+      "rarity": "C",
+      "cardType": "EVENT",
+      "color": "Black",
+      "cost": "4",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "CP9",
+      "effect": "[Main] You may trash 2 cards from the top of your deck: K.O. up to 1 of your opponent's Characters with a base cost of 5 or less.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB04-049.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB04-049.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB04/EB04-049_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB04-050",
+      "name": "I'll Whip You Into Shape. ♡",
+      "rarity": "R",
+      "cardType": "EVENT",
+      "color": "Black",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Navy/SWORD",
+      "effect": "[Main] Up to 1 of your {SWORD} type Leader or Character cards can also attack active Characters during this turn.[Counter] Your Leader gains +3000 power during this battle.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB04-050.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB04-050.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB04/EB04-050_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB04-051",
+      "name": "Emet",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "8",
+      "power": "7000",
+      "counter": "-",
+      "attribute": "Strike",
+      "type": "Egghead",
+      "effect": "This Character cannot attack unless there is a Character with 12000 base power or more.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB04-051.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB04-051.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB04/EB04-051_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB04-052",
+      "name": "Sanji",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "4",
+      "power": "4000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Egghead/Straw Hat Crew",
+      "effect": "[When Attacking] This Character's base power becomes the same as your opponent's Leader during this turn.[On K.O.] If you have 2 or less Life cards, play up to 1 yellow Character card with 6000 power or less from your hand.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB04-052.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB04-052.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB04/EB04-052_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB04-053",
+      "name": "Sentomaru",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "2",
+      "power": "1000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Egghead/Navy",
+      "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Block] If you have 2 or less Life cards, draw 1 card.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB04-053.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB04-053.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB04/EB04-053_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB04-055",
+      "name": "Bartholomew Kuma",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "4",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "The Seven Warlords of the Sea/Revolutionary Army",
+      "effect": "[On K.O.] Play up to 1 {Revolutionary Army} type Character card with a cost of 4 or less from your hand.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB04-055.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB04-055.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB04/EB04-055_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB04-056",
+      "name": "Pacifista",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "1",
+      "power": "1000",
+      "counter": "2000",
+      "attribute": "Special",
+      "type": "Biological Weapon/Egghead/Navy",
+      "effect": "If you have [Jewelry Bonney] and you have 0 Life cards, this Character gains [Blocker].(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB04-056.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB04-056.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB04/EB04-056_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB04-057",
+      "name": "Vegapunk",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "2",
+      "power": "-",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "Ohara/Scientist",
+      "effect": "If you have 2 or less Life cards, all of your yellow {Scientist} type Characters cannot be removed from the field by your opponent's effects.[DON!! x1] This Character gains [Blocker].",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB04-057.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB04-057.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB04/EB04-057_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB04-058",
+      "name": "Borsalino",
+      "rarity": "SR",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "5",
+      "power": "6000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Egghead/Navy",
+      "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] If you have 2 or less Life cards, add up to 1 card from the top of your deck to the top of your Life cards.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB04-058.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB04-058.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB04/EB04-058_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB04-059",
+      "name": "Black Rope Dragon Twister",
+      "rarity": "R",
+      "cardType": "EVENT",
+      "color": "Yellow",
+      "cost": "6",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Fish-Man Island/Supernovas/Straw Hat Crew",
+      "effect": "[Main] You may turn 1 card from the top of your Life cards face-up: If you have less Characters than your opponent, K.O. up to 1 of your opponent's Characters with a cost of 6 or less and up to 1 of your opponent's Characters with a cost of 5 or less.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB04-059.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB04-059.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB04/EB04-059_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "EB04-060",
+      "name": "Gum-Gum Hawk Gatling",
+      "rarity": "C",
+      "cardType": "EVENT",
+      "color": "Yellow",
+      "cost": "2",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Egghead/The Four Emperors/Straw Hat Crew",
+      "effect": "[Main] You may add 1 card from the top or bottom of your Life cards to your hand: Add up to 1 {Egghead} type Character card from your hand to the top of your Life cards face-up. Then, give up to 1 of your opponent's Characters −1000 power during this turn.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/EB04-060.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/EB04-060.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/EB04/EB04-060_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP11-106",
+      "name": "Zeus",
+      "rarity": "SP CARD",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "2",
+      "power": "2000",
+      "counter": "2000",
+      "attribute": "Special",
+      "type": "Homies/Big Mom Pirates",
+      "effect": "[On Play] You may add 1 card from the top or bottom of your Life cards to your hand: K.O. up to 1 of your opponent's Characters with a cost of 5 or less.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP11-106_p2.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP11-106_p2.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP11/OP11-106_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP12-014",
+      "name": "Boa Hancock",
+      "rarity": "SP CARD",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "2",
+      "power": "3000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "The Seven Warlords of the Sea/Kuja Pirates",
+      "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 [Monkey.D.Luffy] or red Event and add it to your hand. Then, place the rest at the bottom of your deck in any order.[Activate: Main] You may trash this Character: Give up to 2 rested DON!! cards to your Leader or 1 of your Characters.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP12-014_p2.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP12-014_p2.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP12/OP12-014_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP13-031",
+      "name": "Trafalgar Law",
+      "rarity": "SP CARD",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "6",
+      "power": "6000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "FILM/Supernovas/Heart Pirates",
+      "effect": "If you have 1 or less Life cards, this Character gains [Blocker].[On Play] You may return 1 of your Characters to the owner's hand: Play up to 1 Character card with a cost of 5 or less from your hand rested.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP13-031_p1.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP13-031_p1.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP13/OP13-031_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP13-037",
+      "name": "Roronoa Zoro",
+      "rarity": "TR",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "4",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "FILM/Supernovas/Straw Hat Crew",
+      "effect": "[On Play] If your Leader has the {FILM} or {Straw Hat Crew} type, set up to 2 of your DON!! cards as active.[End of Your Turn] Set this Character as active.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP13-037_p1.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP13-037_p1.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP13/OP13-037_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP13-042",
+      "name": "Edward.Newgate",
+      "rarity": "SP CARD",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "10",
+      "power": "12000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "The Four Emperors/Whitebeard Pirates",
+      "effect": "[Blocker][On Play] Draw 2 cards and trash 1 card from your hand. Then, give your Leader and 1 Character up to 2 rested DON!! cards each.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP13-042_p2.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP13-042_p2.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP13/OP13-042_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-001",
+      "name": "Krieg",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Red/Green",
+      "cost": "4",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "East Blue/Krieg Pirates",
+      "effect": "[DON!! x1] [Opponent's Turn] If the only Characters on your field are {East Blue} type Characters, give all of your opponent's Characters −2000 power.[Activate: Main] [Once Per Turn] Rest up to 1 of your opponent's Characters that has 2 or more DON!! cards given.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-001.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-001.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-001_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-002",
+      "name": "Lucy",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Red/Blue",
+      "cost": "4",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Strike",
+      "type": "Dressrosa/Revolutionary Army",
+      "effect": "[When Attacking]/[On Your Opponent's Attack] You may trash any number of Event or Stage cards from your hand. This Leader gains +1000 power during this battle for every card trashed.[Activate: Main] [Once Per Turn] If you have activated an Event with a base cost of 3 or more during this turn, draw 1 card.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-002.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-002.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-002_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-003",
+      "name": "Alvida",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "5",
+      "power": "6000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "East Blue/Alvida Pirates",
+      "effect": "If this Character would be K.O.'d, you may trash 1 Character card with a power of 6000 or less from your hand instead.[Activate: Main] [Once Per Turn] You may give 1 of your opponent's rested DON!! cards to 1 of your opponent's Characters: Give up to 1 rested DON!! card to its owner's Leader or 1 of their Characters.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-003.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-003.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-003_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-004",
+      "name": "Sea Cat",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "1",
+      "power": "-",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "Animal/Alabasta",
+      "effect": "[On Play] If your Leader has 0 power or less, give up to 1 of your opponent's Characters −3000 power during this turn.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-004.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-004.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-004_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-005",
+      "name": "Cabaji",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "2",
+      "power": "3000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "East Blue/Buggy Pirates",
+      "effect": "[When Attacking] If your opponent has any DON!! cards given, this Character gains +2000 power during this turn.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-005.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-005.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-005_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-006",
+      "name": "Cavendish",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "4",
+      "power": "4000",
+      "counter": "2000",
+      "attribute": "Slash",
+      "type": "Dressrosa/Beautiful Pirates",
+      "effect": "If you have 4 or more Events in your trash, this Character gains +2000 power.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-006.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-006.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-006_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-007",
+      "name": "Gin",
+      "rarity": "SR",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "6",
+      "power": "7000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "East Blue/Krieg Pirates",
+      "effect": "[On Play] If your Leader has the {East Blue} type, play up to 1 Character card with a cost of 5 or less from your hand.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-007.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-007.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-007_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-008",
+      "name": "Krieg",
+      "rarity": "SR",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "8",
+      "power": "9000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "East Blue/Krieg Pirates",
+      "effect": "[On Play] Give up to 3 of your opponent's rested DON!! cards to 1 of your opponent's Characters. Then, this Character gains [Rush] during this turn.[Activate: Main] [Once Per Turn] If this Character was played on this turn, give all of your opponent's Characters −1000 power during this turn for every DON!! card given to that Character.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-008.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-008.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-008_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-009",
+      "name": "Koby",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "1",
+      "power": "2000",
+      "counter": "2000",
+      "attribute": "Strike",
+      "type": "East Blue/Navy",
+      "effect": "If your Character with 7000 base power or less would be removed from the field by your opponent's effect, you may give your Leader −2000 power during this turn instead.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-009.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-009.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-009_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-010",
+      "name": "Nezumi",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "2",
+      "power": "2000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "East Blue/Navy",
+      "effect": "[Activate: Main] [Once Per Turn] Give up to 1 rested DON!! card to its owner's Leader or 1 of their Characters.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-010.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-010.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-010_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-011",
+      "name": "Pearl",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "4",
+      "power": "4000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "East Blue/Krieg Pirates",
+      "effect": "[Opponent's Turn] If your Leader has the {East Blue} type, this Character gains [Blocker] and +2000 power.[On K.O.] If your Leader has the {East Blue} type, K.O. up to 1 of your opponent's Characters with 6000 base power or less.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-011.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-011.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-011_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-012",
+      "name": "Buggy",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "3",
+      "power": "4000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "East Blue/Buggy Pirates",
+      "effect": "[When Attacking] Give up to 1 rested DON!! card to its owner's Leader or 1 of their Characters.[On K.O.] Draw 1 card.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-012.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-012.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-012_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-013",
+      "name": "Pincers",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "4",
+      "power": "2000",
+      "counter": "2000",
+      "attribute": "Strike",
+      "type": "Animal/Alabasta",
+      "effect": "If your Leader has 0 power or less, give this card in your hand −2 cost.[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-013.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-013.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-013_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-014",
+      "name": "Bartolomeo",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "4",
+      "power": "6000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "Dressrosa/Barto Club",
+      "effect": "If this Character would be K.O.'d, you may trash 1 Event from your hand instead.[On Play] Activate up to 1 {Dressrosa} type Event with a base cost of 3 or less from your hand.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-014.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-014.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-014_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-015",
+      "name": "Higuma",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "1",
+      "power": "1000",
+      "counter": "2000",
+      "attribute": "Slash",
+      "type": "East Blue/Mountain Bandits",
+      "effect": "[On Play] Give up to 1 of your opponent's rested DON!! cards to 1 of your opponent's Characters. Then, give −1000 power during this turn to up to 1 of your opponent's Characters with a DON!! card given.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-015.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-015.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-015_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-016",
+      "name": "Fullbody",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "5",
+      "power": "6000",
+      "counter": "2000",
+      "attribute": "Strike",
+      "type": "Navy",
+      "effect": "-",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-016.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-016.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-016_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-017",
+      "name": "Morgan",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "5",
+      "power": "6000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "East Blue/Navy",
+      "effect": "[Blocker][Activate: Main] [Once Per Turn] You may give 1 of your opponent's rested DON!! cards to 1 of your opponent's Characters: Give up to 1 rested DON!! card to its owner's Leader or 1 of their Characters.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-017.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-017.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-017_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-018",
+      "name": "Mohji",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "2",
+      "power": "3000",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "East Blue/Buggy Pirates",
+      "effect": "[When Attacking] K.O. up to 1 of your opponent's Characters with 3000 power or less with a DON!! card given.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-018.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-018.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-018_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-019",
+      "name": "Barrier Bulls",
+      "rarity": "UC",
+      "cardType": "EVENT",
+      "color": "Red",
+      "cost": "3",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Dressrosa/Barto Club",
+      "effect": "[Main] Draw 1 card and your Leader gains +1000 power until the end of your opponent's next End Phase.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-019.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-019.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-019_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-020",
+      "name": "Fire Fist",
+      "rarity": "R",
+      "cardType": "EVENT",
+      "color": "Red",
+      "cost": "7",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Dressrosa/Revolutionary Army",
+      "effect": "[Main] Your Leader gains +3000 power during this turn and give up to 1 of your opponent's Characters −8000 power until the end of your opponent's next End Phase. Then, you may trash 2 cards from your hand. If you do, K.O. up to 1 of your opponent's Characters with 0 power or less.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-020.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-020.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-020_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-021",
+      "name": "Just Watch Me, Ace!!!",
+      "rarity": "UC",
+      "cardType": "EVENT",
+      "color": "Red",
+      "cost": "4",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Dressrosa/Revolutionary Army",
+      "effect": "If you have 4 or more Events in your trash, give this card in your hand −3 cost.[Main]/[Counter] Give up to 1 of your opponent's Characters −3000 power during this turn.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-021.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-021.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-021_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-022",
+      "name": "Brook",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Green/Black",
+      "cost": "4",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "Straw Hat Crew",
+      "effect": "Under the rules of this game, you do not lose when your deck has 0 cards. You lose at the end of the turn in which your deck becomes 0 cards.[Activate: Main] [Once Per Turn] Trash 4 cards from the top of your deck. Then, if your deck has 0 cards, set up to 1 of your Characters as active.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-022.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-022.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-022_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-023",
+      "name": "Arlong",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "4",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Fish-Man/East Blue/Arlong Pirates",
+      "effect": "[On K.O.] Up to 2 of your opponent's rested cards will not become active in your opponent's next Refresh Phase.[Activate: Main] [Once Per Turn] You may give 1 of your opponent's rested DON!! cards to 1 of your opponent's Characters: Give up to 1 DON!! card from its owner's cost area to its owner's Leader or 1 of their Characters.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-023.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-023.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-023_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-024",
+      "name": "Usopp",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "4",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Ranged",
+      "type": "Straw Hat Crew",
+      "effect": "[Opponent's Turn] This Character cannot be rested by your opponent's Leader and Character effects and gains [Blocker].[On K.O.] Rest up to 1 of your opponent's Leader or Character cards with a cost of 7 or less.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-024.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-024.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-024_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-025",
+      "name": "Kuro",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "7",
+      "power": "7000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "East Blue/Black Cat Pirates",
+      "effect": "[Blocker][On Play] Give up to 2 DON!! cards from your opponent's cost area to 1 of your opponent's Characters. Then, at the end of this turn, up to 1 rested Character with 3 or more DON!! cards given will not become active in your opponent's next Refresh Phase.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-025.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-025.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-025_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-026",
+      "name": "Jango",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "1",
+      "power": "2000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "East Blue/Black Cat Pirates",
+      "effect": "[On Play] Look at 3 cards from the top of your deck; reveal up to 1 {East Blue} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.[Activate: Main] You may trash this Character: Give up to 1 of your opponent's rested DON!! cards to 1 of your opponent's Characters.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-026.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-026.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-026_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-027",
+      "name": "Dracule Mihawk",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "4",
+      "power": "5000",
+      "counter": "2000",
+      "attribute": "Slash",
+      "type": "East Blue/The Seven Warlords of the Sea",
+      "effect": "[On Play] Rest up to 1 of your opponent's Characters with a DON!! card given.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-027.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-027.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-027_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-028",
+      "name": "Meowban Brothers",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "1",
+      "power": "2000",
+      "counter": "2000",
+      "attribute": "Slash",
+      "type": "East Blue/Black Cat Pirates",
+      "effect": "[On Play] If your Leader has the {East Blue} type, give up to 1 DON!! card from your opponent's cost area to 1 of your opponent's Characters.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-028.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-028.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-028_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-029",
+      "name": "Bartholomew Kuma",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "4",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "The Seven Warlords of the Sea/Revolutionary Army",
+      "effect": "[On Play] Up to 1 of your opponent's Characters with a cost of 5 or less cannot be rested until the end of your opponent's next End Phase.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-029.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-029.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-029_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-030",
+      "name": "Hyouzou",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "5",
+      "power": "6000",
+      "counter": "2000",
+      "attribute": "Slash",
+      "type": "Merfolk/Fish-Man Island",
+      "effect": "-",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-030.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-030.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-030_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-031",
+      "name": "Purinpurin",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "2",
+      "power": "2000",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "East Blue/Navy",
+      "effect": "[On Play] Select up to 1 of your opponent's rested Characters. If the chosen Character has a cost equal to the number of DON!! cards given to it, K.O. it.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-031.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-031.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-031_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-032",
+      "name": "Brook",
+      "rarity": "SR",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "6",
+      "power": "6000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Straw Hat Crew",
+      "effect": "[On Play] Rest up to 1 of your opponent's cards.[Activate: Main] You may trash this Character: If your Leader has the {Straw Hat Crew} type, set up to 1 of your Characters with a base cost of 8 or less as active.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-032.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-032.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-032_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-033",
+      "name": "Hody Jones",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "4",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Fish-Man/Fish-Man Island/New Fish-Man Pirates",
+      "effect": "[On Play] Set your {Fish-Man} type Leader as active. Then, add 1 card from the top of your Life cards to your hand.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-033.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-033.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-033_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-034",
+      "name": "Yorki",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "1",
+      "power": "-",
+      "counter": "2000",
+      "attribute": "Slash",
+      "type": "Rumbar Pirates",
+      "effect": "[Your Turn] [On Play] Up to 1 of your [Brook] cards gains +2000 power during this turn.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-034.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-034.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-034_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-035",
+      "name": "Laboon",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "1",
+      "power": "2000",
+      "counter": "2000",
+      "attribute": "Strike",
+      "type": "Animal",
+      "effect": "If your Character with 7000 base power or less would be removed from the field by your opponent's effect, you may rest 2 of your cards instead.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-035.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-035.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-035_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-036",
+      "name": "Ryuma",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "6",
+      "power": "8000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "Land of Wano/Thriller Bark Pirates",
+      "effect": "[On Play]/[When Attacking] K.O. up to 1 of your opponent's rested Characters with a cost of 4 or less.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-036.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-036.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-036_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-037",
+      "name": "The Outcome Will Tell Us Who's Strong and Who's Weak",
+      "rarity": "UC",
+      "cardType": "EVENT",
+      "color": "Green",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "East Blue/Krieg Pirates",
+      "effect": "[Main] Look at 5 cards from the top of your deck; reveal up to 1 {East Blue} type card other than [The Outcome Will Tell Us Who's Strong and Who's Weak] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-037.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-037.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-037_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-038",
+      "name": "It's an Order! Do Not Defy Me!!!",
+      "rarity": "R",
+      "cardType": "EVENT",
+      "color": "Green",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "East Blue/Krieg Pirates",
+      "effect": "[Main] Up to 1 of your opponent's rested Characters with a cost of 8 or less that has 2 or more DON!! cards given will not become active in your opponent's next Refresh Phase.[Counter] Up to 1 of your [Krieg] cards gains +4000 power during this battle.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-038.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-038.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-038_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-040",
+      "name": "Viola",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "1",
+      "power": "2000",
+      "counter": "2000",
+      "attribute": "Special",
+      "type": "Dressrosa/Donquixote Pirates",
+      "effect": "[On Play] Look at 3 cards from the top of your deck; reveal up to 1 {Dressrosa} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-040.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-040.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-040_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-041",
+      "name": "Orlumbus",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "3",
+      "power": "4000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Dressrosa/Yonta Maria Fleet",
+      "effect": "[On K.O.] Draw 1 card.[Activate: Main] [Once Per Turn] You may place 1 of your Characters at the bottom of the owner's deck: This Character gains [Rush] during this turn.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-041.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-041.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-041_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-042",
+      "name": "Kyros",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "3",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "Dressrosa",
+      "effect": "[On Play] You may trash 1 card from your hand: If your Leader is [Rebecca], this Character gains [Rush] during this turn.[On K.O.] Add this Character card from your trash to your hand.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-042.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-042.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-042_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-043",
+      "name": "Kelly Funk",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "3",
+      "power": "3000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Dressrosa/Mogaro Kingdom",
+      "effect": "[On Play] Play up to 1 [Bobby Funk] from your hand.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-043.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-043.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-043_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-044",
+      "name": "Koala",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "3",
+      "power": "2000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Dressrosa/Revolutionary Army",
+      "effect": "[Blocker][On K.O.] Look at 3 cards from the top of your deck; reveal up to 1 {Dressrosa} type Event and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-044.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-044.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-044_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-045",
+      "name": "Sai",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "5",
+      "power": "6000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Dressrosa/Happosui Army",
+      "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] You may trash 1 Event from your hand: Draw 2 cards.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-045.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-045.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-045_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-046",
+      "name": "Sabo",
+      "rarity": "SR",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "7",
+      "power": "9000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "Dressrosa/Revolutionary Army",
+      "effect": "[Blocker][On Play] If your Leader has the {Dressrosa} type, activate up to 1 {Dressrosa} type Event from your hand.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-046.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-046.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-046_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-047",
+      "name": "Sanji",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "3",
+      "power": "4000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Dressrosa/Straw Hat Crew",
+      "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] Up to 1 of your Characters gains [Unblockable] during this turn.(This card cannot be blocked.)",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-047.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-047.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-047_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-048",
+      "name": "Chinjao",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "4",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Dressrosa/Happosui Army",
+      "effect": "[On Play] You may trash 1 Event from your hand: Draw 2 cards.[Opponent's Turn] [On K.O.] Your opponent places 1 card from their hand at the bottom of their deck.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-048.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-048.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-048_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-049",
+      "name": "Hajrudin",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "5",
+      "power": "6000",
+      "counter": "2000",
+      "attribute": "Strike",
+      "type": "Giant/Dressrosa/New Giant Pirates",
+      "effect": "-",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-049.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-049.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-049_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-050",
+      "name": "Bobby Funk",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "3",
+      "power": "3000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Dressrosa/Mogaro Kingdom",
+      "effect": "If you have [Kelly Funk], this Character gains +3000 power.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-050.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-050.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-050_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-051",
+      "name": "Monkey.D.Luffy",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "3",
+      "power": "4000",
+      "counter": "2000",
+      "attribute": "Strike",
+      "type": "Dressrosa/Straw Hat Crew",
+      "effect": "[Opponent's Turn] If your Leader has the {Dressrosa} type, this Character gains +3000 power.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-051.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-051.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-051_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-052",
+      "name": "Leo",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "1",
+      "power": "2000",
+      "counter": "2000",
+      "attribute": "Strike",
+      "type": "The Tontattas/Dressrosa",
+      "effect": "If your Character with 7000 base power or less would be removed from the field by your opponent's effect, you may place 1 of your Characters at the bottom of the owner's deck instead.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-052.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-052.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-052_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-053",
+      "name": "Rebecca",
+      "rarity": "SR",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "1",
+      "power": "-",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "Dressrosa",
+      "effect": "[DON!! x1] This Character gains [Blocker].[On Play] Look at 3 cards from the top of your deck; reveal up to 1 {Dressrosa} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-053.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-053.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-053_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-054",
+      "name": "And No One Else Can Have It! It's Our Memento of Him",
+      "rarity": "C",
+      "cardType": "EVENT",
+      "color": "Blue",
+      "cost": "4",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Dressrosa/Revolutionary Army",
+      "effect": "[Main] If your Leader is [Lucy], choose one:• Draw 2 cards and trash 1 card from your hand. Then, play up to 1 {Dressrosa} type Character card with a cost of 4 or less from your hand.• Return up to 1 Stage to the owner's hand.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-054.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-054.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-054_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-055",
+      "name": "Go Ahead and Use 'Em, Mr. Luffy!!!",
+      "rarity": "R",
+      "cardType": "EVENT",
+      "color": "Blue",
+      "cost": "3",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Dressrosa/Barto Club",
+      "effect": "[Main] Choose one:• Draw 2 cards.• Up to 1 of your {Dressrosa} type Characters gains [Blocker] until the end of your opponent's next End Phase.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-055.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-055.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-055_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-056",
+      "name": "Would You Let Me Eat the Flame-Flame Fruit?",
+      "rarity": "C",
+      "cardType": "EVENT",
+      "color": "Blue",
+      "cost": "7",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Dressrosa/Revolutionary Army",
+      "effect": "[Main] Draw 2 cards. Then, your [Lucy] Leader gains [Double Attack] and +3000 power during this turn.(This card deals 2 damage.)",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-056.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-056.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-056_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-057",
+      "name": "Dressrosa Kingdom",
+      "rarity": "C",
+      "cardType": "STAGE",
+      "color": "Blue",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Dressrosa",
+      "effect": "[On Play] If your Leader has the {Dressrosa} type, draw 1 card.[On Your Opponent's Attack] You may rest this Stage and trash 1 Event or Stage card from your hand: Up to 1 of your Leader or Character cards gains +2000 power during this battle.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-057.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-057.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-057_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-058",
+      "name": "Enel",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Purple",
+      "cost": "5",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "Sky Island",
+      "effect": "Under the rules of this game, your DON!! deck consists of 6 cards.[Activate: Main] [Once Per Turn] If it is your second turn or later, add up to 1 DON!! card from your DON!! deck and set it as active, and add up to 4 additional DON!! cards and rest them. Then, give up to 4 rested DON!! cards to 1 of your Characters.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-058.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-058.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-058_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-059",
+      "name": "Amazon",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "3",
+      "power": "-",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "Sky Island",
+      "effect": "[On Your Opponent's Attack] You may rest this Character: Your opponent may return 1 of their active DON!! cards to their DON!! deck. If they do not, give up to 1 of your opponent's Leader or Character cards −2000 power during this turn.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-059.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-059.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-059_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-060",
+      "name": "Enel",
+      "rarity": "SR",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "6",
+      "power": "8000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "Sky Island",
+      "effect": "If you have 6 or less DON!! cards on your field, this Character cannot be removed from the field by your opponent's effects and gains +2000 power.[Activate: Main] DON!! −1: This Character gains [Blocker] until the end of your opponent's next End Phase. Then, trash 1 card from your hand.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-060.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-060.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-060_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-061",
+      "name": "Ohm",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "1",
+      "power": "2000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Sky Island/Vassals",
+      "effect": "[On Play] DON!! −1: Draw 1 card.[When Attacking] If you have 6 or less DON!! cards on your field, give up to 1 of your opponent's Characters −1000 power during this turn.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-061.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-061.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-061_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-062",
+      "name": "Captain Seamars",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "5",
+      "power": "6000",
+      "counter": "2000",
+      "attribute": "Slash",
+      "type": "The Moon/Space Pirates",
+      "effect": "-",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-062.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-062.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-062_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-063",
+      "name": "Gedatsu",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "1",
+      "power": "2000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Sky Island/Vassals",
+      "effect": "[On Play] DON!! −1: Draw 1 card.[On K.O.] If you have 6 or less DON!! cards on your field, K.O. up to 1 of your opponent's Characters with 2000 power or less.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-063.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-063.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-063_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-064",
+      "name": "Kotori",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "1",
+      "power": "2000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Sky Island",
+      "effect": "[Activate: Main] DON!! −2, You may rest this Character: If you have [Satori] and [Hotori], rest up to 1 of your opponent's Characters with 5000 power or less.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-064.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-064.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-064_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-065",
+      "name": "Goro",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "3",
+      "power": "-",
+      "counter": "2000",
+      "attribute": "Wisdom",
+      "type": "Alabasta/Hot Springs Island",
+      "effect": "[On Play] Reveal 1 card from the top of your deck. If the revealed card has a cost of 2 or less, add up to 1 DON!! card from your DON!! deck and rest it.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-065.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-065.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-065_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-066",
+      "name": "Satori",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "1",
+      "power": "2000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Sky Island/Vassals",
+      "effect": "[On Play] DON!! −1: Draw 1 card.[When Attacking] If you have 6 or less DON!! cards on your field, look at 2 cards from the top of your deck and place them at the top or bottom of your deck in any order.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-066.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-066.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-066_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-067",
+      "name": "Shura",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "1",
+      "power": "2000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Sky Island/Vassals",
+      "effect": "If you have 6 or less DON!! cards on your field, this Character gains [Rush].(This card can attack on the turn in which it is played.)[On Play] DON!! −1: Draw 1 card.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-067.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-067.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-067_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-068",
+      "name": "Heavenly Warriors",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "1",
+      "power": "1000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Sky Island",
+      "effect": "If you have 6 or less DON!! cards on your field, this Character gains [Blocker].(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-068.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-068.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-068_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-069",
+      "name": "Nola",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "1",
+      "power": "2000",
+      "counter": "2000",
+      "attribute": "Strike",
+      "type": "Animal/Sky Island",
+      "effect": "If your Character with 7000 base power or less would be removed from the field by your opponent's effect, you may return 1 DON!! card from your field to your DON!! deck instead.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-069.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-069.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-069_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-070",
+      "name": "Fuza",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "3",
+      "power": "4000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Animal/Sky Island",
+      "effect": "All of your [Shura] cards and this Character gain [Unblockable].(This card cannot be blocked.)[Opponent's Turn] All of your [Shura] cards' base power and this Character's base power become 6000.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-070.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-070.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-070_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-071",
+      "name": "Holly",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "3",
+      "power": "4000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Animal/Sky Island",
+      "effect": "All of your [Ohm] cards and this Character gain [Double Attack].(This card deals 2 damage.)[Opponent's Turn] All of your [Ohm] cards' base power and this Character's base power become 6000.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-071.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-071.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-071_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-072",
+      "name": "Hotori",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "1",
+      "power": "2000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Sky Island",
+      "effect": "[Activate: Main] DON!! −2, You may rest this Character: If you have [Kotori] and [Satori], give up to 1 of your opponent's Characters −3000 power during this turn.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-072.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-072.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-072_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-073",
+      "name": "Yama",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "3",
+      "power": "4000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Sky Island",
+      "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] Play up to 1 [Heavenly Warriors] with a cost of 1 or up to 1 {Vassals} type Character card with a cost of 1 from your hand.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-073.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-073.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-073_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-074",
+      "name": "Varie",
+      "rarity": "UC",
+      "cardType": "EVENT",
+      "color": "Purple",
+      "cost": "-",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Sky Island",
+      "effect": "[Main] DON!! −1: If your Leader is [Enel], draw 1 card. Then, up to 1 of your Characters gains +2 cost until the end of your opponent's next End Phase.[Counter] Up to 1 of your [Enel] cards gains +2000 power during this battle.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-074.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-074.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-074_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-075",
+      "name": "El Thor",
+      "rarity": "UC",
+      "cardType": "EVENT",
+      "color": "Purple",
+      "cost": "-",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Sky Island",
+      "effect": "[Main] DON!! −1: If your Leader is [Enel], up to 1 of your Leader or Character cards gains +1000 power during this turn. Then, K.O. up to 1 of your opponent's Characters with 3000 power or less.[Counter] Up to 1 of your [Enel] cards gains +2000 power during this battle.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-075.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-075.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-075_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-076",
+      "name": "Lightning Beast Kiten",
+      "rarity": "UC",
+      "cardType": "EVENT",
+      "color": "Purple",
+      "cost": "-",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Sky Island",
+      "effect": "[Main] DON!! −1: If your Leader is [Enel], draw 1 card. Then, give up to 1 of your opponent's Characters −1000 power during this turn.[Counter] Up to 1 of your [Enel] cards gains +2000 power during this battle.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-076.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-076.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-076_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-077",
+      "name": "Lightning Dragon",
+      "rarity": "R",
+      "cardType": "EVENT",
+      "color": "Purple",
+      "cost": "-",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Sky Island",
+      "effect": "[Main] DON!! −1: Draw 1 card. Then, up to 1 of your opponent's rested Characters with 6000 power or less will not become active in your opponent's next Refresh Phase.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-077.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-077.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-077_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-078",
+      "name": "Mamaragan",
+      "rarity": "SR",
+      "cardType": "EVENT",
+      "color": "Purple",
+      "cost": "-",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Sky Island",
+      "effect": "[Main] DON!! −2: Draw 1 card. Then, rest up to 1 of your opponent's Characters with 5000 power or less.[Counter] Up to 1 of your Leader or Character cards gains +1000 power during this battle. Then, if you have 6 or less DON!! cards on your field, draw 1 card.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-078.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-078.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-078_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-079",
+      "name": "Absalom",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "4",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Ranged",
+      "type": "Thriller Bark Pirates",
+      "effect": "[On K.O.] Add up to 1 {Thriller Bark Pirates} type card from your trash to your hand.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-079.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-079.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-079_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-080",
+      "name": "Oars",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "4",
+      "power": "-",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Giant/Thriller Bark Pirates",
+      "effect": "If you have [Gecko Moria] with 10000 power or more on your field and there are no other [Oars] cards, this Character gains +7000 power.[On K.O.] You may place 3 cards from your trash at the bottom of your deck in any order: Play this Character card from your trash.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-080.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-080.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-080_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-081",
+      "name": "Sanji",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "1",
+      "power": "2000",
+      "counter": "2000",
+      "attribute": "Strike",
+      "type": "Straw Hat Crew",
+      "effect": "[On Play] If your Leader has the {Straw Hat Crew} type, trash 5 cards from the top of your deck.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-081.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-081.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-081_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-082",
+      "name": "Charlotte Lola",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "4",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Rolling Pirates",
+      "effect": "[On Play] Trash 3 cards from the top of your deck.[On K.O.] Add up to 1 of your Character cards with a cost of 8 or less from your trash to your hand.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-082.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-082.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-082_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-083",
+      "name": "Spoil",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "1",
+      "power": "-",
+      "counter": "2000",
+      "attribute": "Wisdom",
+      "type": "The Victims' Club",
+      "effect": "[On Play] Trash 3 cards from the top of your deck.[Activate: Main] You may trash this Character: If you have 15 or more cards in your trash, give up to 1 rested DON!! card to 1 of your Leader or Character cards.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-083.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-083.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-083_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-084",
+      "name": "Dr. Hogback",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "1",
+      "power": "2000",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "Thriller Bark Pirates",
+      "effect": "[On Play] If your Leader has the {Thriller Bark Pirates} type, trash 5 cards from the top of your deck.[On K.O.] If you have 6 or less cards in your hand, draw 1 card.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-084.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-084.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-084_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-085",
+      "name": "Tony Tony.Chopper",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "2",
+      "power": "2000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Animal/Straw Hat Crew",
+      "effect": "[On Play] Trash 3 cards from the top of your deck.[Activate: Main] You may trash this Character: If your Leader has the {Straw Hat Crew} type, add up to 1 {Straw Hat Crew} type Character card other than [Tony Tony.Chopper] from your trash to your hand.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-085.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-085.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-085_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-086",
+      "name": "Nami",
+      "rarity": "SR",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "8",
+      "power": "6000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "Straw Hat Crew",
+      "effect": "[On Play] If your Leader has the {Straw Hat Crew} type, play up to 1 {Straw Hat Crew} type Character with a cost of 7 or less from your trash. The Character played with this effect gains [Rush] during this turn.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-086.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-086.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-086_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-087",
+      "name": "Nico Robin",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "5",
+      "power": "7000",
+      "counter": "-",
+      "attribute": "Strike",
+      "type": "Straw Hat Crew",
+      "effect": "If you have 10 or more cards in your trash, this Character gains [Blocker].[On Play] Draw 2 cards and trash 2 cards from your hand.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-087.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-087.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-087_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-088",
+      "name": "Pirates Docking Six",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "5",
+      "power": "7000",
+      "counter": "-",
+      "attribute": "Strike",
+      "type": "Straw Hat Crew",
+      "effect": "This Character gains +6 cost.[On Play] You may trash 3 cards from the top of your deck: Play up to 1 {Straw Hat Crew} type Character card with a cost of 2 or less from your trash.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-088.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-088.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-088_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-089",
+      "name": "Franky",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "5",
+      "power": "6000",
+      "counter": "2000",
+      "attribute": "Strike",
+      "type": "Straw Hat Crew",
+      "effect": "-",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-089.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-089.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-089_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-090",
+      "name": "Perona",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "1",
+      "power": "2000",
+      "counter": "2000",
+      "attribute": "Special",
+      "type": "Thriller Bark Pirates",
+      "effect": "If your Character with 7000 base power or less would be removed from the field by your opponent's effect, you may trash 1 card from your hand instead.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-090.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-090.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-090_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-091",
+      "name": "Margarita",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "1",
+      "power": "-",
+      "counter": "2000",
+      "attribute": "Wisdom",
+      "type": "The Owner of Cindry's Shadow",
+      "effect": "[On Play] Place up to 1 card from your opponent's trash at the bottom of the owner's deck.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-091.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-091.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-091_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-092",
+      "name": "Monkey.D.Luffy",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "7",
+      "power": "7000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Straw Hat Crew",
+      "effect": "Apply each of the following effects based on the number of cards in your trash:• If there are 10 or more cards, this Character's base power becomes 9000 and it gains +10 cost.• If you have 20 or more cards, during your opponent's turn, your Leader's base power becomes 7000.• If you have 30 or more cards, this Character gains +1000 power.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-092.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-092.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-092_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-093",
+      "name": "The Risky Brothers",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "1",
+      "power": "2000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Rolling Pirates",
+      "effect": "[Activate: Main] You may trash this Character: If you have 15 or more cards in your trash, up to 1 of your [Monkey.D.Luffy] Characters gains [Rush: Character] and the <Slash> attribute during this turn.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-093.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-093.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-093_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-094",
+      "name": "Roronoa Zoro",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "2",
+      "power": "1000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Straw Hat Crew",
+      "effect": "If your {Straw Hat Crew} type Character other than this Character would be removed from the field by your opponent's effect, you may trash this Character instead.[Blocker]",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-094.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-094.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-094_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-095",
+      "name": "Gum-Gum Storm",
+      "rarity": "UC",
+      "cardType": "EVENT",
+      "color": "Black",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Straw Hat Crew",
+      "effect": "[Main] You may rest 1 of your DON!! cards: If you have 15 or more cards in your trash, up to 1 of your {Straw Hat Crew} type Leader or Character cards gains +3000 power during this turn.[Counter] If you have 15 or more cards in your trash, up to 1 of your Leader or Character cards gains +4000 power during this battle.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-095.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-095.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-095_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-096",
+      "name": "Swallow Bond en Avant",
+      "rarity": "R",
+      "cardType": "EVENT",
+      "color": "Black",
+      "cost": "-",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Straw Hat Crew",
+      "effect": "[Main] You may rest 1 of your DON!! cards: If your Leader has the {Straw Hat Crew} type, trash 5 cards from the top of your deck.[Counter] You may trash 1 card from your hand: Up to 1 of your Leader or Character cards gains +3000 power during this battle.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-096.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-096.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-096_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-097",
+      "name": "I Find It Embarrassing as a Human Being",
+      "rarity": "C",
+      "cardType": "EVENT",
+      "color": "Black",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Straw Hat Crew",
+      "effect": "[Main] If you have 10 or more cards in your trash, up to 1 of your opponent's Characters with a base cost of 5 or less cannot attack until the end of your opponent's next End Phase.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-097.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-097.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-097_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-098",
+      "name": "Monkey.D.Luffy",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Yellow",
+      "cost": "5",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Strike",
+      "type": "Sky Island/Straw Hat Crew",
+      "effect": "If your {Sky Island} type Character with 6000 base power or more would be removed from the field by your opponent, you may add 1 card from the top of your Life cards to your hand instead.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-098.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-098.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-098_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-099",
+      "name": "Urouge",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "6",
+      "power": "7000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Sky Island/Supernovas/Fallen Monk Pirates",
+      "effect": "[On Play] You may trash 1 {Supernovas} type card from your hand: This Character gains [Rush] during this turn.[Activate: Main] You may turn 1 card from the top of your Life cards face-down: Give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-099.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-099.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-099_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-100",
+      "name": "Kamakiri",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "5",
+      "power": "6000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Sky Island/Shandian Warrior",
+      "effect": "[On Play] You may trash this Character and add 1 card from the top of your Life cards to your hand: K.O. up to 1 of your opponent's Characters with a cost of 6 or less.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-100.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-100.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-100_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-101",
+      "name": "Kalgara",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "3",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "Jaya/Sky Island/Shandian Warrior",
+      "effect": "[On Play] You may trash 1 card from your hand: Look at 5 cards from the top of your deck; reveal up to a total of 2 [Mont Blanc Noland] or {Shandian Warrior} type cards and add them to your hand. Then, place the rest at the bottom of your deck in any order.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-101.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-101.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-101_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-102",
+      "name": "Gan.Fall",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "4",
+      "power": "4000",
+      "counter": "2000",
+      "attribute": "Slash",
+      "type": "Sky Island",
+      "effect": "If you have a {Sky Island} type Character with 7000 power or more, give this card in your hand −3 cost.[On Play] Rest up to 1 of your opponent's Characters with a cost equal to or less than the number of your opponent's Life cards.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-102.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-102.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-102_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-103",
+      "name": "Genbo",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "3",
+      "power": "4000",
+      "counter": "1000",
+      "attribute": "Ranged",
+      "type": "Sky Island/Shandian Warrior",
+      "effect": "-",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-103.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-103.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-103_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-104",
+      "name": "Conis",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "1",
+      "power": "-",
+      "counter": "2000",
+      "attribute": "Wisdom",
+      "type": "Sky Island",
+      "effect": "[On Play] If you have less Life cards than your opponent, draw 2 cards and trash 2 cards from your hand.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-104.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-104.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-104_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-105",
+      "name": "Jewelry Bonney",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "1",
+      "power": "2000",
+      "counter": "2000",
+      "attribute": "Special",
+      "type": "Supernovas/Bonney Pirates",
+      "effect": "If your Character with 7000 base power or less would be removed from the field by your opponent's effect, you may add 1 card from the top of your Life cards to your hand instead.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-105.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-105.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-105_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-106",
+      "name": "Octoballoon",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "2",
+      "power": "-",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "Animal/Sky Island",
+      "effect": "-",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-106.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-106.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-106_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-107",
+      "name": "Tony Tony.Chopper",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "4",
+      "power": "6000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Animal/Sky Island/Straw Hat Crew",
+      "effect": "-",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-107.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-107.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-107_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-108",
+      "name": "Nami",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "1",
+      "power": "2000",
+      "counter": "2000",
+      "attribute": "Special",
+      "type": "Sky Island/Straw Hat Crew",
+      "effect": "[On Play] Look at 3 cards from the top of your deck; reveal up to 1 {Sky Island} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-108.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-108.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-108_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-109",
+      "name": "Nico Robin",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "7",
+      "power": "7000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Sky Island/Straw Hat Crew",
+      "effect": "[On Play] You may add 1 card from the top of your Life cards to your hand: If your Leader has the {Straw Hat Crew} type, add up to 1 card from the top of your deck to the top of your Life cards. Then, play up to 1 {Sky Island} type Character card with a cost of 5 or less from your hand.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-109.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-109.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-109_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-110",
+      "name": "Braham",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "3",
+      "power": "4000",
+      "counter": "2000",
+      "attribute": "Ranged",
+      "type": "Sky Island/Shandian Warrior",
+      "effect": "[On K.O.] If your Leader has the {Shandian Warrior} type, add up to 1 card from the top of your deck to the top of your Life cards.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-110.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-110.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-110_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-111",
+      "name": "Mont Blanc Noland",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "4",
+      "power": "5000",
+      "counter": "2000",
+      "attribute": "Slash",
+      "type": "Jaya/Botanist",
+      "effect": "[DON!! x1] [When Attacking] Up to 1 of your [Kalgara] cards gains [Rush] during this turn.(This card can attack on the turn in which it is played.)",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-111.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-111.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-111_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-112",
+      "name": "Raki",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "4",
+      "power": "4000",
+      "counter": "1000",
+      "attribute": "Ranged",
+      "type": "Sky Island/Shandian Warrior",
+      "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] Play up to 1 {Shandian Warrior} type Character card with a cost of 3 or less from your hand.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-112.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-112.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-112_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-113",
+      "name": "Roronoa Zoro",
+      "rarity": "SR",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "4",
+      "power": "6000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "Sky Island/Straw Hat Crew",
+      "effect": "[On Play] You may trash 1 card from your hand: Add up to 1 card from the top of your deck to the top of your Life cards.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-113.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-113.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-113_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-114",
+      "name": "Wyper",
+      "rarity": "SR",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "5",
+      "power": "6000",
+      "counter": "1000",
+      "attribute": "Ranged",
+      "type": "Sky Island/Shandian Warrior",
+      "effect": "[On Play] You may turn 1 card from the top of your Life cards face-up: Give all of your opponent's Characters −2000 power during this turn. Then, K.O. all of your opponent's Characters with 0 power or less.[Activate: Main] [Once Per Turn] Give up to 1 rested DON!! card to 1 of your {Sky Island} type Leader or Character cards.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-114.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-114.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-114_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-115",
+      "name": "Impact Dial",
+      "rarity": "C",
+      "cardType": "EVENT",
+      "color": "Yellow",
+      "cost": "2",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Sky Island/Straw Hat Crew",
+      "effect": "[Main] K.O. up to 1 of your opponent's Characters with a cost of 4 or less. Then, add 1 card from the top of your Life cards to your hand.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-115.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-115.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-115_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-116",
+      "name": "Gum-Gum Golden Rifle",
+      "rarity": "R",
+      "cardType": "EVENT",
+      "color": "Yellow",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Sky Island/Straw Hat Crew",
+      "effect": "[Main] If your Leader has the {Straw Hat Crew} type, trash 1 card from the top of your Life cards. Then, add up to 1 card from the top of your deck to the top of your Life cards and trash 1 card from your hand.[Counter] Your Leader gains +4000 power during this battle.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-116.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-116.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-116_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-117",
+      "name": "Heso!!",
+      "rarity": "UC",
+      "cardType": "EVENT",
+      "color": "Yellow",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Sky Island",
+      "effect": "[Main] Draw 1 card. Then, give up to 1 rested DON!! card to 1 of your {Sky Island} type Leader or Character cards.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-117.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-117.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-117_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-118",
+      "name": "Enel",
+      "rarity": "SEC",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "6",
+      "power": "8000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "Sky Island",
+      "effect": "If you have 6 or less DON!! cards on your field, this Character cannot be removed from the field by your opponent's effects and gains +2000 power.[On Play] DON!! −1: Look at 5 cards from the top of your deck and add up to 1 card to your hand. Then, place the rest at the bottom of your deck in any order, and trash 1 card from your hand.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-118.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-118.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-118_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP15-119",
+      "name": "Monkey.D.Luffy",
+      "rarity": "SEC",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "5",
+      "power": "7000",
+      "counter": "-",
+      "attribute": "Strike",
+      "type": "Sky Island/Straw Hat Crew",
+      "effect": "If you have 6 or more DON!! cards on your field, this Character gains [Rush].When your opponent activates an Event or [Blocker], reveal up to 1 card from the top of your Life cards. This Character gains +1000 power during this turn per 1 cost on the revealed card.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP15-119.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP15-119.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP15/OP15-119_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "P-105",
+      "name": "Sabo",
+      "rarity": "SP CARD",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "4",
+      "power": "6000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "Revolutionary Army",
+      "effect": "If your Leader has the {Revolutionary Army} type, this Character gains [Blocker] and +4 cost.[On Play] You may add 1 card from the top or bottom of your Life cards to your hand: Give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/P-105_p1.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/P-105_p1.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/P/P-105_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "P-115",
+      "name": "Boa Hancock",
+      "rarity": "P",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "6",
+      "power": "7000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "The Seven Warlords of the Sea/Kuja Pirates",
+      "effect": "[On Play] Give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+      "cardSets": "Card Set(s)OP15-EB04 Release Event",
+      "img": "https://optcgapi.com/media/static/Card_Images/P-115.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/P-115.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/P/P-115_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "ST26-005",
+      "name": "Monkey.D.Luffy",
+      "rarity": "SP CARD",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "6",
+      "power": "7000",
+      "counter": "-",
+      "attribute": "Strike",
+      "type": "Straw Hat Crew",
+      "effect": "[On Play]/[When Attacking] DON!! −2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your Leader is multicolored and your opponent has 5 or more DON!! cards on their field, your {Straw Hat Crew} type Leader's base power becomes 7000 until the end of your opponent's next End Phase.",
+      "cardSets": "Card Set(s)-ADVENTURE ON KAMI'S ISLAND- [OP15-EB04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/ST26-005_p1.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/ST26-005_p1.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/ST26/ST26-005_EN.webp"
+      ]
+    }
+  ]
+}

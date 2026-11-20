@@ -1,0 +1,328 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-11-12T03:10:41.262Z",
+  "description": "Official One Piece Card Game (OP-TCG) Individual Set Databases with Complete Commons, Uncommons, Rares, SRs, SECs, Leaders & SPs",
+  "totalSets": 20,
+  "sets": [
+    {
+      "setId": "op01RomanceDawn",
+      "setName": "OP-01: Romance Dawn",
+      "file": "op01.json",
+      "url": "/data/onepiece/op01.json",
+      "counts": {
+        "total": 104,
+        "Common": 44,
+        "Uncommon": 25,
+        "Rare": 22,
+        "SuperRare": 5,
+        "SecretRare": 0,
+        "Leader": 8,
+        "Special": 0
+      }
+    },
+    {
+      "setId": "op02ParamountWar",
+      "setName": "OP-02: Paramount War",
+      "file": "op02.json",
+      "url": "/data/onepiece/op02.json",
+      "counts": {
+        "total": 107,
+        "Common": 45,
+        "Uncommon": 26,
+        "Rare": 23,
+        "SuperRare": 4,
+        "SecretRare": 0,
+        "Leader": 8,
+        "Special": 1
+      }
+    },
+    {
+      "setId": "op03PillarsStrength",
+      "setName": "OP-03: Pillars of Strength",
+      "file": "op03.json",
+      "url": "/data/onepiece/op03.json",
+      "counts": {
+        "total": 100,
+        "Common": 43,
+        "Uncommon": 25,
+        "Rare": 18,
+        "SuperRare": 5,
+        "SecretRare": 0,
+        "Leader": 8,
+        "Special": 1
+      }
+    },
+    {
+      "setId": "op04KingdomsIntrigue",
+      "setName": "OP-04: Kingdoms of Intrigue",
+      "file": "op04.json",
+      "url": "/data/onepiece/op04.json",
+      "counts": {
+        "total": 103,
+        "Common": 40,
+        "Uncommon": 29,
+        "Rare": 22,
+        "SuperRare": 3,
+        "SecretRare": 1,
+        "Leader": 6,
+        "Special": 2
+      }
+    },
+    {
+      "setId": "op05Awakening",
+      "setName": "OP-05: Awakening of the New Era",
+      "file": "op05.json",
+      "url": "/data/onepiece/op05.json",
+      "counts": {
+        "total": 86,
+        "Common": 42,
+        "Uncommon": 22,
+        "Rare": 16,
+        "SuperRare": 3,
+        "SecretRare": 0,
+        "Leader": 1,
+        "Special": 2
+      }
+    },
+    {
+      "setId": "op06WingsCaptain",
+      "setName": "OP-06: Wings of the Captain",
+      "file": "op06.json",
+      "url": "/data/onepiece/op06.json",
+      "counts": {
+        "total": 82,
+        "Common": 39,
+        "Uncommon": 17,
+        "Rare": 17,
+        "SuperRare": 3,
+        "SecretRare": 0,
+        "Leader": 0,
+        "Special": 6
+      }
+    },
+    {
+      "setId": "op07FiveHundred",
+      "setName": "OP-07: 500 Years in the Future",
+      "file": "op07.json",
+      "url": "/data/onepiece/op07.json",
+      "counts": {
+        "total": 97,
+        "Common": 44,
+        "Uncommon": 24,
+        "Rare": 23,
+        "SuperRare": 2,
+        "SecretRare": 0,
+        "Leader": 0,
+        "Special": 4
+      }
+    },
+    {
+      "setId": "op08TwoLegends",
+      "setName": "OP-08: Two Legends",
+      "file": "op08.json",
+      "url": "/data/onepiece/op08.json",
+      "counts": {
+        "total": 108,
+        "Common": 44,
+        "Uncommon": 28,
+        "Rare": 24,
+        "SuperRare": 7,
+        "SecretRare": 1,
+        "Leader": 0,
+        "Special": 4
+      }
+    },
+    {
+      "setId": "op09EmperorsNewWorld",
+      "setName": "OP-09: Emperors in the New World",
+      "file": "op09.json",
+      "url": "/data/onepiece/op09.json",
+      "counts": {
+        "total": 93,
+        "Common": 42,
+        "Uncommon": 25,
+        "Rare": 13,
+        "SuperRare": 2,
+        "SecretRare": 0,
+        "Leader": 6,
+        "Special": 5
+      }
+    },
+    {
+      "setId": "op10RoyalBlood",
+      "setName": "OP-10: Royal Blood",
+      "file": "op10.json",
+      "url": "/data/onepiece/op10.json",
+      "counts": {
+        "total": 105,
+        "Common": 42,
+        "Uncommon": 28,
+        "Rare": 20,
+        "SuperRare": 5,
+        "SecretRare": 1,
+        "Leader": 6,
+        "Special": 3
+      }
+    },
+    {
+      "setId": "op11FistDivineSpeed",
+      "setName": "OP-11: A Fist of Divine Speed",
+      "file": "op11.json",
+      "url": "/data/onepiece/op11.json",
+      "counts": {
+        "total": 117,
+        "Common": 45,
+        "Uncommon": 29,
+        "Rare": 25,
+        "SuperRare": 9,
+        "SecretRare": 2,
+        "Leader": 4,
+        "Special": 3
+      }
+    },
+    {
+      "setId": "op12LegacyMaster",
+      "setName": "OP-12: Legacy of the Master",
+      "file": "op12.json",
+      "url": "/data/onepiece/op12.json",
+      "counts": {
+        "total": 122,
+        "Common": 45,
+        "Uncommon": 30,
+        "Rare": 25,
+        "SuperRare": 7,
+        "SecretRare": 2,
+        "Leader": 6,
+        "Special": 7
+      }
+    },
+    {
+      "setId": "op13CarryingWill",
+      "setName": "OP-13: Carrying on His Will",
+      "file": "op13.json",
+      "url": "/data/onepiece/op13.json",
+      "counts": {
+        "total": 120,
+        "Common": 45,
+        "Uncommon": 30,
+        "Rare": 24,
+        "SuperRare": 8,
+        "SecretRare": 3,
+        "Leader": 5,
+        "Special": 5
+      }
+    },
+    {
+      "setId": "op14AzureSea",
+      "setName": "OP-14: The Azure Sea’s Seven",
+      "file": "op14.json",
+      "url": "/data/onepiece/op14.json",
+      "counts": {
+        "total": 153,
+        "Common": 58,
+        "Uncommon": 31,
+        "Rare": 36,
+        "SuperRare": 13,
+        "SecretRare": 2,
+        "Leader": 6,
+        "Special": 7
+      }
+    },
+    {
+      "setId": "op15KamisIsland",
+      "setName": "OP-15: Adventure on Kami’s Island",
+      "file": "op15.json",
+      "url": "/data/onepiece/op15.json",
+      "counts": {
+        "total": 153,
+        "Common": 59,
+        "Uncommon": 30,
+        "Rare": 35,
+        "SuperRare": 13,
+        "SecretRare": 2,
+        "Leader": 6,
+        "Special": 8
+      }
+    },
+    {
+      "setId": "op16TimeOfBattle",
+      "setName": "OP-16: The Time of Battle",
+      "file": "op16.json",
+      "url": "/data/onepiece/op16.json",
+      "counts": {
+        "total": 125,
+        "Common": 45,
+        "Uncommon": 30,
+        "Rare": 26,
+        "SuperRare": 9,
+        "SecretRare": 2,
+        "Leader": 6,
+        "Special": 7
+      }
+    },
+    {
+      "setId": "op17StrongestWarriors",
+      "setName": "OP-17: The World’s Strongest Warriors",
+      "file": "op17.json",
+      "url": "/data/onepiece/op17.json",
+      "counts": {
+        "total": 128,
+        "Common": 45,
+        "Uncommon": 30,
+        "Rare": 24,
+        "SuperRare": 10,
+        "SecretRare": 3,
+        "Leader": 6,
+        "Special": 10
+      }
+    },
+    {
+      "setId": "eb01Memorial",
+      "setName": "EB-01: Memorial Collection",
+      "file": "eb01.json",
+      "url": "/data/onepiece/eb01.json",
+      "counts": {
+        "total": 46,
+        "Common": 24,
+        "Uncommon": 0,
+        "Rare": 19,
+        "SuperRare": 3,
+        "SecretRare": 0,
+        "Leader": 0,
+        "Special": 0
+      }
+    },
+    {
+      "setId": "eb02Anime25th",
+      "setName": "EB-02: Anime 25th Collection",
+      "file": "eb02.json",
+      "url": "/data/onepiece/eb02.json",
+      "counts": {
+        "total": 86,
+        "Common": 29,
+        "Uncommon": 0,
+        "Rare": 21,
+        "SuperRare": 9,
+        "SecretRare": 0,
+        "Leader": 27,
+        "Special": 0
+      }
+    },
+    {
+      "setId": "prb01Premium",
+      "setName": "PRB-01: Premium Booster",
+      "file": "prb01.json",
+      "url": "/data/onepiece/prb01.json",
+      "counts": {
+        "total": 108,
+        "Common": 23,
+        "Uncommon": 24,
+        "Rare": 21,
+        "SuperRare": 28,
+        "SecretRare": 7,
+        "Leader": 1,
+        "Special": 4
+      }
+    }
+  ]
+}

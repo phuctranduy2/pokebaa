@@ -1,0 +1,1975 @@
+{
+  "setId": "op04KingdomsIntrigue",
+  "setName": "OP-04: Kingdoms of Intrigue",
+  "series": "Kingdoms of Intrigue",
+  "jsonPath": "/data/onepiece/op04.json",
+  "counts": {
+    "total": 103,
+    "Common": 40,
+    "Uncommon": 29,
+    "Rare": 22,
+    "SuperRare": 3,
+    "SecretRare": 1,
+    "Leader": 6,
+    "Special": 2
+  },
+  "cards": [
+    {
+      "cardNum": "OP02-085",
+      "name": "Magellan",
+      "rarity": "SP CARD",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "5",
+      "power": "6000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "Impel Down",
+      "effect": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Your opponent returns 1 DON!! card from their field to their DON!! deck.[Opponent's Turn] When this Character is K.O.'d, your opponent returns 2 DON!! cards from their field to their DON!! deck.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP02-085_p2.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP02-085_p2.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP02/OP02-085_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-001",
+      "name": "Nefeltari Vivi",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Red/Blue",
+      "cost": "5",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "Alabasta",
+      "effect": "This Leader cannot attack.[Activate: Main] [Once Per Turn] ➁ (You may rest the specified number of DON!! cards in your cost area.): Draw 1 card and up to 1 of your Characters gains [Rush] during this turn.(This card can attack on the turn in which it is played.)",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-001.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-001.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-001_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-002",
+      "name": "Igaram",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "2",
+      "power": "3000",
+      "counter": "1000",
+      "attribute": "Ranged",
+      "type": "Alabasta",
+      "effect": "[Activate: Main] You may rest this Character and give your 1 active Leader −5000 power during this turn: Look at 5 cards from the top of your deck; reveal up to 1 {Alabasta} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-002.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-002.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-002_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-003",
+      "name": "Usopp",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "4",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "Alabasta/Straw Hat Crew",
+      "effect": "[On K.O.] K.O. up to 1 of your opponent's Characters with 5000 base power or less.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-003.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-003.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-003_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-004",
+      "name": "Karoo",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "1",
+      "power": "2000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Animal/Alabasta",
+      "effect": "[Activate: Main] You may rest this Character: Give up to 1 rested DON!! card to each of your {Alabasta} type Characters.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-004.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-004.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-004_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-005",
+      "name": "Kung Fu Jugon",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "1",
+      "power": "1000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Animal/Alabasta",
+      "effect": "If you have a [Kung Fu Jugon] other than this Character, this Character gains [Blocker].(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-005.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-005.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-005_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-006",
+      "name": "Koza",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "3",
+      "power": "3000",
+      "counter": "2000",
+      "attribute": "Slash",
+      "type": "Alabasta",
+      "effect": "[When Attacking] You may give your 1 active Leader −5000 power during this turn: This Character gains +2000 power until the start of your next turn.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-006.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-006.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-006_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-007",
+      "name": "Sanji",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "1",
+      "power": "3000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Alabasta/Straw Hat Crew",
+      "effect": "-",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-007.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-007.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-007_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-008",
+      "name": "Chaka",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "3",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "Alabasta",
+      "effect": "[DON!! x1] [When Attacking] If your Leader is [Nefeltari Vivi], give up to 1 of your opponent's Characters −3000 power during this turn. Then, K.O. up to 1 of your opponent's Characters with 0 power or less.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-008.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-008.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-008_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-009",
+      "name": "Super Spot-Billed Duck Troops",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "2",
+      "power": "3000",
+      "counter": "2000",
+      "attribute": "Strike",
+      "type": "Animal/Alabasta",
+      "effect": "[When Attacking] You may give your 1 active Leader −5000 power during this turn: Return this Character to the owner's hand at the end of this turn.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-009.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-009.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-009_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-010",
+      "name": "Tony Tony.Chopper",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "3",
+      "power": "4000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Animal/Alabasta/Straw Hat Crew",
+      "effect": "[On Play] Play up to 1 {Animal} type Character card with 3000 power or less from your hand.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-010.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-010.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-010_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-011",
+      "name": "Nami",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "2",
+      "power": "3000",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "Alabasta/Straw Hat Crew",
+      "effect": "[When Attacking] Reveal 1 card from the top of your deck. If the revealed card is a Character card with 6000 power or more, this Character gains +3000 power during this turn. Then, place the revealed card at the bottom of your deck.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-011.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-011.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-011_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-012",
+      "name": "Nefeltari Cobra",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "2",
+      "power": "-",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "Alabasta",
+      "effect": "[Your Turn] All of your {Alabasta} type Characters other than this Character gain +1000 power.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-012.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-012.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-012_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-013",
+      "name": "Pell",
+      "rarity": "SR",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "5",
+      "power": "6000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "Alabasta",
+      "effect": "[DON!! x1] [When Attacking] K.O. up to 1 of your opponent's Characters with 4000 power or less.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-013.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-013.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-013_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-014",
+      "name": "Monkey.D.Luffy",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "8",
+      "power": "9000",
+      "counter": "-",
+      "attribute": "Strike",
+      "type": "Alabasta/Straw Hat Crew",
+      "effect": "[Banish] (When this card deals damage, the target card is trashed without activating its Trigger.)",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-014.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-014.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-014_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-015",
+      "name": "Roronoa Zoro",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "5",
+      "power": "6000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Alabasta/Straw Hat Crew",
+      "effect": "[On Play] Give up to 1 of your opponent's Characters −2000 power during this turn.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-015.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-015.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-015_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-017",
+      "name": "Happiness Punch",
+      "rarity": "C",
+      "cardType": "EVENT",
+      "color": "Red",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Alabasta/Straw Hat Crew",
+      "effect": "[Counter] Give up to 1 of your opponent's Leader or Character cards −2000 power during this turn. Then, if your Leader is active, give up to 1 of your opponent's Leader or Character cards −1000 power during this turn.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-017.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-017.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-017_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-018",
+      "name": "Enchanting Vertigo Dance",
+      "rarity": "UC",
+      "cardType": "EVENT",
+      "color": "Red",
+      "cost": "3",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Alabasta",
+      "effect": "[Main] If your Leader has the {Alabasta} type, give up to 2 of your opponent's Characters −2000 power during this turn.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-018.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-018.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-018_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-019",
+      "name": "Donquixote Doflamingo",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Green/Purple",
+      "cost": "4",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "The Seven Warlords of the Sea/Donquixote Pirates",
+      "effect": "[End of Your Turn] Set up to 2 of your DON!! cards as active.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-019.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-019.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-019_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-020",
+      "name": "Issho",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Green/Black",
+      "cost": "4",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "Navy",
+      "effect": "[DON!! x1] [Your Turn] Give all of your opponent's Characters −1 cost.[End of Your Turn] ➀ (You may rest the specified number of DON!! cards in your cost area.): Set up to 1 of your Characters with a cost of 5 or less as active.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-020.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-020.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-020_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-021",
+      "name": "Viola",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "3",
+      "power": "3000",
+      "counter": "2000",
+      "attribute": "Special",
+      "type": "Donquixote Pirates",
+      "effect": "[On Your Opponent's Attack] ➁ (You may rest the specified number of DON!! cards in your cost area.): Rest up to 1 of your opponent's DON!! cards.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-021.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-021.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-021_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-022",
+      "name": "Eric",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "1",
+      "power": "2000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "East Blue",
+      "effect": "[Activate: Main] You may rest this Character: Rest up to 1 of your opponent's Characters with a cost of 1 or less.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-022.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-022.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-022_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-023",
+      "name": "Kuro",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "6",
+      "power": "8000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "East Blue/Black Cat Pirates",
+      "effect": "-",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-023.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-023.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-023_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-025",
+      "name": "Giolla",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "4",
+      "power": "4000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Donquixote Pirates",
+      "effect": "[On Your Opponent's Attack] ➁ (You may rest the specified number of DON!! cards in your cost area.): Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-025.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-025.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-025_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-026",
+      "name": "Senor Pink",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "3",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "Donquixote Pirates",
+      "effect": "[When Attacking] ➀ (You may rest the specified number of DON!! cards in your cost area.): If your Leader has the {Donquixote Pirates} type, rest up to 1 of your opponent's Characters with a cost of 4 or less. Then, set up to 1 of your DON!! cards as active at the end of this turn.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-026.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-026.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-026_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-027",
+      "name": "Daddy Masterson",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "4",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Ranged",
+      "type": "East Blue/Former Navy",
+      "effect": "[DON!! x1] [End of Your Turn] Set this Character as active.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-027.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-027.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-027_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-028",
+      "name": "Diamante",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "5",
+      "power": "6000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Donquixote Pirates",
+      "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[DON!! x1] [End of Your Turn] If you have 2 or more active DON!! cards, set this Character as active.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-028.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-028.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-028_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-030",
+      "name": "Trebol",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "6",
+      "power": "6000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "Donquixote Pirates",
+      "effect": "[On Play] K.O. up to 1 of your opponent's rested Characters with a cost of 5 or less.[On Your Opponent's Attack] ➁ (You may rest the specified number of DON!! cards in your cost area.): Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-030.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-030.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-030_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-033",
+      "name": "Machvise",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "4",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Donquixote Pirates",
+      "effect": "[On Play] If your Leader has the {Donquixote Pirates} type, rest up to 1 of your opponent's Characters with a cost of 5 or less. Then, set up to 1 of your DON!! cards as active at the end of this turn.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-033.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-033.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-033_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-034",
+      "name": "Lao.G",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "4",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Donquixote Pirates",
+      "effect": "[End of Your Turn] If you have 3 or more active DON!! cards, K.O. up to 1 of your opponent's rested Characters with a cost of 3 or less.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-034.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-034.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-034_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-035",
+      "name": "Spiderweb",
+      "rarity": "R",
+      "cardType": "EVENT",
+      "color": "Green",
+      "cost": "2",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "The Seven Warlords of the Sea/Donquixote Pirates",
+      "effect": "[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, set up to 1 of your Characters as active.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-035.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-035.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-035_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-037",
+      "name": "Flapping Thread",
+      "rarity": "UC",
+      "cardType": "EVENT",
+      "color": "Green",
+      "cost": "2",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "The Seven Warlords of the Sea/Donquixote Pirates",
+      "effect": "[Counter] If your Leader has the {Donquixote Pirates} type, up to 1 of your Leader or Character cards gains +2000 power during this turn.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-037.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-037.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-037_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-038",
+      "name": "The Weak Do Not Have the Right to Choose How They Die!!!",
+      "rarity": "C",
+      "cardType": "EVENT",
+      "color": "Green",
+      "cost": "5",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "The Seven Warlords of the Sea/Donquixote Pirates",
+      "effect": "[Main]/[Counter] Rest up to 1 of your opponent's Leader or Character cards. Then, K.O. up to 1 of your opponent's rested Characters with a cost of 6 or less.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-038.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-038.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-038_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-039",
+      "name": "Rebecca",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Blue/Black",
+      "cost": "5",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "Dressrosa",
+      "effect": "This Leader cannot attack.[Activate: Main] [Once Per Turn] ➀ (You may rest the specified number of DON!! cards in your cost area.): If you have 6 or less cards in your hand, look at 2 cards from the top of your deck; reveal up to 1 {Dressrosa} type card and add it to your hand. Then, trash the rest.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-039.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-039.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-039_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-040",
+      "name": "Queen",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Blue/Yellow",
+      "cost": "4",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Ranged",
+      "type": "Animal Kingdom Pirates",
+      "effect": "[DON!! x1] [When Attacking] If you have a total of 4 or less cards in your Life area and hand, draw 1 card. If you have a Character with a cost of 8 or more, you may add up to 1 card from the top of your deck to the top of your Life cards instead of drawing 1 card.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-040.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-040.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-040_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-041",
+      "name": "Apis",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "1",
+      "power": "-",
+      "counter": "2000",
+      "attribute": "Wisdom",
+      "type": "East Blue",
+      "effect": "[On Play] You may trash 2 cards from your hand: Look at 5 cards from the top of your deck; reveal up to 1 {East Blue} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-041.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-041.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-041_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-042",
+      "name": "Ipponmatsu",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "2",
+      "power": "1000",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "East Blue",
+      "effect": "[On Play] Up to 1 of your  attribute Characters gains +3000 power during this turn. Then, trash 1 card from the top of your deck.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-042.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-042.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-042_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-043",
+      "name": "Ulti",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "3",
+      "power": "4000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Animal Kingdom Pirates",
+      "effect": "[DON!! x1] [When Attacking] Return up to 1 Character with a cost of 2 or less to the owner's hand or the bottom of their deck.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-043.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-043.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-043_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-045",
+      "name": "King",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "7",
+      "power": "8000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Animal Kingdom Pirates",
+      "effect": "[On Play] Draw 1 card.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-045.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-045.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-045_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-046",
+      "name": "Queen",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "4",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Animal Kingdom Pirates",
+      "effect": "[On Play] If your Leader has the {Animal Kingdom Pirates} type, look at 7 cards from the top of your deck; reveal a total of up to 2 [Plague Rounds] or [Ice Oni] cards and add them to your hand. Then, place the rest at the bottom of your deck in any order.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-046.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-046.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-046_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-047",
+      "name": "Ice Oni",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "8",
+      "power": "-",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Plague/Animal Kingdom Pirates",
+      "effect": "[Your Turn] At the end of a battle in which this Character battles your opponent's Character with a cost of 5 or less, place the opponent's Character you battled with at the bottom of the owner's deck.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-047.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-047.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-047_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-048",
+      "name": "Sasaki",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "3",
+      "power": "4000",
+      "counter": "2000",
+      "attribute": "Strike",
+      "type": "Animal Kingdom Pirates",
+      "effect": "[On Play] Return all cards in your hand to your deck and shuffle your deck. Then, draw cards equal to the number you returned to your deck.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-048.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-048.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-048_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-049",
+      "name": "Jack",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "2",
+      "power": "3000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Animal Kingdom Pirates",
+      "effect": "[On K.O.] Draw 1 card.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-049.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-049.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-049_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-050",
+      "name": "Hanger",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "2",
+      "power": "-",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "East Blue",
+      "effect": "[Activate: Main] You may trash 1 card from your hand and rest this Character: Draw 1 card.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-050.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-050.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-050_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-051",
+      "name": "Who's.Who",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "1",
+      "power": "2000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Animal Kingdom Pirates",
+      "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Animal Kingdom Pirates} type card other than [Who's.Who] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-051.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-051.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-051_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-052",
+      "name": "Black Maria",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "3",
+      "power": "3000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Animal Kingdom Pirates",
+      "effect": "[Activate: Main] ➁ (You may rest the specified number of DON!! cards in your cost area.) You may rest this Character: Draw 1 card.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-052.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-052.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-052_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-053",
+      "name": "Page One",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "4",
+      "power": "6000",
+      "counter": "-",
+      "attribute": "Strike",
+      "type": "Animal Kingdom Pirates",
+      "effect": "[DON!! x1] [Once Per Turn] When you activate an Event, draw 1 card. Then, place 1 card from your hand at the bottom of your deck.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-053.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-053.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-053_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-054",
+      "name": "Rokki",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "5",
+      "power": "7000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Giant/Animal Kingdom Pirates",
+      "effect": "-",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-054.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-054.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-054_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-055",
+      "name": "Plague Rounds",
+      "rarity": "C",
+      "cardType": "EVENT",
+      "color": "Blue",
+      "cost": "2",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Animal Kingdom Pirates",
+      "effect": "[Main] You may trash 1 [Ice Oni] from your hand and place 1 Character with a cost of 4 or less at the bottom of the owner's deck: Play 1 [Ice Oni] from your trash.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-055.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-055.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-055_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-057",
+      "name": "Dragon Twister Demolition Breath",
+      "rarity": "UC",
+      "cardType": "EVENT",
+      "color": "Blue",
+      "cost": "2",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "The Four Emperors/Animal Kingdom Pirates",
+      "effect": "[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, place up to 1 Character with a cost of 1 or less at the bottom of the owner's deck.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-057.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-057.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-057_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-058",
+      "name": "Crocodile",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Purple/Yellow",
+      "cost": "4",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "The Seven Warlords of the Sea/Baroque Works",
+      "effect": "[Opponent's Turn] [Once Per Turn] When a DON!! card on your field is returned to your DON!! deck by your effect, add up to 1 DON!! card from your DON!! deck and set it as active.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-058.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-058.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-058_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-059",
+      "name": "Iceburg",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "1",
+      "power": "-",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "Water Seven/Galley-La Company",
+      "effect": "[On Your Opponent's Attack] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your Leader has the {Water Seven} type, this Character gains [Blocker] during this turn.(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-059.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-059.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-059_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-060",
+      "name": "Crocodile",
+      "rarity": "SR",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "8",
+      "power": "9000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "The Seven Warlords of the Sea/Baroque Works",
+      "effect": "[On Play] DON!! −2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your Leader's type includes \"Baroque Works\", add up to 1 card from the top of your deck to the top of your Life cards.[On Your Opponent's Attack] [Once Per Turn] DON!! −1: Draw 1 card and trash 1 card from your hand.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-060.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-060.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-060_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-061",
+      "name": "Tom",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "3",
+      "power": "4000",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "Fish-Man/Water Seven",
+      "effect": "[Activate: Main] You may trash this Character: If your Leader has the {Water Seven} type, add up to 1 DON!! card from your DON!! deck and rest it.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-061.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-061.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-061_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-062",
+      "name": "Bananagator",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "5",
+      "power": "7000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Animal",
+      "effect": "-",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-062.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-062.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-062_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-063",
+      "name": "Franky",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "1",
+      "power": "1000",
+      "counter": "2000",
+      "attribute": "Wisdom",
+      "type": "Water Seven/The Franky Family",
+      "effect": "[On Your Opponent's Attack] [Once Per Turn] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your Leader has the {Water Seven} type, up to 1 of your Leader or Character cards gains +1000 power during this battle.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-063.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-063.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-063_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-065",
+      "name": "Miss.Goldenweek(Marianne)",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "2",
+      "power": "3000",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "Baroque Works",
+      "effect": "[On Play] If your Leader's type includes \"Baroque Works\", up to 1 of your opponent's Characters with a cost of 5 or less cannot attack until the start of your next turn.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-065.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-065.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-065_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-066",
+      "name": "Miss.Valentine(Mikita)",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "2",
+      "power": "2000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Baroque Works",
+      "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 card with a type including \"Baroque Works\" and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-066.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-066.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-066_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-067",
+      "name": "Miss.MerryChristmas(Drophy)",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "4",
+      "power": "4000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "Baroque Works",
+      "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-067.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-067.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-067_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-068",
+      "name": "Yokozuna",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "3",
+      "power": "3000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Animal/Water Seven",
+      "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Your Opponent's Attack] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Return up to 1 of your opponent's Characters with a cost of 2 or less to the owner's hand.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-068.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-068.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-068_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-069",
+      "name": "Mr.2.Bon.Kurei(Bentham)",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "3",
+      "power": "4000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Baroque Works",
+      "effect": "[On Your Opponent's Attack] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): This Character's base power becomes the same as the power of your opponent's attacking Leader or Character during this turn.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-069.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-069.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-069_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-070",
+      "name": "Mr.3(Galdino)",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "3",
+      "power": "4000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Baroque Works",
+      "effect": "[On Your Opponent's Attack] [Once Per Turn] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Give up to 1 of your opponent's Characters −1000 power during this turn.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-070.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-070.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-070_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-071",
+      "name": "Mr.4(Babe)",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "5",
+      "power": "6000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Baroque Works",
+      "effect": "[On Your Opponent's Attack] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): This Character gains [Blocker] and +1000 power during this battle.(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-071.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-071.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-071_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-072",
+      "name": "Mr.5(Gem)",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "7",
+      "power": "8000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "Baroque Works",
+      "effect": "[On Your Opponent's Attack] [Once Per Turn] DON!! −2 (You may return the specified number of DON!! cards from your field to your DON!! deck.) You may rest this Character: K.O. up to 1 of your opponent's Characters with a cost of 4 or less.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-072.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-072.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-072_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-073",
+      "name": "Mr.13 & Ms.Friday",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "3",
+      "power": "1000",
+      "counter": "2000",
+      "attribute": "Wisdom",
+      "type": "Animal/Baroque Works",
+      "effect": "[Activate: Main] You may trash this Character and 1 of your Characters with a type including \"Baroque Works\": Add up to 1 DON!! card from your DON!! deck and set it as active.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-073.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-073.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-073_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-074",
+      "name": "Colors Trap",
+      "rarity": "R",
+      "cardType": "EVENT",
+      "color": "Purple",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Baroque Works",
+      "effect": "[Counter] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Up to 1 of your Leader or Character cards gains +1000 power during this battle. Then, rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-074.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-074.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-074_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-075",
+      "name": "Nez-Palm Cannon",
+      "rarity": "UC",
+      "cardType": "EVENT",
+      "color": "Purple",
+      "cost": "3",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Baroque Works",
+      "effect": "[Counter] Up to 1 of your Leader or Character cards gains +6000 power during this battle. Then, if you have 2 or less Life cards, add up to 1 DON!! card from your DON!! deck and rest it.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-075.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-075.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-075_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-076",
+      "name": "Weakness...Is an Unforgivable Sin.",
+      "rarity": "C",
+      "cardType": "EVENT",
+      "color": "Purple",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "The Seven Warlords of the Sea/Baroque Works",
+      "effect": "[Counter] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Up to 1 of your Leader or Character cards gains +1000 power during this turn.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-076.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-076.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-076_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-078",
+      "name": "Oimo & Kashii",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "6",
+      "power": "8000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Giant/World Government",
+      "effect": "-",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-078.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-078.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-078_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-079",
+      "name": "Orlumbus",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "4",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Dressrosa/Yonta Maria Fleet",
+      "effect": "[Activate: Main] [Once Per Turn] Give up to 1 of your opponent's Characters −4 cost during this turn and trash 2 cards from the top of your deck. Then, K.O. 1 of your {Dressrosa} type Characters.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-079.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-079.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-079_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-080",
+      "name": "Gyats",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "1",
+      "power": "1000",
+      "counter": "2000",
+      "attribute": "Wisdom",
+      "type": "Dressrosa",
+      "effect": "[On Play] Up to 1 of your {Dressrosa} type Characters can also attack active Characters during this turn.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-080.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-080.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-080_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-081",
+      "name": "Cavendish",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "5",
+      "power": "6000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "Dressrosa/Beautiful Pirates",
+      "effect": "[DON!! x1] This Character can also attack active Characters.[When Attacking] You may rest your Leader: K.O. up to 1 of your opponent's Characters with a cost of 1 or less. Then, trash 2 cards from the top of your deck.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-081.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-081.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-081_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-082",
+      "name": "Kyros",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "3",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "Dressrosa",
+      "effect": "If this Character would be K.O.'d, you may rest your Leader or 1 [Corrida Coliseum] instead.[On Play] If your Leader is [Rebecca], K.O. up to 1 of your opponent's Characters with a cost of 1 or less. Then, trash 1 card from the top of your deck.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-082.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-082.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-082_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-084",
+      "name": "Stussy",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "2",
+      "power": "3000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "CP0",
+      "effect": "[On Play] Look at 3 cards from the top of your deck and play up to 1 Character card with a type including \"CP\" other than [Stussy] and a cost of 2 or less. Then, trash the rest.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-084.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-084.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-084_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-085",
+      "name": "Suleiman",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "3",
+      "power": "4000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Dressrosa",
+      "effect": "[On Play]/[When Attacking] If your Leader has the {Dressrosa} type, give up to 1 of your opponent's Characters −2 cost during this turn. Then, trash 1 card from the top of your deck.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-085.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-085.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-085_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-086",
+      "name": "Chinjao",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "5",
+      "power": "6000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Dressrosa/Happosui Army",
+      "effect": "[DON!! x1] When this Character battles and K.O.'s your opponent's Character, draw 2 cards and trash 2 cards from your hand.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-086.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-086.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-086_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-087",
+      "name": "Trafalgar Law",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "5",
+      "power": "7000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Dressrosa/Heart Pirates",
+      "effect": "-",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-087.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-087.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-087_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-088",
+      "name": "Hajrudin",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "6",
+      "power": "7000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Giant/Dressrosa/New Giant Pirates",
+      "effect": "[Activate: Main] You may rest your 1 Leader: Give up to 1 of your opponent's Characters −4 cost during this turn.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-088.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-088.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-088_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-090",
+      "name": "Monkey.D.Luffy",
+      "rarity": "SR",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "7",
+      "power": "7000",
+      "counter": "-",
+      "attribute": "Strike",
+      "type": "Dressrosa/Straw Hat Crew",
+      "effect": "This Character can also attack active Characters.[Activate: Main] [Once Per Turn] You may return 7 cards from your trash to the bottom of your deck in any order: Set this Character as active. Then, this Character will not become active in your next Refresh Phase.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-090.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-090.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-090_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-091",
+      "name": "Leo",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "1",
+      "power": "2000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "The Tontattas/Dressrosa",
+      "effect": "[On Play] You may rest your 1 Leader: If your Leader has the {Dressrosa} type, K.O. up to 1 of your opponent's Characters with a cost of 1 or less. Then, trash 2 cards from the top of your deck.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-091.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-091.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-091_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-092",
+      "name": "Rebecca",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "1",
+      "power": "2000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Dressrosa",
+      "effect": "[On Play] Look at 3 cards from the top of your deck; reveal up to 1 {Dressrosa} type card other than [Rebecca] and add it to your hand. Then, trash the rest.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-092.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-092.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-092_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-093",
+      "name": "Gum-Gum King Kong Gun",
+      "rarity": "UC",
+      "cardType": "EVENT",
+      "color": "Black",
+      "cost": "3",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Dressrosa/Straw Hat Crew",
+      "effect": "[Main] Up to 1 of your {Dressrosa} type Characters gains +6000 power during this turn. Then, if you have 15 or more cards in your trash, that card gains [Double Attack] during this turn.(This card deals 2 damage.)",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-093.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-093.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-093_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-094",
+      "name": "Trueno Bastardo",
+      "rarity": "R",
+      "cardType": "EVENT",
+      "color": "Black",
+      "cost": "4",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Dressrosa",
+      "effect": "[Main] Choose up to 1 of your opponent's Characters with a cost of 4 or less and K.O. it. If you have 15 or more cards in your trash, choose up to 1 of your opponent's Characters with a cost of 6 or less instead of a Character with a cost of 4 or less.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-094.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-094.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-094_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-097",
+      "name": "Otama",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "1",
+      "power": "-",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "Land of Wano",
+      "effect": "[On Play] Add up to 1 of your opponent's {Animal} or {SMILE} type Characters with a cost of 3 or less to the top of your opponent's Life cards face-up.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-097.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-097.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-097_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-098",
+      "name": "Toko",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "2",
+      "power": "-",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "Land of Wano",
+      "effect": "[On Play] You may trash 2 {Land of Wano} type cards from your hand: If you have 1 or less Life cards, add 1 card from the top of your deck to the top of your Life cards.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-098.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-098.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-098_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-099",
+      "name": "Olin",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "7",
+      "power": "7000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "Land of Wano/The Four Emperors/Big Mom Pirates",
+      "effect": "Also treat this card's name as [Charlotte Linlin] according to the rules.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-099.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-099.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-099_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-101",
+      "name": "Carmel",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "2",
+      "power": "1000",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "The House of Lambs",
+      "effect": "[Your Turn] [On Play] Draw 1 card.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-101.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-101.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-101_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-102",
+      "name": "Kin'emon",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "6",
+      "power": "6000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "Land of Wano",
+      "effect": "[Activate: Main] [Once Per Turn] ➀ (You may rest the specified number of DON!! cards in your cost area.) You may add 1 card from the top or bottom of your Life cards to your hand: Set this Character as active.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-102.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-102.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-102_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-103",
+      "name": "Kouzuki Hiyori",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "2",
+      "power": "-",
+      "counter": "2000",
+      "attribute": "Wisdom",
+      "type": "Land of Wano/Kouzuki Clan",
+      "effect": "[On Play] Up to 1 of your {Land of Wano} type Leader or Character cards gains +1000 power during this turn.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-103.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-103.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-103_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-105",
+      "name": "Charlotte Amande",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "3",
+      "power": "3000",
+      "counter": "2000",
+      "attribute": "Slash",
+      "type": "Big Mom Pirates",
+      "effect": "[Activate: Main] [Once Per Turn] You may trash 1 card with a [Trigger] from your hand: Rest up to 1 of your opponent's Characters with a cost of 2 or less.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-105.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-105.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-105_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-106",
+      "name": "Charlotte Bavarois",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "3",
+      "power": "4000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Big Mom Pirates",
+      "effect": "[DON!! x1] If you have less Life cards than your opponent, this Character gains +1000 power.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-106.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-106.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-106_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-107",
+      "name": "Charlotte Perospero",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "6",
+      "power": "8000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Big Mom Pirates",
+      "effect": "-",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-107.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-107.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-107_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-108",
+      "name": "Charlotte Moscato",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "3",
+      "power": "4000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Big Mom Pirates",
+      "effect": "[DON!! x1] This Character gains [Banish].(When this card deals damage, the target card is trashed without activating its Trigger.)",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-108.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-108.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-108_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-109",
+      "name": "Tonoyasu",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "2",
+      "power": "2000",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "Land of Wano",
+      "effect": "[Activate: Main] You may trash this Character: Up to 1 of your {Land of Wano} type Leader or Character cards gains +3000 power during this turn.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-109.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-109.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-109_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-110",
+      "name": "Pound",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "3",
+      "power": "3000",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "Whole Cake Island",
+      "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On K.O.] Add up to 1 of your opponent's Characters with a cost of 3 or less to the top or bottom of your opponent's Life cards face-up.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-110.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-110.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-110_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-111",
+      "name": "Hera",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "5",
+      "power": "3000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Big Mom Pirates/Homies",
+      "effect": "[Activate: Main] You may trash 1 of your {Homies} type Characters other than this Character and rest this Character: Set up to 1 of your [Charlotte Linlin] Characters as active.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-111.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-111.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-111_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-113",
+      "name": "Rabiyan",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "2",
+      "power": "3000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Big Mom Pirates/Homies",
+      "effect": "-",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-113.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-113.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-113_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-114",
+      "name": "Randolph",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "5",
+      "power": "7000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Big Mom Pirates/Homies",
+      "effect": "-",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-114.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-114.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-114_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-115",
+      "name": "Gun Modoki",
+      "rarity": "C",
+      "cardType": "EVENT",
+      "color": "Yellow",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Land of Wano/Kouzuki Clan",
+      "effect": "[Main] You may add 1 card from the top or bottom of your Life cards to your hand: Up to 1 of your {Land of Wano} type Characters gains [Double Attack] during this turn.(This card deals 2 damage.)",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-115.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-115.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-115_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-116",
+      "name": "Diable Jambe Joue Shot",
+      "rarity": "UC",
+      "cardType": "EVENT",
+      "color": "Yellow",
+      "cost": "3",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "The Vinsmoke Family",
+      "effect": "[Counter] Up to 1 of your Leader or Character cards gains +6000 power during this battle. Then, if you and your opponent have a total of 4 or less Life cards, K.O. up to 1 of your opponent's Characters with a cost of 2 or less.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-116.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-116.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-116_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-117",
+      "name": "Heavenly Fire",
+      "rarity": "R",
+      "cardType": "EVENT",
+      "color": "Yellow",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "The Four Emperors/Big Mom Pirates",
+      "effect": "[Main] Add up to 1 of your opponent's Characters with a cost of 3 or less to the top or bottom of your opponent's Life cards face-up.",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-117.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-117.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-117_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP04-118",
+      "name": "Nefeltari Vivi",
+      "rarity": "SEC",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "7",
+      "power": "4000",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "Alabasta",
+      "effect": "All of your red Characters with a cost of 3 or more other than this Character gain [Rush].(This card can attack on the turn in which it is played.)",
+      "cardSets": "Card Set(s)-KINGDOMS OF INTRIGUE- [OP04]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP04-118.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP04-118.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP04/OP04-118_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "P-036",
+      "name": "Monkey.D.Luffy",
+      "rarity": "P",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "3",
+      "power": "4000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Land of Wano/Straw Hat Crew",
+      "effect": "[When Attacking] You may add 1 card from the top or bottom of your Life cards to your hand: This Character and up to 1 of your Leader gain +1000 power during this turn.",
+      "cardSets": "Card Set(s)Pre-Release OP04",
+      "img": "https://optcgapi.com/media/static/Card_Images/P-036.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/P-036.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/P/P-036_EN.webp"
+      ]
+    }
+  ]
+}

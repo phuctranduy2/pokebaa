@@ -1,0 +1,361 @@
+@import "tailwindcss";
+
+@keyframes holoSweep {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+@keyframes subtleGlowPulse {
+  0%, 100% {
+    box-shadow:
+      0 10px 28px rgba(0, 0, 0, 0.75),
+      0 0 18px rgba(250, 204, 21, 0.35),
+      0 0 36px rgba(56, 189, 248, 0.18);
+  }
+  50% {
+    box-shadow:
+      0 14px 32px rgba(0, 0, 0, 0.85),
+      0 0 26px rgba(250, 204, 21, 0.55),
+      0 0 48px rgba(244, 114, 182, 0.25);
+  }
+}
+
+/* Soft ambient halo for special showcase frames */
+.rgb-aura-container {
+  position: relative;
+  isolation: isolate;
+}
+
+.rgb-aura-container::before {
+  content: '';
+  position: absolute;
+  inset: -4px;
+  border-radius: 1.25rem;
+  background: linear-gradient(125deg, rgba(251, 191, 36, 0.45), rgba(244, 114, 182, 0.35), rgba(56, 189, 248, 0.45), rgba(251, 191, 36, 0.45));
+  background-size: 250% 250%;
+  animation: holoSweep 6s ease infinite;
+  z-index: -1;
+  filter: blur(14px);
+  opacity: 0.55;
+  pointer-events: none;
+}
+
+/* Tier 1 Holo ($5 - $24.99): Subtle golden rim + clean diagonal foil shimmer strictly clipped inside card */
+.card-holo-tier-5 {
+  position: relative;
+  isolation: isolate;
+  box-shadow:
+    0 10px 24px rgba(0, 0, 0, 0.7),
+    0 0 0 1.5px rgba(251, 191, 36, 0.65),
+    0 0 14px rgba(251, 191, 36, 0.22);
+}
+
+.card-holo-tier-5::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  background: linear-gradient(
+    115deg,
+    transparent 20%,
+    rgba(255, 255, 255, 0.16) 42%,
+    rgba(253, 224, 71, 0.18) 50%,
+    rgba(255, 255, 255, 0.12) 58%,
+    transparent 80%
+  );
+  background-size: 260% 260%;
+  mix-blend-mode: screen;
+  animation: holoSweep 4.5s ease-in-out infinite;
+  pointer-events: none;
+  z-index: 25;
+}
+
+/* Tier 2 Super Holo ($25 - $99.99): Clean metallic prism rim + pearlescent foil sweep */
+.card-holo-tier-25 {
+  position: relative;
+  isolation: isolate;
+  box-shadow:
+    0 12px 28px rgba(0, 0, 0, 0.75),
+    0 0 0 1.5px rgba(250, 204, 21, 0.8),
+    0 0 18px rgba(250, 204, 21, 0.28),
+    0 0 28px rgba(168, 85, 247, 0.18);
+}
+
+.card-holo-tier-25::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  background: linear-gradient(
+    120deg,
+    transparent 15%,
+    rgba(244, 114, 182, 0.16) 35%,
+    rgba(253, 224, 71, 0.22) 50%,
+    rgba(56, 189, 248, 0.18) 65%,
+    transparent 85%
+  );
+  background-size: 280% 280%;
+  mix-blend-mode: screen;
+  animation: holoSweep 4s ease-in-out infinite;
+  pointer-events: none;
+  z-index: 25;
+}
+
+/* Tier 3 Ultra Rare SIR ($100 - $999.99): Silky luxury gold-prism glow + liquid foil sheen */
+.card-holo-tier-100 {
+  position: relative;
+  isolation: isolate;
+  box-shadow:
+    0 14px 32px rgba(0, 0, 0, 0.8),
+    0 0 0 2px rgba(251, 191, 36, 0.88),
+    0 0 22px rgba(251, 191, 36, 0.35),
+    0 0 40px rgba(56, 189, 248, 0.22);
+}
+
+.card-holo-tier-100::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  background: linear-gradient(
+    125deg,
+    transparent 10%,
+    rgba(251, 191, 36, 0.22) 28%,
+    rgba(244, 114, 182, 0.2) 45%,
+    rgba(56, 189, 248, 0.22) 62%,
+    rgba(255, 255, 255, 0.2) 76%,
+    transparent 90%
+  );
+  background-size: 300% 300%;
+  mix-blend-mode: screen;
+  animation: holoSweep 3.4s ease-in-out infinite;
+  pointer-events: none;
+  z-index: 25;
+}
+
+/* Tier 4 Legendary Holy Grail ($1,000+): Breathing Royal Gold & Aurora Prismatic Sheen */
+.card-holo-tier-4000 {
+  position: relative;
+  isolation: isolate;
+  border: 2px solid rgba(253, 224, 71, 0.95);
+  animation: subtleGlowPulse 3.2s ease-in-out infinite;
+}
+
+.card-holo-tier-4000::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  background: linear-gradient(
+    130deg,
+    transparent 8%,
+    rgba(253, 224, 71, 0.28) 25%,
+    rgba(244, 114, 182, 0.22) 44%,
+    rgba(56, 189, 248, 0.26) 64%,
+    rgba(255, 255, 255, 0.28) 78%,
+    transparent 94%
+  );
+  background-size: 320% 320%;
+  mix-blend-mode: screen;
+  animation: holoSweep 2.8s ease-in-out infinite;
+  pointer-events: none;
+  z-index: 25;
+}
+
+/* Sleek Dark Scrollbars (eliminates chunky white browser tracks on dark panels) */
+:root {
+  color-scheme: dark;
+}
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(161, 161, 170, 0.32) transparent;
+}
+
+*::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+*::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+*::-webkit-scrollbar-thumb {
+  background: rgba(161, 161, 170, 0.28);
+  border-radius: 9999px;
+}
+
+*::-webkit-scrollbar-thumb:hover {
+  background: rgba(251, 191, 36, 0.55);
+}
+
+.custom-dark-scrollbar {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(251, 191, 36, 0.42) rgba(9, 9, 11, 0.55);
+}
+
+.custom-dark-scrollbar::-webkit-scrollbar {
+  width: 6px;
+}
+
+.custom-dark-scrollbar::-webkit-scrollbar-track {
+  background: rgba(9, 9, 11, 0.55);
+  border-radius: 9999px;
+  margin-block: 6px;
+}
+
+.custom-dark-scrollbar::-webkit-scrollbar-thumb {
+  background: linear-gradient(180deg, rgba(251, 191, 36, 0.45), rgba(161, 161, 170, 0.4));
+  border-radius: 9999px;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.custom-dark-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(180deg, rgba(251, 191, 36, 0.85), rgba(245, 158, 11, 0.7));
+}
+
+@keyframes floatHeartUp {
+  0% {
+    transform: translateY(0) scale(0.75);
+    opacity: 0;
+  }
+  20% {
+    opacity: 0.95;
+  }
+  100% {
+    transform: translateY(-130px) scale(1.15);
+    opacity: 0;
+  }
+}
+
+@keyframes packTearStrip {
+  0% {
+    transform: translateX(0) translateY(0) rotate(0deg) scaleY(1);
+    opacity: 1;
+  }
+  35% {
+    transform: translateX(22px) translateY(-7px) rotate(7deg) scaleY(0.92);
+    opacity: 1;
+  }
+  70% {
+    transform: translateX(88px) translateY(-18px) rotate(18deg) scaleY(0.84);
+    opacity: 0.92;
+  }
+  100% {
+    transform: translateX(155px) translateY(-34px) rotate(32deg) scaleY(0.75);
+    opacity: 0;
+  }
+}
+
+@keyframes packRecoil {
+  0% {
+    transform: translateY(0) rotate(0deg) scale(1);
+  }
+  25% {
+    transform: translateX(-3px) translateY(2px) rotate(-1.6deg) scale(0.99);
+  }
+  55% {
+    transform: translateX(2px) translateY(-2px) rotate(1.1deg) scale(1.01);
+  }
+  100% {
+    transform: translateY(0) rotate(0deg) scale(1);
+  }
+}
+
+@keyframes cardSlideUp {
+  0% {
+    transform: translateY(56px) scale(0.88);
+    opacity: 0.35;
+  }
+  65% {
+    transform: translateY(-6px) scale(1.03);
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(0) scale(1);
+    opacity: 1;
+  }
+}
+
+@keyframes wrapperDropOut {
+  0% {
+    transform: translateY(0) scale(1);
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(96px) scale(0.9);
+    opacity: 0;
+  }
+}
+
+@keyframes cardFanReveal {
+  0% {
+    transform: translateY(24px) scale(0.86);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(0) scale(1);
+    opacity: 1;
+  }
+}
+
+@keyframes sealGlint {
+  0% {
+    transform: translateX(-120%) skewX(-22deg);
+  }
+  100% {
+    transform: translateX(220%) skewX(-22deg);
+  }
+}
+
+@keyframes hitBurst {
+  0% {
+    transform: scale(0.6);
+    opacity: 0.95;
+  }
+  100% {
+    transform: scale(1.55);
+    opacity: 0;
+  }
+}
+
+.animate-float-heart {
+  animation: floatHeartUp 1.35s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+.animate-pack-tear-strip {
+  animation: packTearStrip 0.62s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+}
+
+.animate-pack-recoil {
+  animation: packRecoil 0.45s cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.animate-card-slide-up {
+  animation: cardSlideUp 0.48s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+.animate-wrapper-drop {
+  animation: wrapperDropOut 0.45s cubic-bezier(0.4, 0, 1, 1) forwards;
+}
+
+.animate-card-fan-reveal {
+  animation: cardFanReveal 0.4s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+.animate-seal-glint {
+  animation: sealGlint 1.05s ease-in-out;
+}
+
+.animate-hit-burst {
+  animation: hitBurst 0.85s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+

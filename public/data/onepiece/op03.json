@@ -1,0 +1,1918 @@
+{
+  "setId": "op03PillarsStrength",
+  "setName": "OP-03: Pillars of Strength",
+  "series": "Pillars of Strength",
+  "jsonPath": "/data/onepiece/op03.json",
+  "counts": {
+    "total": 100,
+    "Common": 43,
+    "Uncommon": 25,
+    "Rare": 18,
+    "SuperRare": 5,
+    "SecretRare": 0,
+    "Leader": 8,
+    "Special": 1
+  },
+  "cards": [
+    {
+      "cardNum": "OP03-001",
+      "name": "Portgas.D.Ace",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Red",
+      "cost": "5",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "Whitebeard Pirates",
+      "effect": "When this Leader attacks or is attacked, you may trash any number of Event or Stage cards from your hand. This Leader gains +1000 power during this battle for every card trashed.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-001.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-001.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-001_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-002",
+      "name": "Adio",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "4",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Ranged",
+      "type": "ODYSSEY",
+      "effect": "[DON!! x1] [When Attacking] Your opponent cannot activate a [Blocker] Character that has 2000 or less power during this battle.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-002.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-002.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-002_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-004",
+      "name": "Curiel",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "3",
+      "power": "4000",
+      "counter": "1000",
+      "attribute": "Ranged",
+      "type": "Whitebeard Pirates",
+      "effect": "This Character cannot attack a Leader on the turn in which it is played.[DON!! x1] This Character gains [Rush].(This card can attack on the turn in which it is played.)",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-004.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-004.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-004_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-005",
+      "name": "Thatch",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "1",
+      "power": "2000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Whitebeard Pirates",
+      "effect": "[Activate: Main] [Once Per Turn] This Character gains +2000 power during this turn. Then, trash this Character at the end of this turn.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-005.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-005.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-005_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-006",
+      "name": "Speed Jil",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "4",
+      "power": "6000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Whitebeard Pirates",
+      "effect": "-",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-006.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-006.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-006_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-007",
+      "name": "Namule",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "3",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Fish-Man/Whitebeard Pirates",
+      "effect": "-",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-007.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-007.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-007_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-009",
+      "name": "Haruta",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "2",
+      "power": "3000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Whitebeard Pirates",
+      "effect": "[Activate: Main] [Once Per Turn] Give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-009.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-009.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-009_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-010",
+      "name": "Fossa",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "2",
+      "power": "2000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Whitebeard Pirates",
+      "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-010.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-010.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-010_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-011",
+      "name": "Blamenco",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "2",
+      "power": "3000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Whitebeard Pirates",
+      "effect": "[DON!! x1] [When Attacking] Give up to 1 of your opponent's Characters −2000 power during this turn.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-011.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-011.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-011_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-012",
+      "name": "Marshall.D.Teach",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "4",
+      "power": "6000",
+      "counter": "-",
+      "attribute": "Strike",
+      "type": "Whitebeard Pirates",
+      "effect": "[When Attacking] You may trash 1 of your red Characters with 4000 power or more: Draw 1 card. Then, this Character gains +1000 power during this battle.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-012.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-012.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-012_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-013",
+      "name": "Marco",
+      "rarity": "SR",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "5",
+      "power": "6000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Whitebeard Pirates",
+      "effect": "[Your Turn] [On Play] K.O. up to 1 of your opponent's Characters with 3000 power or less.[On K.O.] You may trash 1 Event from your hand: You may play this Character card from your trash rested.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-013.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-013.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-013_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-014",
+      "name": "Monkey.D.Garp",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "3",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Strike",
+      "type": "Navy",
+      "effect": "[When Attacking] Play up to 1 red Character card with a cost of 1 from your hand.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-014.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-014.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-014_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-015",
+      "name": "Lim",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Red",
+      "cost": "3",
+      "power": "2000",
+      "counter": "-",
+      "attribute": "Wisdom",
+      "type": "ODYSSEY",
+      "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[Opponent's Turn] When this Character is K.O.'d, give up to 1 of your opponent's Leader or Character cards −2000 power during this turn.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-015.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-015.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-015_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-016",
+      "name": "Flame Emperor",
+      "rarity": "R",
+      "cardType": "EVENT",
+      "color": "Red",
+      "cost": "7",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Whitebeard Pirates",
+      "effect": "[Main] If your Leader is [Portgas.D.Ace], K.O. up to 1 of your opponent's Characters with 8000 power or less, and your Leader gains [Double Attack] and +3000 power during this turn.(This card deals 2 damage.)",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-016.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-016.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-016_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-017",
+      "name": "Cross Fire",
+      "rarity": "UC",
+      "cardType": "EVENT",
+      "color": "Red",
+      "cost": "2",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Whitebeard Pirates",
+      "effect": "[Main]/[Counter] If your Leader's type includes \"Whitebeard Pirates\", give up to 1 of your opponent's Characters −4000 power during this turn.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-017.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-017.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-017_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-018",
+      "name": "Fire Fist",
+      "rarity": "R",
+      "cardType": "EVENT",
+      "color": "Red",
+      "cost": "3",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Whitebeard Pirates",
+      "effect": "[Main] You may trash 1 Event from your hand: K.O. up to 1 of your opponent's Characters with 5000 power or less and up to 1 of your opponent's Characters with 4000 power or less.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-018.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-018.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-018_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-019",
+      "name": "Fiery Doll",
+      "rarity": "C",
+      "cardType": "EVENT",
+      "color": "Red",
+      "cost": "2",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Whitebeard Pirates",
+      "effect": "[Main] Your Leader gains +4000 power during this turn.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-019.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-019.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-019_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-020",
+      "name": "Striker",
+      "rarity": "C",
+      "cardType": "STAGE",
+      "color": "Red",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Whitebeard Pirates",
+      "effect": "[Activate: Main] ② (You may rest the specified number of DON!! cards in your cost area.) You may rest this Stage: If your Leader is [Portgas.D.Ace], look at 5 cards from the top of your deck; reveal up to 1 Event and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-020.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-020.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-020_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-021",
+      "name": "Kuro",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Green",
+      "cost": "5",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "East Blue/Black Cat Pirates",
+      "effect": "[Activate: Main] ③ (You may rest the specified number of DON!! cards in your cost area.) You may rest 2 of your {East Blue} type Characters: Set this Leader as active, and rest up to 1 of your opponent's Characters with a cost of 5 or less.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-021.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-021.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-021_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-022",
+      "name": "Arlong",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Green/Yellow",
+      "cost": "4",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "Fish-Man/East Blue/Arlong Pirates",
+      "effect": "[DON!! x2] [When Attacking] ① (You may rest the specified number of DON!! cards in your cost area.): Play up to 1 Character card with a cost of 4 or less and a [Trigger] from your hand.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-022.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-022.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-022_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-023",
+      "name": "Alvida",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "1",
+      "power": "3000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "East Blue/Alvida Pirates",
+      "effect": "-",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-023.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-023.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-023_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-024",
+      "name": "Gin",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "4",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "East Blue/Krieg Pirates",
+      "effect": "[On Play] If your Leader has the {East Blue} type, rest up to 2 of your opponent's Characters with a cost of 4 or less.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-024.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-024.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-024_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-025",
+      "name": "Krieg",
+      "rarity": "SR",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "6",
+      "power": "7000",
+      "counter": "-",
+      "attribute": "Ranged",
+      "type": "East Blue/Krieg Pirates",
+      "effect": "[On Play] You may trash 1 card from your hand: K.O. up to 2 of your opponent's rested Characters with a cost of 4 or less.[DON!! x1] This Character gains [Double Attack].(This card deals 2 damage.)",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-025.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-025.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-025_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-026",
+      "name": "Kuroobi",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "4",
+      "power": "3000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Fish-Man/East Blue/Arlong Pirates",
+      "effect": "[On Play] If your Leader has the {East Blue} type, rest up to 1 of your opponent's Characters.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-026.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-026.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-026_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-027",
+      "name": "Sham",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "3",
+      "power": "4000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "East Blue/Black Cat Pirates",
+      "effect": "[On Play] If your Leader has the {East Blue} type, rest up to 1 of your opponent's Characters with a cost of 2 or less and, if you don't have [Buchi], play up to 1 [Buchi] from your hand.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-027.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-027.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-027_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-028",
+      "name": "Jango",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "5",
+      "power": "6000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "East Blue/Black Cat Pirates",
+      "effect": "[On Play] Choose one:• Set up to 1 of your {East Blue} type Leader or Character cards with a cost of 6 or less as active.• Rest this Character and up to 1 of your opponent's Characters.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-028.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-028.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-028_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-029",
+      "name": "Chew",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "4",
+      "power": "3000",
+      "counter": "1000",
+      "attribute": "Ranged",
+      "type": "Fish-Man/East Blue/Arlong Pirates",
+      "effect": "[On Play] K.O. up to 1 of your opponent's rested Characters with a cost of 4 or less.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-029.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-029.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-029_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-030",
+      "name": "Nami",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "2",
+      "power": "2000",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "East Blue/Arlong Pirates",
+      "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 green {East Blue} type card other than [Nami] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-030.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-030.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-030_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-031",
+      "name": "Pearl",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "2",
+      "power": "2000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "East Blue/Krieg Pirates",
+      "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-031.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-031.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-031_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-032",
+      "name": "Buggy",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "3",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "East Blue/Buggy Pirates",
+      "effect": "This Character cannot be K.O.'d in battle by  attribute cards.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-032.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-032.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-032_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-033",
+      "name": "Hatchan",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "4",
+      "power": "4000",
+      "counter": "2000",
+      "attribute": "Slash",
+      "type": "Fish-Man/East Blue/Arlong Pirates",
+      "effect": "-",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-033.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-033.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-033_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-034",
+      "name": "Buchi",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "4",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "East Blue/Black Cat Pirates",
+      "effect": "[On Play] K.O. up to 1 of your opponent's rested Characters with a cost of 2 or less.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-034.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-034.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-034_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-035",
+      "name": "Momoo",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Green",
+      "cost": "2",
+      "power": "4000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Animal/East Blue",
+      "effect": "-",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-035.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-035.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-035_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-036",
+      "name": "Out-of-the-Bag",
+      "rarity": "C",
+      "cardType": "EVENT",
+      "color": "Green",
+      "cost": "3",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "East Blue/Black Cat Pirates",
+      "effect": "[Main] You may rest 1 of your {East Blue} type Characters: Set up to 1 of your [Kuro] cards as active.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-036.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-036.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-036_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-037",
+      "name": "Tooth Attack",
+      "rarity": "C",
+      "cardType": "EVENT",
+      "color": "Green",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Fish-Man/East Blue/Arlong Pirates",
+      "effect": "[Main] You may rest 1 of your {East Blue} type Characters: K.O. up to 1 of your opponent's rested Characters with a cost of 3 or less.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-037.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-037.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-037_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-038",
+      "name": "Deathly Poison Gas Bomb MH5",
+      "rarity": "R",
+      "cardType": "EVENT",
+      "color": "Green",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "East Blue/Krieg Pirates",
+      "effect": "[Main] Rest up to 2 of your opponent's Characters with a cost of 2 or less.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-038.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-038.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-038_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-039",
+      "name": "One, Two, Jango",
+      "rarity": "UC",
+      "cardType": "EVENT",
+      "color": "Green",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "East Blue/Black Cat Pirates",
+      "effect": "[Main] Rest up to 1 of your opponent's Characters with a cost of 1 or less. Then, up to 1 of your Characters gains +1000 power during this turn.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-039.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-039.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-039_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-040",
+      "name": "Nami",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Blue",
+      "cost": "5",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Wisdom",
+      "type": "East Blue",
+      "effect": "When your deck is reduced to 0, you win the game instead of losing, according to the rules.[DON!! x1] When this Leader's attack deals damage to your opponent's Life, you may trash 1 card from the top of your deck.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-040.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-040.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-040_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-041",
+      "name": "Usopp",
+      "rarity": "SR",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "4",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Ranged",
+      "type": "East Blue",
+      "effect": "[Rush] (This card can attack on the turn in which it is played.)[DON!! x1] When this Character's attack deals damage to your opponent's Life, you may trash 7 cards from the top of your deck.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-041.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-041.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-041_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-042",
+      "name": "Usopp's Pirate Crew",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "1",
+      "power": "-",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "East Blue",
+      "effect": "[On Play] Add up to 1 blue [Usopp] from your trash to your hand.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-042.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-042.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-042_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-043",
+      "name": "Gaimon",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "2",
+      "power": "-",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "East Blue",
+      "effect": "When you deal damage to your opponent's Life, you may trash 3 cards from the top of your deck. If you do, trash this Character.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-043.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-043.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-043_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-045",
+      "name": "Carne",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "3",
+      "power": "3000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "East Blue",
+      "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[Opponent's Turn] If you have 20 or less cards in your deck, this Character gains +3000 power.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-045.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-045.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-045_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-046",
+      "name": "Genzo",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "2",
+      "power": "4000",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "East Blue",
+      "effect": "-",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-046.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-046.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-046_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-047",
+      "name": "Zeff",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "5",
+      "power": "6000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "East Blue",
+      "effect": "[DON!! x1] When this Character's attack deals damage to your opponent's Life, you may trash 7 cards from the top of your deck.[On Play] Return up to 1 Character with a cost of 3 or less to the owner's hand, and you may trash 2 cards from the top of your deck.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-047.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-047.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-047_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-049",
+      "name": "Patty",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "3",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "East Blue",
+      "effect": "[On Play] If you have 20 or less cards in your deck, return up to 1 Character with a cost of 3 or less to the owner's hand.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-049.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-049.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-049_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-050",
+      "name": "Boodle",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "2",
+      "power": "-",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "East Blue",
+      "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On K.O.] You may trash 1 card from the top of your deck.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-050.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-050.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-050_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-051",
+      "name": "Bell-mère",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "4",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Ranged",
+      "type": "East Blue/Former Navy",
+      "effect": "[DON!! x1] When this Character's attack deals damage to your opponent's Life, you may trash 7 cards from the top of your deck.[On K.O.] You may trash 3 cards from the top of your deck.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-051.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-051.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-051_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-052",
+      "name": "Merry",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "1",
+      "power": "3000",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "East Blue",
+      "effect": "-",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-052.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-052.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-052_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-053",
+      "name": "Yosaku & Johnny",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "1",
+      "power": "3000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "East Blue",
+      "effect": "[DON!! x1] If you have 20 or less cards in your deck, this Character gains +2000 power.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-053.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-053.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-053_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-054",
+      "name": "Usopp's Rubber Band of Doom!!!",
+      "rarity": "C",
+      "cardType": "EVENT",
+      "color": "Blue",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "East Blue/Straw Hat Crew",
+      "effect": "[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, you may trash 1 card from the top of your deck.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-054.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-054.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-054_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-058",
+      "name": "Iceburg",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Purple",
+      "cost": "5",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Wisdom",
+      "type": "Water Seven/Galley-La Company",
+      "effect": "This Leader cannot attack.[Activate: Main] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.) You may rest this Leader: Play up to 1 {Galley-La Company} type Character card with a cost of 5 or less from your hand.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-058.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-058.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-058_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-059",
+      "name": "Kaku",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "5",
+      "power": "6000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Water Seven/Galley-La Company",
+      "effect": "[When Attacking] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): This Character gains [Banish] during this battle.(When this card deals damage, the target card is trashed without activating its Trigger.)",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-059.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-059.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-059_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-061",
+      "name": "Kiwi & Mozu",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "2",
+      "power": "4000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Water Seven/The Franky Family",
+      "effect": "-",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-061.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-061.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-061_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-062",
+      "name": "Kokoro",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "1",
+      "power": "2000",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "Merfolk/Water Seven",
+      "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Water Seven} type card other than [Kokoro] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-062.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-062.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-062_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-063",
+      "name": "Zambai",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "3",
+      "power": "2000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "Water Seven/The Franky Family",
+      "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your Leader has the {Water Seven} type, draw 1 card.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-063.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-063.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-063_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-064",
+      "name": "Tilestone",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "5",
+      "power": "6000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Water Seven/Galley-La Company",
+      "effect": "[On K.O.] If your Leader has the {Galley-La Company} type, add up to 1 DON!! card from your DON!! deck and rest it.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-064.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-064.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-064_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-065",
+      "name": "Chimney & Gonbe",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "2",
+      "power": "2000",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "Animal/Water Seven",
+      "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-065.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-065.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-065_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-066",
+      "name": "Paulie",
+      "rarity": "SR",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "5",
+      "power": "6000",
+      "counter": "-",
+      "attribute": "Strike",
+      "type": "Water Seven/Galley-La Company",
+      "effect": "[On Play] ➁ (You may rest the specified number of DON!! cards in your cost area.): Add up to 1 DON!! card from your DON!! deck and set it as active. Then, if you have 8 or more DON!! cards on your field, K.O. up to 1 of your opponent's Characters with a cost of 4 or less.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-066.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-066.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-066_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-067",
+      "name": "Peepley Lulu",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "5",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Ranged",
+      "type": "Water Seven/Galley-La Company",
+      "effect": "[DON!! x1] [When Attacking] If your Leader has the {Galley-La Company} type, add up to 1 DON!! card from your DON!! deck and rest it.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-067.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-067.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-067_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-068",
+      "name": "Minozebra",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "4",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Impel Down/Jailer Beast",
+      "effect": "[Banish] (When this card deals damage, the target card is trashed without activating its Trigger.)[On K.O.] If your Leader has the {Impel Down} type, add up to 1 DON!! card from your DON!! deck and rest it.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-068.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-068.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-068_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-069",
+      "name": "Minorhinoceros",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "3",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Strike",
+      "type": "Impel Down/Jailer Beast",
+      "effect": "[On K.O.] If your Leader has the {Impel Down} type, draw 2 cards and trash 1 card from your hand.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-069.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-069.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-069_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-070",
+      "name": "Monkey.D.Luffy",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "6",
+      "power": "7000",
+      "counter": "-",
+      "attribute": "Strike",
+      "type": "Water Seven/Straw Hat Crew",
+      "effect": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.) You may trash 1 Character card with a cost of 5 from your hand: This Character gains [Rush] during this turn.(This card can attack on the turn in which it is played.)",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-070.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-070.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-070_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-071",
+      "name": "Rob Lucci",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Purple",
+      "cost": "5",
+      "power": "6000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "Water Seven/Galley-La Company",
+      "effect": "[When Attacking] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Rest up to 1 of your opponent's Characters with a cost of 5 or less.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-071.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-071.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-071_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-073",
+      "name": "Hull Dismantler Slash",
+      "rarity": "C",
+      "cardType": "EVENT",
+      "color": "Purple",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Water Seven/The Franky Family",
+      "effect": "[Main] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your Leader has the {Water Seven} type, K.O. up to 1 of your opponent's Characters with a cost of 2 or less.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-073.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-073.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-073_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-074",
+      "name": "Top Knot",
+      "rarity": "UC",
+      "cardType": "EVENT",
+      "color": "Purple",
+      "cost": "2",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Water Seven/Galley-La Company",
+      "effect": "[Main] DON!! −2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Place up to 1 of your opponent's Characters with a cost of 4 or less at the bottom of the owner's deck.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-074.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-074.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-074_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-075",
+      "name": "Galley-La Company",
+      "rarity": "C",
+      "cardType": "STAGE",
+      "color": "Purple",
+      "cost": "3",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Water Seven/Galley-La Company",
+      "effect": "[Activate: Main] You may rest this Stage: If your Leader is [Iceburg], add up to 1 DON!! card from your DON!! deck and rest it.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-075.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-075.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-075_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-076",
+      "name": "Rob Lucci",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Black",
+      "cost": "5",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Strike",
+      "type": "CP9",
+      "effect": "[Your Turn] [Once Per Turn] You may trash 2 cards from your hand: When your opponent's Character is K.O.'d, set this Leader as active.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-076.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-076.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-076_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-077",
+      "name": "Charlotte Linlin",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Black/Yellow",
+      "cost": "4",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "The Four Emperors/Big Mom Pirates",
+      "effect": "[DON!! x2] [When Attacking] ② (You may rest the specified number of DON!! cards in your cost area.) You may trash 1 card from your hand: If you have 1 or less Life cards, add up to 1 card from the top of your deck to the top of your Life cards.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-077.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-077.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-077_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-080",
+      "name": "Kaku",
+      "rarity": "SR",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "5",
+      "power": "6000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "CP9",
+      "effect": "[On Play] You may place 2 cards with a type including \"CP\" from your trash at the bottom of your deck in any order: K.O. up to 1 of your opponent's Characters with a cost of 3 or less.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-080.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-080.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-080_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-081",
+      "name": "Kalifa",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "4",
+      "power": "4000",
+      "counter": "2000",
+      "attribute": "Special",
+      "type": "CP9",
+      "effect": "[On Play] Draw 2 cards and trash 2 cards from your hand. Then, give up to 1 of your opponent's Characters −2 cost during this turn.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-081.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-081.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-081_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-082",
+      "name": "Kumadori",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "4",
+      "power": "6000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "CP9",
+      "effect": "-",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-082.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-082.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-082_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-083",
+      "name": "Corgy",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "1",
+      "power": "-",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "World Government",
+      "effect": "[On Play] Look at 5 cards from the top of your deck and trash up to 2 cards. Then, place the rest at the bottom of your deck in any order.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-083.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-083.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-083_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-084",
+      "name": "Jerry",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "2",
+      "power": "4000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "CP6",
+      "effect": "-",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-084.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-084.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-084_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-085",
+      "name": "Jabra",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "5",
+      "power": "7000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "CP9",
+      "effect": "-",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-085.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-085.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-085_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-086",
+      "name": "Spandam",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "1",
+      "power": "2000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "CP9",
+      "effect": "[On Play] If your Leader's type includes \"CP\", look at 3 cards from the top of your deck; reveal up to 1 card with a type including \"CP\" other than [Spandam] and add it to your hand. Then, trash the rest.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-086.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-086.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-086_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-087",
+      "name": "Nero",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "3",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Ranged",
+      "type": "CP9",
+      "effect": "-",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-087.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-087.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-087_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-088",
+      "name": "Fukurou",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "3",
+      "power": "3000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "CP9",
+      "effect": "This Character cannot be K.O.'d by effects.[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-088.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-088.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-088_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-090",
+      "name": "Blueno",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "5",
+      "power": "6000",
+      "counter": "1000",
+      "attribute": "Strike",
+      "type": "CP9",
+      "effect": "[DON!! x1] This Character gains [Blocker].(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On K.O.] Play up to 1 Character card with a type including \"CP\" and a cost of 4 or less from your trash rested.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-090.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-090.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-090_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-091",
+      "name": "Helmeppo",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "1",
+      "power": "-",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "Navy",
+      "effect": "[On Play] Set the cost of up to 1 of your opponent's Characters with no base effect to 0 during this turn.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-091.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-091.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-091_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-093",
+      "name": "Wanze",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Black",
+      "cost": "2",
+      "power": "4000",
+      "counter": "-",
+      "attribute": "Slash",
+      "type": "CP7",
+      "effect": "[On Play] You may trash 1 card from your hand: If your Leader's type includes \"CP\", K.O. up to 1 of your opponent's Characters with a cost of 1 or less.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-093.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-093.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-093_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-095",
+      "name": "Soap Sheep",
+      "rarity": "C",
+      "cardType": "EVENT",
+      "color": "Black",
+      "cost": "1",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "CP9",
+      "effect": "[Main] Give up to 2 of your opponent's Characters −2 cost during this turn.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-095.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-095.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-095_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-096",
+      "name": "Tempest Kick Sky Slicer",
+      "rarity": "UC",
+      "cardType": "EVENT",
+      "color": "Black",
+      "cost": "2",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "CP9",
+      "effect": "[Main] K.O. up to 1 of your opponent's Characters with a cost of 0 or your opponent's Stages with a cost of 3 or less.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-096.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-096.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-096_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-098",
+      "name": "Enies Lobby",
+      "rarity": "C",
+      "cardType": "STAGE",
+      "color": "Black",
+      "cost": "2",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "World Government",
+      "effect": "[Activate: Main] You may rest this Stage: If your Leader's type includes \"CP\", give up to 1 of your opponent's Characters −2 cost during this turn.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-098.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-098.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-098_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-099",
+      "name": "Charlotte Katakuri",
+      "rarity": "L",
+      "cardType": "LEADER",
+      "color": "Yellow",
+      "cost": "5",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Strike",
+      "type": "Big Mom Pirates",
+      "effect": "[DON!! x1] [When Attacking] Look at up to 1 card from the top of your or your opponent's Life cards, and place it at the top or bottom of the Life cards. Then, this Leader gains +1000 power during this battle.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-099.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-099.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-099_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-100",
+      "name": "Kingbaum",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "3",
+      "power": "5000",
+      "counter": "-",
+      "attribute": "Strike",
+      "type": "Big Mom Pirates/Homies",
+      "effect": "-",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-100.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-100.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-100_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-101",
+      "name": "Camie",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "1",
+      "power": "3000",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "Merfolk",
+      "effect": "-",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-101.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-101.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-101_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-102",
+      "name": "Sanji",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "2",
+      "power": "3000",
+      "counter": "2000",
+      "attribute": "Strike",
+      "type": "The Vinsmoke Family",
+      "effect": "[DON!! x2] [When Attacking] You may add 1 card from the top or bottom of your Life cards to your hand: Add up to 1 card from the top of your deck to the top of your Life cards.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-102.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-102.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-102_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-103",
+      "name": "Bobbin the Disposer",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "2",
+      "power": "4000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Big Mom Pirates",
+      "effect": "-",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-103.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-103.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-103_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-104",
+      "name": "Shirley",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "3",
+      "power": "3000",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "Merfolk",
+      "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] Look at up to 1 card from the top of your or your opponent's Life cards, and place it at the top or bottom of the Life cards.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-104.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-104.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-104_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-105",
+      "name": "Charlotte Oven",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "3",
+      "power": "4000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Big Mom Pirates",
+      "effect": "[DON!! x1] [When Attacking] You may trash 1 card with a [Trigger] from your hand: This Character gains +3000 power during this battle.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-105.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-105.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-105_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-106",
+      "name": "Charlotte Opera",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "4",
+      "power": "6000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Big Mom Pirates",
+      "effect": "-",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-106.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-106.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-106_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-107",
+      "name": "Charlotte Galette",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "2",
+      "power": "2000",
+      "counter": "1000",
+      "attribute": "Special",
+      "type": "Big Mom Pirates",
+      "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-107.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-107.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-107_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-109",
+      "name": "Charlotte Chiffon",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "2",
+      "power": "3000",
+      "counter": "-",
+      "attribute": "Wisdom",
+      "type": "Big Mom Pirates",
+      "effect": "[On Play] You may trash 1 card from the top or bottom of your Life cards: Add up to 1 card from the top of your deck to the top of your Life cards.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-109.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-109.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-109_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-111",
+      "name": "Charlotte Praline",
+      "rarity": "C",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "3",
+      "power": "5000",
+      "counter": "1000",
+      "attribute": "Wisdom",
+      "type": "Merfolk/The Sun Pirates",
+      "effect": "-",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-111.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-111.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-111_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-115",
+      "name": "Streusen",
+      "rarity": "R",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "1",
+      "power": "1000",
+      "counter": "2000",
+      "attribute": "Slash",
+      "type": "Big Mom Pirates",
+      "effect": "[On Play] You may trash 1 card with a [Trigger] from your hand: K.O. up to 1 of your opponent's Characters with a cost of 1 or less.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-115.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-115.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-115_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-117",
+      "name": "Napoleon",
+      "rarity": "UC",
+      "cardType": "CHARACTER",
+      "color": "Yellow",
+      "cost": "3",
+      "power": "3000",
+      "counter": "1000",
+      "attribute": "Slash",
+      "type": "Big Mom Pirates/Homies",
+      "effect": "[Activate: Main] You may rest this Character: Up to 1 of your [Charlotte Linlin] cards gains +1000 power until the start of your next turn.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-117.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-117.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-117_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-118",
+      "name": "Ikoku Sovereignty",
+      "rarity": "UC",
+      "cardType": "EVENT",
+      "color": "Yellow",
+      "cost": "2",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "The Four Emperors/Big Mom Pirates",
+      "effect": "[Counter] Up to 1 of your Leader or Character cards gains +5000 power during this battle.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-118.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-118.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-118_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-119",
+      "name": "Buzz Cut Mochi",
+      "rarity": "R",
+      "cardType": "EVENT",
+      "color": "Yellow",
+      "cost": "2",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Big Mom Pirates",
+      "effect": "[Main] If you have less Life cards than your opponent, K.O. up to 1 of your opponent's Characters with a cost of 4 or less.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-119.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-119.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-119_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "OP03-120",
+      "name": "Tropical Torment",
+      "rarity": "C",
+      "cardType": "EVENT",
+      "color": "Yellow",
+      "cost": "3",
+      "power": "-",
+      "counter": "-",
+      "attribute": "",
+      "type": "Big Mom Pirates",
+      "effect": "[Main] If your opponent has 4 or more Life cards, trash up to 1 card from the top of your opponent's Life cards.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/OP03-120.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/OP03-120.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/OP03/OP03-120_EN.webp"
+      ]
+    },
+    {
+      "cardNum": "ST03-009",
+      "name": "Donquixote Doflamingo",
+      "rarity": "SP CARD",
+      "cardType": "CHARACTER",
+      "color": "Blue",
+      "cost": "7",
+      "power": "7000",
+      "counter": "-",
+      "attribute": "Special",
+      "type": "The Seven Warlords of the Sea/Donquixote Pirates",
+      "effect": "[On Play] Return up to 1 Character with a cost of 7 or less to the owner's hand.",
+      "cardSets": "Card Set(s)-PILLARS OF STRENGTH- [OP03]",
+      "img": "https://optcgapi.com/media/static/Card_Images/ST03-009_p1.jpg",
+      "images": [
+        "https://optcgapi.com/media/static/Card_Images/ST03-009_p1.jpg",
+        "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/ST03/ST03-009_EN.webp"
+      ]
+    }
+  ]
+}
